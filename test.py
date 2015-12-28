@@ -1,16 +1,6 @@
-<<<<<<< Updated upstream
 from __future__ import (absolute_import, division,
                         print_function, unicode_literals)
-from builtins import *
-=======
-<<<<<<< HEAD
-from __future__ import print_function
-=======
-from __future__ import (absolute_import, division,
-                        print_function, unicode_literals)
-from builtins import *
->>>>>>> origin/master
->>>>>>> Stashed changes
+#from builtins import *
 from lxml import html
 import requests
 
