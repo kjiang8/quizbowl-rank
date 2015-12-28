@@ -1,6 +1,16 @@
+<<<<<<< Updated upstream
 from __future__ import (absolute_import, division,
                         print_function, unicode_literals)
 from builtins import *
+=======
+<<<<<<< HEAD
+from __future__ import print_function
+=======
+from __future__ import (absolute_import, division,
+                        print_function, unicode_literals)
+from builtins import *
+>>>>>>> origin/master
+>>>>>>> Stashed changes
 from lxml import html
 import requests
 
@@ -8,18 +18,21 @@ page = requests.get('http://www.hsquizbowl.org/db/tournaments/3502/stats/combine
 
 tree = html.fromstring(page.content)
 
-teams = []
+stats = []
 ppb = []
 
-for i in range(11):
+allteams =  tree.xpath('//a/text()') #gets everything in <a> tags
+teams = allteams[15:] #gets only team names
+teams = teams[:len(teams)-3] #removes footer stuff
 
-	teams.append(tree.xpath('//a[@href="tournaments/3502/stats/combined/teamdetail/#t'+ str(i) + '"]/text()'))
-	
-ppb.append(tree.xpath('//td[@align="RIGHT"]/text()'))
+stats.append(tree.xpath('//td[@align="RIGHT"]/text()')) #gets all stats
 
-print(teams)
-print(ppb)
 
-#ppb gets everything with <td align=RIGHT> including all stats
+for i in range(len(teams)):
+	ppb.append(stats[0][17*i+16]) #gets ppb
+
+	print(teams[i], ppb[i])
+
+
 
 
