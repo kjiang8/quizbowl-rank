@@ -4,25 +4,63 @@ from __future__ import (absolute_import, division,
 from lxml import html
 import requests
 
-page = requests.get('http://www.hsquizbowl.org/db/tournaments/3502/stats/combined/')
+def getStats(ID): #gets team stats
 
-tree = html.fromstring(page.content)
+	hasStats = isStats(ID)
 
-stats = []
-ppb = []
+	if hasStats:
 
-allteams =  tree.xpath('//a/text()') #gets everything in <a> tags
-teams = allteams[15:] #gets only team names
-teams = teams[:len(teams)-3] #removes footer stuff
+		page = requests.get('http://www.hsquizbowl.org/db/tournaments/'+ str(ID)+'/stats/all_games/')
 
-stats.append(tree.xpath('//td[@align="RIGHT"]/text()')) #gets all stats
+		tree = html.fromstring(page.content)
+
+		stats = []
+		ppb = []
+		powers = []
+
+		allteams =  tree.xpath('//a/text()') #gets everything in <a> tags
+		teams = allteams[15:] #removes header stuff
+		teams = teams[:len(teams)-3] #removes footer stuff
+
+		stats.append(tree.xpath('//td[@align="RIGHT"]/text()')) #gets all stats
+
+		set = raw_input("what set is this: ")
+
+		f = open('stats','a') #.txt file with everything
+
+		for i in range(len(teams)):
+			ppb.append(stats[0][17*i+16]) #gets ppb
+			powers.append(stats[0][17*i+7]) #gets powers
+
+			string = str([teams[i], str(set), float(ppb[i]), int(powers[i])])
+			
+			f.write(string+"\n")
+			#print(teams[i], ppb[i], powers[i])
 
 
-for i in range(len(teams)):
-	ppb.append(stats[0][17*i+16]) #gets ppb
+		f.close()
 
-	print(teams[i], ppb[i])
+		print("added stats")
 
+	else:
+		print("no stats")
+
+
+def isStats(ID): #checks to see if tournament has stats uplaoded
+	
+	hasStats = False
+
+	home = requests.get('http://www.hsquizbowl.org/db/tournaments/'+str(ID)+'/')
+	tree2 = html.fromstring(home.content)
+
+	reports = tree2.xpath('//ul[@class="Stats NoHeader"]/text()')
+
+	if len(reports) > 0: #there are reports
+		hasStats = True
+
+	print("has stats?: ", hasStats)
+
+	return hasStats
 
 
 
