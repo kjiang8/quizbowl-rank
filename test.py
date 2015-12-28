@@ -1,3 +1,28 @@
+'''
+BACKLOG
+
+identify by column header (ppb, powers, etc) not hardcoding it in [lines 67-68], since some tables are 16 wide and some are 17
+
+automatically remove correct number of header things [line 50], since some are 14 and some 15
+	- i think a simple "if int" should show where the headers end and stats start
+
+try "all_games" and "complete" in url, else user input whatever the stats are
+
+automatically get set name (which is in same url as where isStats looks)
+
+pseudynoms - mohan
+
+remove repeats so rank() spits out ranking of teams, not tournaments
+
+suggestions on how to do actual rankings:
+	- z-scores / equating ppb and powers - mohan?
+	- only take top 3 appb for each team?
+	- calculate powers / game, not just straight powers by getting data from win/loss columns in table
+    - use machine learning to find out which statistic is the best predictor for final placement at tourneys?????????
+
+'''
+
+
 from __future__ import (absolute_import, division,
                         print_function, unicode_literals)
 #from builtins import *
@@ -18,12 +43,11 @@ def getStats(ID): #gets team stats
 
 	if hasStats:
 
-		page = requests.get('http://www.hsquizbowl.org/db/tournaments/'+ str(ID)+'/stats/all_games/')
-
+		page = requests.get('http://www.hsquizbowl.org/db/tournaments/'+ str(ID)+'/stats/open_combined/')
 		tree = html.fromstring(page.content)
 
 		allteams =  tree.xpath('//a/text()') #gets everything in <a> tags
-		teams = allteams[15:] #removes header stuff
+		teams = allteams[14:] #removes header stuff
 		teams = teams[:len(teams)-3] #removes footer stuff
 
 		print(teams)
@@ -81,13 +105,6 @@ def rank():
 
 	with open('stats')as f:
 		content = f.read().splitlines()
-
-	#content = map(lambda x:x.split(),content)
-
-	#print(len(content))
-	#print(content[0])
-	#print(content[0][2])
-	#print(content)
 
 	content = map(lambda x: x.split(','), content)
 
