@@ -2,13 +2,10 @@
 BACKLOG
 
 automatically get set name (which is in same url as where isStats looks)
-
 pseudynoms - mohan
-
-remove repeats so rank() spits out ranking of teams, not tournaments
+remove need for housewrites file, cut content by those only with that housewrite to make things more efficient
 
 '''
-
 
 from __future__ import (absolute_import, division,
                         print_function, unicode_literals)
@@ -17,6 +14,7 @@ from lxml import html
 import requests
 from scipy import stats
 import numpy as np
+import json
 
 def getStats(ID): #gets team stats
 
@@ -94,7 +92,6 @@ def getStats(ID): #gets team stats
 				games.append(int(allstats[0][(ppbIndex-1)*i+(winIndex-2)]) + int(allstats[0][(ppbIndex-1)*i+(lostIndex-2)]) + int(allstats[0][(ppbIndex-1)*i+(tieIndex-2)])) #wins + losses + ties = total games played
 			except IndexError:
 				print('something messed up')
-				pass
 
 			print(teams[i], ppb[i], powers[i], games[i])
 			string = str(teams[i]) + ", " + str(setName) + ", " + str(ppb[i]) + ", " + str(powers[i]) + ', ' + str(games[i])
@@ -122,22 +119,17 @@ def isStats(ID): #checks to see if tournament has stats uplaoded
 		hasStats = True
 
 	print("has stats?: ", hasStats)
-
 	return hasStats
 
 
-def rank(content):
+def rank(content): #ranks things
 
-	sort = sorted(content, key=getKey, reverse=True)
+	sort = sorted(content, key= lambda x: x[2], reverse=True)
 
 	for i in range(25):
 		print(i+1,sort[i][0],sort[i][1],round(sort[i][2],2))
 
-def getKey(item):
-	return item[2] #sort by ppb
-
-
-def adjust(housewrite):
+def adjust(housewrite): #adjusts ppb for housewrites
 
 	stdev, mean = getNAQT()
 	#print(mean, stdev)
@@ -160,36 +152,37 @@ def adjust(housewrite):
 	f = open('appb','a') #.txt file with everything
 
 	for i in range(len(content)):
-		
-		if content[i][1].strip() == housewrite:
-			content[i].append(z[i]) #adds z-score to content
-			content[i].append(z[i]*stdev + mean) #z-score * naqt stdev + naqt mean to calculate appb
-			f.write(content[i][0]+ ", " + content[i][1] + ', ' + str(content[i][6])+"\n")
+		try:
+			if content[i][1].strip() == housewrite:
+				content[i].append(z[i]) #adds z-score to content
+				content[i].append(z[i]*stdev + mean) #z-score * naqt stdev + naqt mean to calculate appb
+				f.write(content[i][0]+ ", " + content[i][1] + ', ' + str(content[i][6])+"\n")
+		except IndexError:
+			pass
 
 	#rank(content)
 
 	f.close()
 
-def getNAQT():
+def getNAQT(): #gets stdev, mean from naqt stats
 
-	with open('naqt')as f:
+	with open('stats')as f:
 		content = f.read().splitlines()
 
 	content = map(lambda x: x.split(','), content)
 
-	#print(len(content))
-
 	a = []
 
 	for i in range(len(content)):
-		a.append(float(content[i][2])) #append float ppb
+		if str(content[i][1][:4].strip()) == 'IS-':	
+			a.append(float(content[i][2])) #append float ppb
 
 	stdev = np.std(a)
 	mean = np.mean(a)
 
 	return(stdev, mean)
 
-def getAPPB():
+def getAPPB(): #ranks appb, but teams are repeated
 	with open('appb')as f:
 		content = f.read().splitlines()
 
@@ -201,4 +194,59 @@ def getAPPB():
 	#print(content)
 
 	rank(content)
+
+
+def makeDict():
+	oldDict = {}
+	try:
+		oldDict = json.load(open('dict.txt'))
+		#print(oldDict)
+	except ValueError:
+		oldDict = {}
+		print('no json')
+
+	with open('appb')as f:
+		content = f.read().splitlines()
+
+	content = map(lambda x: x.split(','), content)
+
+	for i in range(len(content)):
+		content[i][2] = float(content[i][2]) #append float ppb
+		if content[i][0] in oldDict: #already have a team entry
+			oldDict[content[i][0]][content[i][1].strip()] = content[i][2] #adds set name, ppb as entries in dict
+		else: #making new key for team
+			oldDict[content[i][0]] = {content[i][1].strip(): content[i][2]}
+
+	json.dump(oldDict, open('dict.txt','w'))
+	#print(oldDict)
+	rankinglist(oldDict)
+
+
+
+def sortingDict(d): #sorts all aPPB for each team high to low
+	#d = dictionary
+	for key in d:
+		d[key] = sorted(d[key].values(), reverse=True)
+	return d
+
+def rankinglist(d): #takes top 3 appb of each team, averages, prints sorted list
+	
+	b = []
+
+	sortingDict(d)
+	#print(d)
+
+	for key in d:
+		if len(d[key]) > 3:
+			b.append([key,round(np.mean(d[key][:3]),3)]) #takes top 3 average
+		else:
+			b.append([key, round(np.mean(d[key]),3)]) #takes average of all
+
+	#print(b)
+
+	sort = sorted(b, key=lambda x: x[1], reverse=True)
+	#print(sort)
+
+	for i in range(25):
+		print(i+1,sort[i][0],round(sort[i][1],2))
 
