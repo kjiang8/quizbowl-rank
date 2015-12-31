@@ -45,7 +45,7 @@ Livingston A,  IS-148,  21.82
 Lehigh Valley Academy,  IS-148,  19.81
 St. Joseph A,  IS-148,  19.79
 Pingry A,  IS-148,  18.18
-Wilmington Charter A,  IS-148,  18.68
+Wilmington Charter B,  IS-148,  18.68
 Middlesex County Academy A,  IS-148,  19.45
 Livingston B,  IS-148,  18.74
 Henderson A,  IS-148,  19.08
@@ -53,11 +53,11 @@ State College B,  IS-148,  16.70
 St. Joseph B,  IS-148,  16.33
 Henderson B,  IS-148,  11.67
 East Brunswick B,  IS-148,  18.00
-Wilmington Charter B,  IS-148,  16.76
+Wilmington Charter C,  IS-148,  16.76
 Livingston C,  IS-148,  16.48
 Kellenberg B,  IS-148,  14.29
 Livingston D,  IS-148,  13.17
-Wilmington Charter C,  IS-148,  15.60
+Wilmington Charter D,  IS-148,  15.60
 Kellenberg A,  IS-148,  17.93
 MAST A,  IS-148,  10.18
 Middlesex County Academy C,  IS-148,  9.40
@@ -176,133 +176,133 @@ Tenafly MS,  IS-152,  10.83
 Bergenfield B,  IS-152,  10.54
 Bergenfield C,  IS-152,  5.19
 Team USA,  IS-152,  0.00
-Lexington A,  BASK, 22.6388075234
-Bethlehem,  BASK, 22.6388075234
-High Tech A,  BASK, 21.6961032687
-GNS A,  BASK, 19.8005581545
-Bergen A,  BASK, 19.567416242
-East Brunswick A,  BASK, 20.9257212972
-Hunter A,  BASK, 21.6150104296
-Livingston A,  BASK, 19.0504493927
-Port Jefferson A,  BASK, 18.7868976656
-Acton-Boxborough A,  BASK, 15.2390859545
-Hunter B,  BASK, 14.549796822
-Livingston B,  BASK, 16.9521721807
-Half Hollow Hills East,  BASK, 16.4149321216
-St. Joseph A,  BASK, 16.0702875554
-East Brunswick B,  BASK, 15.6850965696
-Smithtown West A,  BASK, 13.5868193576
-High Tech B,  BASK, 16.2426098385
-Kellenberg A,  BASK, 15.9486482967
-North Babylon A,  BASK, 13.2117649767
-Kellenberg B,  BASK, 12.816437386
-Gotham,  BASK, 14.6207530562
-Half Hollow Hills West,  BASK, 13.3536774451
-Bronx Science A,  BASK, 12.8975302251
-Livingston C,  BASK, 13.9618737384
-GNS B,  BASK, 11.6203180091
-Bergen B,  BASK, 12.542749054
-Preston,  BASK, 8.82261505975
-GNS C,  BASK, 7.50485642419
-Bronx Science B,  BASK, 7.53526623885
-North Babylon B,  BASK, 8.08264290286
-Cardinal Spellman,  BASK, 9.93764159753
-Smithtown West B,  BASK, 6.17696118373
-Wilmington Charter D,  BASK, 14.1544692313
-Wilmington Charter F,  BASK, 12.5326124491
-Stonewold,  BASK, 1.3418006517
-Turk's Head B,  BASK, 11.1844439989
-Moorestown Friends,  BASK, 5.68026754417
-Wilmington Charter G,  BASK, 7.34267074596
-Richard Montgomery A,  BASK, 21.1689998145
-Wilmington Charter B,  BASK, 18.0671987185
-Great Valley A,  BASK, 16.2020634189
-C. Milton Wright,  BASK, 12.0764652291
-Richard Montgomery B,  BASK, 19.1011324171
-Richard Montgomery C,  BASK, 16.6987570585
-Turk's Head A,  BASK, 16.9318989709
-Caesar Rodney,  BASK, 12.7049347322
-High Tech A,  CALI, 22.2078300722
-Wilmington Charter A,  CALI, 23.3065608737
-East Brunswick A,  CALI, 21.4260408481
-Great Valley A,  CALI, 18.1615426014
-PALCS A,  CALI, 18.3834017056
-Delaware Valley A,  CALI, 18.5524372135
-High Tech C ,  CALI, 14.4110672695
-High Tech B,  CALI, 12.0762643164
-Carlisle ,  CALI, 13.4179836605
-East Brunswick B,  CALI, 12.0023112817
-Wissahickon A,  CALI, 11.9811818432
-Central Bucks East A,  CALI, 12.1185231934
-Wilmington Charter B,  CALI, 13.7771841148
-Gunston,  CALI, 9.48790810139
-Wilmington Charter C,  CALI, 8.04054156485
-Delaware Valley B,  CALI, 6.94181076338
-Great Valley B,  CALI, 9.72033192478
-Quince Orchard,  UMD Fall, 20.3006809689
-Thomas Jefferson A,  UMD Fall, 21.1702168539
-Wilmington Charter A,  UMD Fall, 20.1749649373
-Manheim Township A,  UMD Fall, 19.8501985224
-Centennial A,  UMD Fall, 20.6778290636
-Centennial B,  UMD Fall, 16.0996702473
-Thomas Jefferson B,  UMD Fall, 18.813041262
-Maggie Walker,  UMD Fall, 18.3939878234
-Georgetown Day A,  UMD Fall, 16.183480935
-Walter Johnson,  UMD Fall, 14.9263206193
-Thomas Jefferson C,  UMD Fall, 13.1872488493
-Longfellow,  UMD Fall, 13.6482076317
-St. Anselm's Abbey,  UMD Fall, 16.7282504052
-Eleanor Roosevelt,  UMD Fall, 13.1139144975
-Howard,  UMD Fall, 9.83482134079
-Manheim Township B,  UMD Fall, 10.8824549372
-Centennial C,  UMD Fall, 10.5786411942
-Georgetown Day B,  UMD Fall, 9.15385950313
-Pikesville,  UMD Fall, 9.46814958205
-John Carroll,  UMD Fall, 5.21475718063
-Centennial D,  UMD Fall, 5.49761825166
-Bethlehem,  Harvard, 20.9256340197
-Hunter A,  Harvard, 20.2266885602
-Wilmington Charter A,  Harvard, 21.6245794793
-Dunbar,  Harvard, 20.3772306592
-Acton-Boxborough A,  Harvard, 14.4200647424
-Lexington A,  Harvard, 21.1729531823
-Bishop Guertin,  Harvard, 19.4524720511
-AMSA A,  Harvard, 20.7105738783
-Hunter B,  Harvard, 16.7964793049
-Hingham,  Harvard, 14.8824440464
-Phillips Andover A,  Harvard, 17.5384367927
-Wilmington Charter C,  Harvard, 14.2265106152
-St. John's,  Harvard, 16.6351841988
-Lexington B,  Harvard, 15.7641906262
-Ridgewood B,  Harvard, 8.96829015798
-Wilmington Charter B,  Harvard, 15.9362387393
-Needham,  Harvard, 10.8285603811
-Ridgewood A,  Harvard, 12.6995836112
-Phillips Andover A,  Harvard, 13.0651858516
-Acton-Boxborough B,  Harvard, 8.93603113677
-Lexington C,  Harvard, 8.01127252876
-AMSA C,  Harvard, 9.08657323575
-AMSA B,  Harvard, 10.8823254164
-Phillips Andover A,  Harvard, 11.4952468194
-Lexington D,  Harvard, 6.14024929859
-Walnut Hill,  Harvard, 5.45205684612
-Bethlehem,  LIMIT, 23.5745323325
-Phillips Andover A,  LIMIT, 20.6407644799
-Bishop Guertin,  LIMIT, 23.7446058312
-Hunter A,  LIMIT, 17.976279667
-Phillips Andover A,  LIMIT, 18.5290185378
-Belmont,  LIMIT, 17.7353422105
-Acton-Boxborough A,  LIMIT, 16.1054711813
-Needham,  LIMIT, 13.7527877826
-EO Smith A,  LIMIT, 17.5085775456
-EO Smith B,  LIMIT, 16.9274930917
-Lexington A,  LIMIT, 11.6693874235
-Boston Latin,  LIMIT, 11.3859315924
-BC High,  LIMIT, 9.45843194043
-Phillips Andover B,  LIMIT, 11.4142771755
-Brookline,  LIMIT, 10.7765015554
-Acton-Boxborough B,  LIMIT, 11.3575860092
-Newton South,  LIMIT, 13.0724937878
-AMSA A,  LIMIT, 9.41591356576
-St. John Paul II,  LIMIT, 7.27582204045
-Lexington B,  LIMIT, 7.10574854175
+Lexington A,  BASK, 25.4236787532
+Bethlehem,  BASK, 25.4236787532
+High Tech A,  BASK, 24.5374729472
+GNS A,  BASK, 22.7555322406
+Bergen A,  BASK, 22.5363630628
+East Brunswick A,  BASK, 23.8132617509
+Hunter A,  BASK, 24.4612401897
+Livingston A,  BASK, 22.0503792337
+Port Jefferson A,  BASK, 21.8026227719
+Acton-Boxborough A,  BASK, 18.4674396312
+Hunter B,  BASK, 17.8194611924
+Livingston B,  BASK, 20.0778566334
+Half Hollow Hills East,  BASK, 19.572814615
+St. Joseph A,  BASK, 19.2488253956
+East Brunswick B,  BASK, 18.8867197974
+Smithtown West A,  BASK, 16.9141971971
+High Tech B,  BASK, 19.4108200053
+Kellenberg A,  BASK, 19.1344762593
+North Babylon A,  BASK, 16.5616206937
+Kellenberg B,  BASK, 16.1899860008
+Gotham,  BASK, 17.8861648552
+Half Hollow Hills West,  BASK, 16.6950280193
+Bronx Science A,  BASK, 16.2662187583
+Livingston C,  BASK, 17.2667737005
+GNS B,  BASK, 15.0655528277
+Bergen B,  BASK, 15.9327004443
+Preston,  BASK, 12.4355226939
+GNS C,  BASK, 11.1967403845
+Bronx Science B,  BASK, 11.2253276686
+North Babylon B,  BASK, 11.7398987817
+Cardinal Spellman,  BASK, 13.4837231096
+Smithtown West B,  BASK, 9.94842898044
+Wilmington Charter D,  BASK, 17.4478264996
+Wilmington Charter F,  BASK, 15.9231713496
+Stonewold,  BASK, 5.40305081444
+Turk's Head B,  BASK, 14.6558017561
+Moorestown Friends,  BASK, 9.48150334075
+Wilmington Charter G,  BASK, 11.0442748695
+Richard Montgomery A,  BASK, 24.0419600234
+Wilmington Charter B,  BASK, 21.126057049
+Great Valley A,  BASK, 19.3727036265
+C. Milton Wright,  BASK, 15.4943620886
+Richard Montgomery B,  BASK, 22.0980247072
+Richard Montgomery C,  BASK, 19.8396292662
+Turk's Head A,  BASK, 20.058798444
+Caesar Rodney,  BASK, 16.0851659593
+High Tech A,  CALI, 25.0185307785
+Wilmington Charter A,  CALI, 26.051412099
+East Brunswick A,  CALI, 24.2835959928
+Great Valley A,  CALI, 21.2147466846
+PALCS A,  CALI, 21.423309259
+Delaware Valley A,  CALI, 21.5822140775
+High Tech C ,  CALI, 17.6890460232
+High Tech B,  CALI, 15.4941732171
+Carlisle ,  CALI, 16.7554802143
+East Brunswick B,  CALI, 15.424652359
+Wissahickon A,  CALI, 15.4047892567
+Central Bucks East A,  CALI, 15.5338994217
+Wilmington Charter B,  CALI, 17.0931529537
+Gunston,  CALI, 13.0609431832
+Wilmington Charter C,  CALI, 11.7003206744
+Delaware Valley B,  CALI, 10.6674393538
+Great Valley B,  CALI, 13.2794373087
+Quince Orchard,  UMD Fall, 23.2256815368
+Thomas Jefferson A,  UMD Fall, 24.0431041229
+Wilmington Charter A,  UMD Fall, 23.1074999581
+Manheim Township A,  UMD Fall, 22.8021975464
+Centennial A,  UMD Fall, 23.5802262729
+Centennial B,  UMD Fall, 19.2764471148
+Thomas Jefferson B,  UMD Fall, 21.827199522
+Maggie Walker,  UMD Fall, 21.4332609263
+Georgetown Day A,  UMD Fall, 19.3552348339
+Walter Johnson,  UMD Fall, 18.1734190468
+Thomas Jefferson C,  UMD Fall, 16.5385738746
+Longfellow,  UMD Fall, 16.9719063299
+St. Anselm's Abbey,  UMD Fall, 19.8673550083
+Eleanor Roosevelt,  UMD Fall, 16.4696346203
+Howard,  UMD Fall, 13.3870651089
+Manheim Township B,  UMD Fall, 14.3719115981
+Centennial C,  UMD Fall, 14.0863061163
+Georgetown Day B,  UMD Fall, 12.7469148908
+Pikesville,  UMD Fall, 13.0423688376
+John Carroll,  UMD Fall, 9.04389209114
+Centennial D,  UMD Fall, 9.30980064325
+Bethlehem,  Harvard, 23.8131797043
+Hunter A,  Harvard, 23.1561236644
+Wilmington Charter A,  Harvard, 24.4702357441
+Dunbar,  Harvard, 23.2976434269
+Acton-Boxborough A,  Harvard, 17.6975042568
+Lexington A,  Harvard, 24.0456764568
+Bishop Guertin,  Harvard, 22.4283077434
+AMSA A,  Harvard, 23.6110086151
+Hunter B,  Harvard, 19.9314947921
+Hingham,  Harvard, 18.1321720985
+Phillips Andover A,  Harvard, 20.6289850498
+Wilmington Charter C,  Harvard, 17.5155502765
+St. John's,  Harvard, 19.7798664752
+Lexington B,  Harvard, 18.9610735641
+Ridgewood B,  Harvard, 12.5724671462
+Wilmington Charter B,  Harvard, 19.1228104354
+Needham,  Harvard, 14.3212470676
+Ridgewood A,  Harvard, 16.0801355434
+Phillips Andover A,  Harvard, 16.423826395
+Acton-Boxborough B,  Harvard, 12.5421414828
+Lexington C,  Harvard, 11.6728057994
+AMSA C,  Harvard, 12.6836612453
+AMSA B,  Harvard, 14.3717898399
+Phillips Andover A,  Harvard, 14.947977444
+Lexington D,  Harvard, 9.91391732358
+Walnut Hill,  Harvard, 9.26696983823
+Bethlehem,  LIMIT, 26.3033234079
+Phillips Andover A,  LIMIT, 23.5453830556
+Bishop Guertin,  LIMIT, 26.463204008
+Hunter A,  LIMIT, 21.0405869868
+Phillips Andover A,  LIMIT, 21.5601989372
+Belmont,  LIMIT, 20.81408947
+Acton-Boxborough A,  LIMIT, 19.2819003853
+Needham,  LIMIT, 17.0702187501
+EO Smith A,  LIMIT, 20.6009153364
+EO Smith B,  LIMIT, 20.0546566193
+Lexington B,  LIMIT, 15.1116813985
+Boston Latin,  LIMIT, 14.8452137316
+BC High,  LIMIT, 13.0332335968
+Phillips Andover B,  LIMIT, 14.8718604983
+Brookline,  LIMIT, 14.2723082478
+Acton-Boxborough B,  LIMIT, 14.8185669649
+Newton South,  LIMIT, 16.4306963496
+AMSA A,  LIMIT, 12.9932634467
+St. John Paul II,  LIMIT, 10.9814325617
+Lexington C,  LIMIT, 10.8215519616

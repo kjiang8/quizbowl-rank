@@ -45,7 +45,7 @@ Livingston A, IS-148, 21.82, 52, 10
 Lehigh Valley Academy, IS-148, 19.81, 72, 10
 St. Joseph A, IS-148, 19.79, 38, 10
 Pingry A, IS-148, 18.18, 38, 10
-Wilmington Charter A, IS-148, 18.68, 28, 10
+Wilmington Charter B, IS-148, 18.68, 28, 10
 Middlesex County Academy A, IS-148, 19.45, 50, 10
 Livingston B, IS-148, 18.74, 29, 10
 Henderson A, IS-148, 19.08, 32, 10
@@ -53,11 +53,11 @@ State College B, IS-148, 16.70, 37, 10
 St. Joseph B, IS-148, 16.33, 26, 10
 Henderson B, IS-148, 11.67, 12, 10
 East Brunswick B, IS-148, 18.00, 42, 10
-Wilmington Charter B, IS-148, 16.76, 33, 10
+Wilmington Charter C, IS-148, 16.76, 33, 10
 Livingston C, IS-148, 16.48, 24, 10
 Kellenberg B, IS-148, 14.29, 23, 10
 Livingston D, IS-148, 13.17, 18, 10
-Wilmington Charter C, IS-148, 15.60, 21, 10
+Wilmington Charter D, IS-148, 15.60, 21, 10
 Kellenberg A, IS-148, 17.93, 35, 10
 MAST A, IS-148, 10.18, 3, 10
 Middlesex County Academy C, IS-148, 9.40, 9, 10
@@ -296,7 +296,7 @@ Acton-Boxborough A, LIMIT, 15.52, 15, 10
 Needham, LIMIT, 13.86, 15, 10
 EO Smith A, LIMIT, 16.51, 13, 9
 EO Smith B, LIMIT, 16.10, 22, 9
-Lexington A, LIMIT, 12.39, 23, 9
+Lexington B, LIMIT, 12.39, 23, 9
 Boston Latin, LIMIT, 12.19, 8, 9
 BC High, LIMIT, 10.83, 8, 9
 Phillips Andover B, LIMIT, 12.21, 6, 9
@@ -305,4 +305,4 @@ Acton-Boxborough B, LIMIT, 12.17, 12, 9
 Newton South, LIMIT, 13.38, 9, 9
 AMSA A, LIMIT, 10.80, 9, 9
 St. John Paul II, LIMIT, 9.29, 6, 9
-Lexington B, LIMIT, 9.17, 1, 9
+Lexington C, LIMIT, 9.17, 1, 9
