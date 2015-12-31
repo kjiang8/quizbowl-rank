@@ -7,13 +7,13 @@ Stuyvesant, IS-150, 15.28, 21, 10
 High Tech A, IS-150, 23.64, 101, 11
 Bergen A, IS-150, 22.42, 66, 11
 Millburn A, IS-150, 22.12, 55, 11
-Port Jeff A, IS-150, 18.97, 47, 10
-E Brunswick A, IS-150, 19.27, 64, 10
+Port Jefferson A, IS-150, 18.97, 47, 10
+East Brunswick A, IS-150, 19.27, 64, 10
 St. Joseph A, IS-150, 19.23, 51, 10
 Millburn B, IS-150, 18.14, 32, 10
 Bergen B, IS-150, 16.06, 34, 10
 North Babylon A, IS-150, 15.82, 34, 10
-Smithtown W A, IS-150, 16.28, 28, 10
+Smithtown West A, IS-150, 16.28, 28, 10
 Livingston C, IS-150, 18.47, 29, 10
 Livingston B, IS-150, 15.49, 23, 10
 St. Joseph B, IS-150, 14.66, 24, 10
@@ -21,9 +21,9 @@ Wheatley A, IS-150, 13.01, 41, 10
 Kings Park B, IS-150, 14.22, 20, 10
 GNS B, IS-150, 15.26, 21, 10
 VSS A, IS-150, 13.04, 12, 10
-E Brunswick B, IS-150, 14.44, 21, 10
+East Brunswick B, IS-150, 14.44, 21, 10
 VSS B, IS-150, 11.90, 9, 10
-E Brunswick C, IS-150, 11.32, 13, 10
+East Brunswick C, IS-150, 11.32, 13, 10
 Mountain Lakes B, IS-150, 8.65, 9, 10
 North Babylon B, IS-150, 9.82, 10, 10
 Kings Park C, IS-150, 10.25, 8, 10
@@ -32,8 +32,8 @@ North Shore, IS-150, 10.73, 7, 10
 N Babylon/Kings Pk C, IS-150, 9.41, 5, 10
 Wheatley B, IS-150, 7.98, 6, 10
 Livingston D, IS-150, 8.91, 3, 10
-Port Jeff B, IS-150, 9.46, 4, 10
-Smithtown W B, IS-150, 9.57, 6, 10
+Port Jefferson B, IS-150, 9.46, 4, 10
+Smithtown West B, IS-150, 9.57, 6, 10
 Bethlehem, IS-148, 23.33, 104, 12
 High Tech A, IS-148, 24.53, 101, 12
 East Brunswick A, IS-148, 23.07, 78, 12
@@ -70,16 +70,16 @@ MAST B, IS-148, 11.38, 9, 10
 Middlesex County Academy B, IS-148, 8.45, 14, 10
 Pingry B, IS-148, 10.00, 6, 10
 Biotech B, IS-148, 7.65, 5, 10
-Lexington, BASK, 25.30, 108, 12
+Lexington A, BASK, 25.30, 108, 12
 Bethlehem, BASK, 25.30, 106, 12
 High Tech A, BASK, 24.37, 99, 12
-West Egg A, BASK, 22.50, 73, 12
+GNS A, BASK, 22.50, 73, 12
 Bergen A, BASK, 22.27, 55, 10
 East Brunswick A, BASK, 23.61, 72, 10
 Hunter A, BASK, 24.29, 66, 10
 Livingston A, BASK, 21.76, 44, 10
-GOSAT, BASK, 21.50, 44, 10
-Acton-Boxborough, BASK, 18.00, 28, 10
+Port Jefferson A, BASK, 21.50, 44, 10
+Acton-Boxborough A, BASK, 18.00, 28, 10
 Hunter B, BASK, 17.32, 25, 10
 Livingston B, BASK, 19.69, 25, 10
 Half Hollow Hills East, BASK, 19.16, 27, 10
@@ -94,10 +94,10 @@ Gotham, BASK, 17.39, 23, 10
 Half Hollow Hills West, BASK, 16.14, 36, 10
 Bronx Science A, BASK, 15.69, 20, 10
 Livingston C, BASK, 16.74, 10, 10
-West Egg B, BASK, 14.43, 18, 10
+GNS B, BASK, 14.43, 18, 10
 Bergen B, BASK, 15.34, 11, 10
 Preston, BASK, 11.67, 3, 10
-West Egg C, BASK, 10.37, 9, 10
+GNS C, BASK, 10.37, 9, 10
 Bronx Science B, BASK, 10.40, 1, 10
 North Babylon B, BASK, 10.94, 2, 10
 Cardinal Spellman, BASK, 12.77, 4, 10
@@ -106,7 +106,7 @@ High Tech A, CALI, 24.45, 120, 11
 Wilmington Charter A, CALI, 25.49, 99, 10
 East Brunswick A, CALI, 23.71, 82, 11
 Great Valley A, CALI, 20.62, 75, 11
-PALCS , CALI, 20.83, 52, 9
+PALCS A, CALI, 20.83, 52, 9
 Delaware Valley A, CALI, 20.99, 52, 8
 High Tech C , CALI, 17.07, 33, 9
 High Tech B, CALI, 14.86, 38, 8
@@ -119,3 +119,190 @@ Gunston, CALI, 12.41, 16, 8
 Wilmington Charter C, CALI, 11.04, 15, 8
 Delaware Valley B, CALI, 10.00, 15, 8
 Great Valley B, CALI, 12.63, 18, 8
+Quince Orchard, UMD Fall, 23.32, 77, 10
+Thomas Jefferson A, UMD Fall, 24.15, 71, 10
+Wilmington Charter A, UMD Fall, 23.20, 73, 10
+Manheim Township A, UMD Fall, 22.89, 41, 10
+Centennial A, UMD Fall, 23.68, 62, 10
+Centennial B, UMD Fall, 19.31, 40, 10
+Thomas Jefferson B, UMD Fall, 21.90, 43, 10
+Maggie Walker, UMD Fall, 21.50, 62, 10
+Georgetown Day A, UMD Fall, 19.39, 37, 10
+Walter Johnson, UMD Fall, 18.19, 41, 10
+Thomas Jefferson C, UMD Fall, 16.53, 35, 10
+Longfellow, UMD Fall, 16.97, 41, 10
+St. Anselm's Abbey, UMD Fall, 19.91, 38, 10
+Eleanor Roosevelt, UMD Fall, 16.46, 15, 10
+Howard, UMD Fall, 13.33, 17, 10
+Manheim Township B, UMD Fall, 14.33, 10, 9
+Centennial C, UMD Fall, 14.04, 10, 10
+Georgetown Day B, UMD Fall, 12.68, 22, 10
+Pikesville, UMD Fall, 12.98, 15, 9
+John Carroll, UMD Fall, 8.92, 8, 9
+Centennial D, UMD Fall, 9.19, 4, 9
+Darien A, IS-148, 22.57, 83, 11
+Delaware Valley A, IS-148, 21.63, 75, 11
+Darien B, IS-148, 17.08, 46, 10
+Darien C, IS-148, 14.84, 16, 10
+Ithaca A, IS-148, 20.77, 75, 11
+Manheim Township A, IS-148, 22.61, 83, 11
+Northmont, IS-148, 16.06, 32, 10
+Manheim Township B, IS-148, 16.34, 33, 10
+Lakeland A, IS-148, 15.71, 21, 10
+Ithaca B, IS-148, 14.32, 15, 10
+Wallenpaupeck, IS-148, 9.67, 10, 10
+Ithaca C, IS-148, 11.58, 4, 10
+Wyoming Area A, IS-148, 11.19, 8, 10
+Lakeland B, IS-148, 10.26, 5, 10
+Moravian A, IS-148, 8.65, 5, 10
+Delaware Valley B, IS-148, 10.57, 13, 10
+Wilmington Charter D, BASK, 16.93, 18, 10
+Wilmington Charter F, BASK, 15.33, 7, 10
+Stonewold, BASK, 4.29, 2, 10
+Turk's Head B, BASK, 14.00, 12, 10
+Moorestown Friends, BASK, 8.57, 9, 10
+Wilmington Charter G, BASK, 10.21, 8, 10
+Richard Montgomery A, BASK, 23.85, 102, 12
+Wilmington Charter B, BASK, 20.79, 59, 12
+Great Valley A, BASK, 18.95, 34, 10
+C. Milton Wright, BASK, 14.88, 11, 10
+Richard Montgomery B, BASK, 21.81, 66, 12
+Richard Montgomery C, BASK, 19.44, 40, 10
+Turk's Head A, BASK, 19.67, 33, 12
+Caesar Rodney, BASK, 15.50, 9, 10
+Wilmington Charter A, IS-148, 22.31, 92, 11
+Great Valley High School, IS-148, 19.05, 61, 11
+Wilmington Charter B, IS-148, 14.52, 31, 10
+Wilmington Charter C, IS-148, 16.08, 19, 11
+Wilmington Charter D, IS-148, 11.46, 7, 11
+Caesar Rodney, IS-148, 8.00, 4, 10
+Bethlehem, Harvard, 22.08, 43, 9
+Hunter A, Harvard, 21.43, 57, 9
+Wilmington Charter A, Harvard, 22.73, 46, 9
+Dunbar, Harvard, 21.57, 21, 9
+Acton-Boxborough A, Harvard, 16.03, 5, 9
+Lexington A, Harvard, 22.31, 57, 10
+Bishop Guertin, Harvard, 20.71, 24, 9
+AMSA A, Harvard, 21.88, 50, 9
+Hunter B, Harvard, 18.24, 21, 9
+Hingham, Harvard, 16.46, 10, 8
+Phillips Andover A, Harvard, 18.93, 41, 10
+Wilmington Charter C, Harvard, 15.85, 11, 8
+St. John's, Harvard, 18.09, 26, 8
+Lexington B, Harvard, 17.28, 17, 9
+Ridgewood B, Harvard, 10.96, 2, 8
+Wilmington Charter B, Harvard, 17.44, 19, 9
+Needham, Harvard, 12.69, 10, 9
+Ridgewood A, Harvard, 14.43, 19, 9
+Phillips Andover A, Harvard, 14.77, 8, 8
+Acton-Boxborough B, Harvard, 10.93, 6, 8
+Lexington C, Harvard, 10.07, 6, 9
+AMSA C, Harvard, 11.07, 5, 9
+AMSA B, Harvard, 12.74, 18, 10
+Phillips Andover A, Harvard, 13.31, 3, 10
+Lexington D, Harvard, 8.33, 1, 9
+Walnut Hill, Harvard, 7.69, 5, 9
+Lehigh Valley Academy, IS-150, 21.61, 59, 11
+Great Valley A, IS-150, 19.65, 68, 11
+Manheim Township B, IS-150, 18.89, 46, 10
+Cedar Crest A, IS-150, 19.23, 44, 10
+Downingtown East A, IS-150, 15.56, 19, 10
+PALCS B, IS-150, 12.67, 10, 10
+Manheim Township A, IS-150, 22.44, 79, 11
+PALCS A, IS-150, 20.68, 55, 11
+Manheim Township C, IS-150, 17.78, 27, 10
+West Chester East A, IS-150, 18.53, 35, 10
+Emmaus, IS-150, 17.73, 30, 10
+Great Valley B, IS-150, 14.30, 24, 10
+Cedar Crest B, IS-150, 17.77, 18, 10
+West Chester East B, IS-150, 14.54, 10, 10
+West Chester East D, IS-150, 11.30, 5, 10
+Great Valley C, IS-150, 8.73, 14, 10
+Renaissance A, IS-150, 10.19, 8, 10
+Renaissance C, IS-150, 7.70, 4, 10
+Downingtown East B, IS-150, 13.25, 19, 10
+West Chester East C, IS-150, 12.23, 11, 10
+Manheim Township D, IS-150, 14.10, 16, 10
+Downingtown East C, IS-150, 8.96, 10, 10
+Renaissance B, IS-150, 9.68, 4, 10
+Great Valley D, IS-150, 3.48, 3, 10
+Ithaca A, IS-150, 21.68, 72, 11
+Delaware Valley A, IS-150, 22.19, 53, 11
+Lakeland, IS-150, 16.04, 26, 11
+Ithaca B, IS-150, 14.44, 25, 11
+Emma Willard, IS-150, 13.25, 16, 11
+Moravian A, IS-150, 13.91, 13, 11
+Brighton A, IS-150, 20.91, 59, 11
+Lisgar, IS-150, 19.86, 49, 11
+Fillmore, IS-150, 12.07, 13, 11
+Geneva A, IS-150, 13.13, 21, 11
+Wallenpaupack, IS-150, 15.31, 9, 11
+Mountain View, IS-150, 9.57, 10, 11
+Brighton B, IS-150, 14.83, 20, 10
+Amherst B, IS-150, 12.22, 21, 10
+Southern Cayuga A, IS-150, 13.78, 13, 10
+Notre Dame, IS-150, 12.97, 20, 10
+Wyoming Area B, IS-150, 12.69, 13, 10
+Greene, IS-150, 10.32, 12, 10
+Amherst A, IS-150, 11.88, 11, 10
+Wyoming Area A, IS-150, 13.38, 6, 10
+Moravian B, IS-150, 9.09, 12, 10
+Delaware Valley B, IS-150, 11.64, 13, 10
+Ithaca D, IS-150, 9.67, 9, 10
+Geneva B, IS-150, 8.33, 8, 10
+Ithaca E, IS-150, 10.61, 15, 10
+Ithaca C, IS-150, 10.28, 9, 10
+Berwick A, IS-150, 12.76, 8, 10
+Marcus Whitman A, IS-150, 8.12, 4, 10
+Pioneer, IS-150, 9.80, 13, 10
+Whitney Point A, IS-150, 10.45, 7, 10
+Southern Cayuga B, IS-150, 11.37, 5, 10
+Whitney Point B, IS-150, 9.26, 6, 10
+Berwick B, IS-150, 9.73, 4, 10
+Marcus Whitman B, IS-150, 8.16, 4, 10
+Dundee, IS-150, 7.00, 4, 10
+Pittsford Mendon, IS-150, 5.00, 0, 10
+Manheim Township A, IS-152, 20.16, 52, 10
+Millburn A, IS-152, 19.58, 36, 10
+Manheim Township B, IS-152, 15.73, 36, 10
+Kellenberg A, IS-152, 18.37, 17, 10
+Livingston A, IS-152, 19.79, 29, 8
+Livingston C, IS-152, 16.91, 23, 8
+Middlesex A, IS-152, 19.87, 34, 8
+Manheim Township C, IS-152, 14.10, 18, 8
+Millburn B, IS-152, 19.45, 27, 8
+Kellenberg B, IS-152, 11.87, 8, 8
+Middlesex B, IS-152, 13.54, 6, 8
+Manheim Township D, IS-152, 9.35, 5, 8
+Livingston B, IS-152, 20.00, 20, 8
+Northern Highlands C, IS-152, 14.93, 14, 8
+Kellenberg C, IS-152, 8.82, 2, 8
+Northern Highlands B, IS-152, 6.90, 2, 8
+Northern Highlands A, IS-152, 13.12, 11, 7
+Livingston D, IS-152, 13.48, 6, 8
+Bergenfield A, IS-152, 10.61, 6, 7
+Kellenberg D, IS-152, 7.89, 3, 8
+Tenafly MS, IS-152, 10.83, 4, 5
+Bergenfield B, IS-152, 10.54, 3, 7
+Bergenfield C, IS-152, 5.19, 5, 7
+Team USA, IS-152, 0.00, 0, 5
+Bethlehem, LIMIT, 20.79, 62, 11
+Phillips Andover A, LIMIT, 18.72, 48, 10
+Bishop Guertin, LIMIT, 20.91, 37, 11
+Hunter A, LIMIT, 16.84, 41, 10
+Phillips Andover A, LIMIT, 17.23, 23, 10
+Belmont, LIMIT, 16.67, 16, 10
+Acton-Boxborough A, LIMIT, 15.52, 15, 10
+Needham, LIMIT, 13.86, 15, 10
+EO Smith A, LIMIT, 16.51, 13, 9
+EO Smith B, LIMIT, 16.10, 22, 9
+Lexington A, LIMIT, 12.39, 23, 9
+Boston Latin, LIMIT, 12.19, 8, 9
+BC High, LIMIT, 10.83, 8, 9
+Phillips Andover B, LIMIT, 12.21, 6, 9
+Brookline, LIMIT, 11.76, 14, 9
+Acton-Boxborough B, LIMIT, 12.17, 12, 9
+Newton South, LIMIT, 13.38, 9, 9
+AMSA A, LIMIT, 10.80, 9, 9
+St. John Paul II, LIMIT, 9.29, 6, 9
+Lexington B, LIMIT, 9.17, 1, 9

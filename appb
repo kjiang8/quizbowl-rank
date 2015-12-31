@@ -1,52 +1,3 @@
-High Tech A,  CALI, 23.2392380848
-Wilmington Charter A,  CALI, 24.3247501421
-East Brunswick A,  CALI, 22.4668545057
-Great Valley A,  CALI, 19.2416311817
-PALCS ,  CALI, 19.4608211164
-Delaware Valley A,  CALI, 19.6278229713
-High Tech C ,  CALI, 15.5362775248
-High Tech B,  CALI, 13.2295644031
-Carlisle ,  CALI, 14.5551416269
-East Brunswick B,  CALI, 13.1565010916
-Wissahickon A,  CALI, 13.1356258597
-Central Bucks East A,  CALI, 13.2713148669
-Wilmington Charter B,  CALI, 14.9100205687
-Gunston,  CALI, 10.672348499
-Wilmington Charter C,  CALI, 9.24239511591
-Delaware Valley B,  CALI, 8.15688305867
-Great Valley B,  CALI, 10.9019760496
-Lexington,  BASK, 23.6508918208
-Bethlehem,  BASK, 23.6508918208
-High Tech A,  BASK, 22.6548038104
-West Egg A,  BASK, 20.6519171658
-Bergen A,  BASK, 20.4055728191
-East Brunswick A,  BASK, 21.840796404
-Hunter A,  BASK, 22.5691188202
-Livingston A,  BASK, 19.859331007
-GOSAT,  BASK, 19.580854789
-Acton-Boxborough,  BASK, 15.8321364702
-Hunter B,  BASK, 15.103814054
-Livingston B,  BASK, 17.642231887
-Half Hollow Hills East,  BASK, 17.0745688273
-St. Joseph A,  BASK, 16.7104076192
-East Brunswick B,  BASK, 16.303403916
-Smithtown West A,  BASK, 14.086304796
-High Tech B,  BASK, 16.8924882232
-Kellenberg A,  BASK, 16.581880134
-North Babylon A,  BASK, 13.6900117166
-Kellenberg B,  BASK, 13.2722973897
-Gotham,  BASK, 15.1787884204
-Half Hollow Hills West,  BASK, 13.8399604494
-Bronx Science A,  BASK, 13.3579823798
-Livingston C,  BASK, 14.4825978755
-West Egg B,  BASK, 12.0084437851
-Bergen B,  BASK, 12.9831105479
-Preston,  BASK, 9.05231162512
-West Egg C,  BASK, 7.65993053529
-Bronx Science B,  BASK, 7.69206240659
-North Babylon B,  BASK, 8.27043609006
-Cardinal Spellman,  BASK, 10.2304802396
-Smithtown West B,  BASK, 6.25683882169
 GNS A,  IS-150,  21.75
 Livingston A,  IS-150,  19.81
 Kings Park A,  IS-150,  20.64
@@ -56,13 +7,13 @@ Stuyvesant,  IS-150,  15.28
 High Tech A,  IS-150,  23.64
 Bergen A,  IS-150,  22.42
 Millburn A,  IS-150,  22.12
-Port Jeff A,  IS-150,  18.97
-E Brunswick A,  IS-150,  19.27
+Port Jefferson A,  IS-150,  18.97
+East Brunswick A,  IS-150,  19.27
 St. Joseph A,  IS-150,  19.23
 Millburn B,  IS-150,  18.14
 Bergen B,  IS-150,  16.06
 North Babylon A,  IS-150,  15.82
-Smithtown W A,  IS-150,  16.28
+Smithtown West A,  IS-150,  16.28
 Livingston C,  IS-150,  18.47
 Livingston B,  IS-150,  15.49
 St. Joseph B,  IS-150,  14.66
@@ -70,9 +21,9 @@ Wheatley A,  IS-150,  13.01
 Kings Park B,  IS-150,  14.22
 GNS B,  IS-150,  15.26
 VSS A,  IS-150,  13.04
-E Brunswick B,  IS-150,  14.44
+East Brunswick B,  IS-150,  14.44
 VSS B,  IS-150,  11.90
-E Brunswick C,  IS-150,  11.32
+East Brunswick C,  IS-150,  11.32
 Mountain Lakes B,  IS-150,  8.65
 North Babylon B,  IS-150,  9.82
 Kings Park C,  IS-150,  10.25
@@ -81,8 +32,8 @@ North Shore,  IS-150,  10.73
 N Babylon/Kings Pk C,  IS-150,  9.41
 Wheatley B,  IS-150,  7.98
 Livingston D,  IS-150,  8.91
-Port Jeff B,  IS-150,  9.46
-Smithtown W B,  IS-150,  9.57
+Port Jefferson B,  IS-150,  9.46
+Smithtown West B,  IS-150,  9.57
 Bethlehem,  IS-148,  23.33
 High Tech A,  IS-148,  24.53
 East Brunswick A,  IS-148,  23.07
@@ -119,3 +70,239 @@ MAST B,  IS-148,  11.38
 Middlesex County Academy B,  IS-148,  8.45
 Pingry B,  IS-148,  10.00
 Biotech B,  IS-148,  7.65
+Darien A,  IS-148,  22.57
+Delaware Valley A,  IS-148,  21.63
+Darien B,  IS-148,  17.08
+Darien C,  IS-148,  14.84
+Ithaca A,  IS-148,  20.77
+Manheim Township A,  IS-148,  22.61
+Northmont,  IS-148,  16.06
+Manheim Township B,  IS-148,  16.34
+Lakeland A,  IS-148,  15.71
+Ithaca B,  IS-148,  14.32
+Wallenpaupeck,  IS-148,  9.67
+Ithaca C,  IS-148,  11.58
+Wyoming Area A,  IS-148,  11.19
+Lakeland B,  IS-148,  10.26
+Moravian A,  IS-148,  8.65
+Delaware Valley B,  IS-148,  10.57
+Wilmington Charter A,  IS-148,  22.31
+Great Valley High School,  IS-148,  19.05
+Wilmington Charter B,  IS-148,  14.52
+Wilmington Charter C,  IS-148,  16.08
+Wilmington Charter D,  IS-148,  11.46
+Caesar Rodney,  IS-148,  8.00
+Lehigh Valley Academy,  IS-150,  21.61
+Great Valley A,  IS-150,  19.65
+Manheim Township B,  IS-150,  18.89
+Cedar Crest A,  IS-150,  19.23
+Downingtown East A,  IS-150,  15.56
+PALCS B,  IS-150,  12.67
+Manheim Township A,  IS-150,  22.44
+PALCS A,  IS-150,  20.68
+Manheim Township C,  IS-150,  17.78
+West Chester East A,  IS-150,  18.53
+Emmaus,  IS-150,  17.73
+Great Valley B,  IS-150,  14.30
+Cedar Crest B,  IS-150,  17.77
+West Chester East B,  IS-150,  14.54
+West Chester East D,  IS-150,  11.30
+Great Valley C,  IS-150,  8.73
+Renaissance A,  IS-150,  10.19
+Renaissance C,  IS-150,  7.70
+Downingtown East B,  IS-150,  13.25
+West Chester East C,  IS-150,  12.23
+Manheim Township D,  IS-150,  14.10
+Downingtown East C,  IS-150,  8.96
+Renaissance B,  IS-150,  9.68
+Great Valley D,  IS-150,  3.48
+Ithaca A,  IS-150,  21.68
+Delaware Valley A,  IS-150,  22.19
+Lakeland,  IS-150,  16.04
+Ithaca B,  IS-150,  14.44
+Emma Willard,  IS-150,  13.25
+Moravian A,  IS-150,  13.91
+Brighton A,  IS-150,  20.91
+Lisgar,  IS-150,  19.86
+Fillmore,  IS-150,  12.07
+Geneva A,  IS-150,  13.13
+Wallenpaupack,  IS-150,  15.31
+Mountain View,  IS-150,  9.57
+Brighton B,  IS-150,  14.83
+Amherst B,  IS-150,  12.22
+Southern Cayuga A,  IS-150,  13.78
+Notre Dame,  IS-150,  12.97
+Wyoming Area B,  IS-150,  12.69
+Greene,  IS-150,  10.32
+Amherst A,  IS-150,  11.88
+Wyoming Area A,  IS-150,  13.38
+Moravian B,  IS-150,  9.09
+Delaware Valley B,  IS-150,  11.64
+Ithaca D,  IS-150,  9.67
+Geneva B,  IS-150,  8.33
+Ithaca E,  IS-150,  10.61
+Ithaca C,  IS-150,  10.28
+Berwick A,  IS-150,  12.76
+Marcus Whitman A,  IS-150,  8.12
+Pioneer,  IS-150,  9.80
+Whitney Point A,  IS-150,  10.45
+Southern Cayuga B,  IS-150,  11.37
+Whitney Point B,  IS-150,  9.26
+Berwick B,  IS-150,  9.73
+Marcus Whitman B,  IS-150,  8.16
+Dundee,  IS-150,  7.00
+Pittsford Mendon,  IS-150,  5.00
+Manheim Township A,  IS-152,  20.16
+Millburn A,  IS-152,  19.58
+Manheim Township B,  IS-152,  15.73
+Kellenberg A,  IS-152,  18.37
+Livingston A,  IS-152,  19.79
+Livingston C,  IS-152,  16.91
+Middlesex A,  IS-152,  19.87
+Manheim Township C,  IS-152,  14.10
+Millburn B,  IS-152,  19.45
+Kellenberg B,  IS-152,  11.87
+Middlesex B,  IS-152,  13.54
+Manheim Township D,  IS-152,  9.35
+Livingston B,  IS-152,  20.00
+Northern Highlands C,  IS-152,  14.93
+Kellenberg C,  IS-152,  8.82
+Northern Highlands B,  IS-152,  6.90
+Northern Highlands A,  IS-152,  13.12
+Livingston D,  IS-152,  13.48
+Bergenfield A,  IS-152,  10.61
+Kellenberg D,  IS-152,  7.89
+Tenafly MS,  IS-152,  10.83
+Bergenfield B,  IS-152,  10.54
+Bergenfield C,  IS-152,  5.19
+Team USA,  IS-152,  0.00
+Lexington A,  BASK, 22.6388075234
+Bethlehem,  BASK, 22.6388075234
+High Tech A,  BASK, 21.6961032687
+GNS A,  BASK, 19.8005581545
+Bergen A,  BASK, 19.567416242
+East Brunswick A,  BASK, 20.9257212972
+Hunter A,  BASK, 21.6150104296
+Livingston A,  BASK, 19.0504493927
+Port Jefferson A,  BASK, 18.7868976656
+Acton-Boxborough A,  BASK, 15.2390859545
+Hunter B,  BASK, 14.549796822
+Livingston B,  BASK, 16.9521721807
+Half Hollow Hills East,  BASK, 16.4149321216
+St. Joseph A,  BASK, 16.0702875554
+East Brunswick B,  BASK, 15.6850965696
+Smithtown West A,  BASK, 13.5868193576
+High Tech B,  BASK, 16.2426098385
+Kellenberg A,  BASK, 15.9486482967
+North Babylon A,  BASK, 13.2117649767
+Kellenberg B,  BASK, 12.816437386
+Gotham,  BASK, 14.6207530562
+Half Hollow Hills West,  BASK, 13.3536774451
+Bronx Science A,  BASK, 12.8975302251
+Livingston C,  BASK, 13.9618737384
+GNS B,  BASK, 11.6203180091
+Bergen B,  BASK, 12.542749054
+Preston,  BASK, 8.82261505975
+GNS C,  BASK, 7.50485642419
+Bronx Science B,  BASK, 7.53526623885
+North Babylon B,  BASK, 8.08264290286
+Cardinal Spellman,  BASK, 9.93764159753
+Smithtown West B,  BASK, 6.17696118373
+Wilmington Charter D,  BASK, 14.1544692313
+Wilmington Charter F,  BASK, 12.5326124491
+Stonewold,  BASK, 1.3418006517
+Turk's Head B,  BASK, 11.1844439989
+Moorestown Friends,  BASK, 5.68026754417
+Wilmington Charter G,  BASK, 7.34267074596
+Richard Montgomery A,  BASK, 21.1689998145
+Wilmington Charter B,  BASK, 18.0671987185
+Great Valley A,  BASK, 16.2020634189
+C. Milton Wright,  BASK, 12.0764652291
+Richard Montgomery B,  BASK, 19.1011324171
+Richard Montgomery C,  BASK, 16.6987570585
+Turk's Head A,  BASK, 16.9318989709
+Caesar Rodney,  BASK, 12.7049347322
+High Tech A,  CALI, 22.2078300722
+Wilmington Charter A,  CALI, 23.3065608737
+East Brunswick A,  CALI, 21.4260408481
+Great Valley A,  CALI, 18.1615426014
+PALCS A,  CALI, 18.3834017056
+Delaware Valley A,  CALI, 18.5524372135
+High Tech C ,  CALI, 14.4110672695
+High Tech B,  CALI, 12.0762643164
+Carlisle ,  CALI, 13.4179836605
+East Brunswick B,  CALI, 12.0023112817
+Wissahickon A,  CALI, 11.9811818432
+Central Bucks East A,  CALI, 12.1185231934
+Wilmington Charter B,  CALI, 13.7771841148
+Gunston,  CALI, 9.48790810139
+Wilmington Charter C,  CALI, 8.04054156485
+Delaware Valley B,  CALI, 6.94181076338
+Great Valley B,  CALI, 9.72033192478
+Quince Orchard,  UMD Fall, 20.3006809689
+Thomas Jefferson A,  UMD Fall, 21.1702168539
+Wilmington Charter A,  UMD Fall, 20.1749649373
+Manheim Township A,  UMD Fall, 19.8501985224
+Centennial A,  UMD Fall, 20.6778290636
+Centennial B,  UMD Fall, 16.0996702473
+Thomas Jefferson B,  UMD Fall, 18.813041262
+Maggie Walker,  UMD Fall, 18.3939878234
+Georgetown Day A,  UMD Fall, 16.183480935
+Walter Johnson,  UMD Fall, 14.9263206193
+Thomas Jefferson C,  UMD Fall, 13.1872488493
+Longfellow,  UMD Fall, 13.6482076317
+St. Anselm's Abbey,  UMD Fall, 16.7282504052
+Eleanor Roosevelt,  UMD Fall, 13.1139144975
+Howard,  UMD Fall, 9.83482134079
+Manheim Township B,  UMD Fall, 10.8824549372
+Centennial C,  UMD Fall, 10.5786411942
+Georgetown Day B,  UMD Fall, 9.15385950313
+Pikesville,  UMD Fall, 9.46814958205
+John Carroll,  UMD Fall, 5.21475718063
+Centennial D,  UMD Fall, 5.49761825166
+Bethlehem,  Harvard, 20.9256340197
+Hunter A,  Harvard, 20.2266885602
+Wilmington Charter A,  Harvard, 21.6245794793
+Dunbar,  Harvard, 20.3772306592
+Acton-Boxborough A,  Harvard, 14.4200647424
+Lexington A,  Harvard, 21.1729531823
+Bishop Guertin,  Harvard, 19.4524720511
+AMSA A,  Harvard, 20.7105738783
+Hunter B,  Harvard, 16.7964793049
+Hingham,  Harvard, 14.8824440464
+Phillips Andover A,  Harvard, 17.5384367927
+Wilmington Charter C,  Harvard, 14.2265106152
+St. John's,  Harvard, 16.6351841988
+Lexington B,  Harvard, 15.7641906262
+Ridgewood B,  Harvard, 8.96829015798
+Wilmington Charter B,  Harvard, 15.9362387393
+Needham,  Harvard, 10.8285603811
+Ridgewood A,  Harvard, 12.6995836112
+Phillips Andover A,  Harvard, 13.0651858516
+Acton-Boxborough B,  Harvard, 8.93603113677
+Lexington C,  Harvard, 8.01127252876
+AMSA C,  Harvard, 9.08657323575
+AMSA B,  Harvard, 10.8823254164
+Phillips Andover A,  Harvard, 11.4952468194
+Lexington D,  Harvard, 6.14024929859
+Walnut Hill,  Harvard, 5.45205684612
+Bethlehem,  LIMIT, 23.5745323325
+Phillips Andover A,  LIMIT, 20.6407644799
+Bishop Guertin,  LIMIT, 23.7446058312
+Hunter A,  LIMIT, 17.976279667
+Phillips Andover A,  LIMIT, 18.5290185378
+Belmont,  LIMIT, 17.7353422105
+Acton-Boxborough A,  LIMIT, 16.1054711813
+Needham,  LIMIT, 13.7527877826
+EO Smith A,  LIMIT, 17.5085775456
+EO Smith B,  LIMIT, 16.9274930917
+Lexington A,  LIMIT, 11.6693874235
+Boston Latin,  LIMIT, 11.3859315924
+BC High,  LIMIT, 9.45843194043
+Phillips Andover B,  LIMIT, 11.4142771755
+Brookline,  LIMIT, 10.7765015554
+Acton-Boxborough B,  LIMIT, 11.3575860092
+Newton South,  LIMIT, 13.0724937878
+AMSA A,  LIMIT, 9.41591356576
+St. John Paul II,  LIMIT, 7.27582204045
+Lexington B,  LIMIT, 7.10574854175

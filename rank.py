@@ -2,8 +2,18 @@
 BACKLOG
 
 automatically get set name (which is in same url as where isStats looks)
-pseudynoms - mohan
 remove need for housewrites file, cut content by those only with that housewrite to make things more efficient
+
+INSTRUCTIONS:
+1. add tournament stats to file: run getStats(ID) where ID = 4-digit tournamet ID in url
+	1a. manually input set name when prompted
+2. look over team names for consistency: run alphabetize()
+2a. manually replace pseudonyms, etc
+3. if housewrite, copy over statlines to housewrites file
+3a. if IS-set, run copyNAQT() to copy naqt statlines to appb
+	warning: this will copy all IS-sets, including the ones already in appb, so delete old ones or fix this
+4. for each housewrite set, run adjust('NAME OF HOUSEWRITE')
+5. once all ppbs are adjusted and transferred to appb file, run makeDict() to show team rankings
 
 '''
 
@@ -83,6 +93,7 @@ def getStats(ID): #gets team stats
 		#setName = "IS-148" #laziness is real
 
 		f = open('stats','a') #.txt file with everything
+		g = open('ID','a') #.txt file with tournament IDs
 
 		for i in range(len(teams)):
 
@@ -97,6 +108,7 @@ def getStats(ID): #gets team stats
 			string = str(teams[i]) + ", " + str(setName) + ", " + str(ppb[i]) + ", " + str(powers[i]) + ', ' + str(games[i])
 			
 			f.write(string+"\n")
+		g.write(str(ID)+"\n")
 
 		f.close()
 
@@ -121,14 +133,6 @@ def isStats(ID): #checks to see if tournament has stats uplaoded
 	print("has stats?: ", hasStats)
 	return hasStats
 
-
-def rank(content): #ranks things
-
-	sort = sorted(content, key= lambda x: x[2], reverse=True)
-
-	for i in range(25):
-		print(i+1,sort[i][0],sort[i][1],round(sort[i][2],2))
-
 def adjust(housewrite): #adjusts ppb for housewrites
 
 	stdev, mean = getNAQT()
@@ -145,22 +149,22 @@ def adjust(housewrite): #adjusts ppb for housewrites
 
 	for i in range(len(content)):
 		if content[i][1].strip() == housewrite:
-			b.append(float(content[i][2])) #append float ppb
+			b.append([content[i][0],content[i][1],float(content[i][2])]) #append float ppb
 
-	z = stats.zscore(b) #finds z-scores
+	c = []
+	for i in range(len(b)):
+		c.append(b[i][2]) #gets only ppb
+
+	#print("AVERAGE PPB: ",np.mean(c))
+	z = stats.zscore(c) #finds z-scores		
 
 	f = open('appb','a') #.txt file with everything
 
-	for i in range(len(content)):
-		try:
-			if content[i][1].strip() == housewrite:
-				content[i].append(z[i]) #adds z-score to content
-				content[i].append(z[i]*stdev + mean) #z-score * naqt stdev + naqt mean to calculate appb
-				f.write(content[i][0]+ ", " + content[i][1] + ', ' + str(content[i][6])+"\n")
-		except IndexError:
-			pass
-
-	#rank(content)
+	for i in range(len(b)):
+		b[i].append(z[i]) #adds z-score to content
+		b[i].append(z[i]*stdev + mean) #z-score * naqt stdev + naqt mean to calculate appb
+		#print(b[i][0], b[i][2], b[i][3],b[i][4])
+		f.write(b[i][0]+ ", " + b[i][1] + ', ' + str(b[i][4])+"\n")
 
 	f.close()
 
@@ -180,23 +184,11 @@ def getNAQT(): #gets stdev, mean from naqt stats
 	stdev = np.std(a)
 	mean = np.mean(a)
 
+	#print(stdev,mean)
 	return(stdev, mean)
 
-def getAPPB(): #ranks appb, but teams are repeated
-	with open('appb')as f:
-		content = f.read().splitlines()
 
-	content = map(lambda x: x.split(','), content)
-
-	for i in range(len(content)):
-		content[i][2] = float(content[i][2]) #append float ppb
-
-	#print(content)
-
-	rank(content)
-
-
-def makeDict():
+def makeDict(): #makes json, writes to dict.txt file, ranks teams
 	oldDict = {}
 	try:
 		oldDict = json.load(open('dict.txt'))
@@ -220,7 +212,6 @@ def makeDict():
 	json.dump(oldDict, open('dict.txt','w'))
 	#print(oldDict)
 	rankinglist(oldDict)
-
 
 
 def sortingDict(d): #sorts all aPPB for each team high to low
@@ -247,6 +238,27 @@ def rankinglist(d): #takes top 3 appb of each team, averages, prints sorted list
 	sort = sorted(b, key=lambda x: x[1], reverse=True)
 	#print(sort)
 
-	for i in range(25):
+	for i in range(50):
 		print(i+1,sort[i][0],round(sort[i][1],2))
 
+def copyNAQT(): #copies over IS-sets from stats to appb
+	with open('stats')as f:
+		content = f.read().splitlines()
+
+	content = map(lambda x: x.split(','), content)
+
+	g = open('appb','a')	
+
+	for i in range(len(content)):
+		if str(content[i][1][:4].strip()) == 'IS-':	
+			g.write(str(content[i][0]) + ', ' + str(content[i][1]) + ', ' + str(content[i][2]) + '\n' ) 
+
+def alphabetize(): #prints alphabetized list of team names to look over
+	with open('stats') as f:
+		content = f.read().splitlines()
+
+	content = map(lambda x: x.split(','), content)
+	sorted_content = sorted(content)
+	
+	for i in range(len(content)):
+		print(sorted_content[i][0])
