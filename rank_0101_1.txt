@@ -1,0 +1,100 @@
+1 HC A 26.83
+2 Detroit Catholic Central 26.49
+3 Northview 26.36
+4 Solon A 25.69
+5 Hinsdale Center 25.33
+6 La Jolla A 25.07
+7 High Tech A 24.91
+8 Naperville North A 24.86
+9 Bethlehem 24.61
+10 Wilmington Charter A 24.53
+11 Dorman A 24.46
+12 Richard Montgomery A 24.36
+13 DCC A 24.29
+14 Sidney 24.21
+15 Lexington A 24.06
+16 East Brunswick A 23.92
+17 Centennial A 23.9
+18 Hickman 23.9
+19 CCA A 23.86
+20 North Hollywood 23.86
+21 Alpharetta 23.71
+22 St. John's A 23.65
+23 DuPont Manual A 23.65
+24 Rancho Bernardo A 23.51
+25 TP A 23.47
+26 Bishop Guertin 23.4
+27 Quince Orchard 23.32
+28 Magical Unicorn Rainbow Phoenixes 23.31
+29 Specters of Europe 23.24
+30 Hunter A 23.24
+31 Guilder A 23.23
+32 Detroit Catholic Central (MI) A 23.21
+33 St. Thomas A 23.12
+34 Auburn 23.1
+35 Paul Laurence Dunbar A 23.07
+36 GDS A 22.98
+37 Hinsdale Central A 22.93
+38 IMSA A 22.92
+39 Hinsdale Central 22.89
+40 Torrey Pines 22.87
+41 Torrey Pines A 22.84
+42 Auburn A 22.83
+43 Johns Creek 22.8
+44 Davis A 22.78
+45 Chattahoochee A 22.73
+46 OPRF A 22.72
+47 Thomas Jefferson Science & Tech A 22.67
+48 Manheim Township A 22.66
+49 Woodford County A 22.66
+50 Latin A 22.61
+51 Darien A 22.57
+52 Willow Tree 22.57
+53 Henderson County A 22.56
+54 RB A 22.56
+55 Thomas Jefferson Science & Tech B 22.56
+56 LJ A 22.54
+57 Loyola A 22.51
+58 Johnson Central A 22.39
+59 WWS A 22.39
+60 Harker  22.38
+61 Richard Montgomery B 22.38
+62 Eastside (GA) 22.34
+63 Peachtree Ridge 22.27
+64 DELAWARE VALLEY A 22.19
+65 Westview A 22.19
+66 Delaware Valley A 22.18
+67 Bergen A 22.17
+68 HC B 22.13
+69 Maggie Walker A 22.04
+70 WV A 22.02
+71 GNS A 21.96
+72 Homestead A 21.94
+73 State College A 21.91
+74 Fremd A 21.91
+75 Richard Montgomery 21.87
+76 Chattahoochee B 21.87
+77 UChicago Lab A 21.81
+78 Springfield A 21.72
+79 Thomas Jefferson HSST A 21.72
+80 ITHACA A 21.68
+81 Hannibal A 21.66
+82 Wheaton Warrenville South A 21.64
+83 PALCS A 21.63
+84 La Jolla 21.57
+85 Not Battle Ground Academy 21.56
+86 Homewood-Flossmoor A 21.55
+87 Collins Hill A 21.49
+88 Cave Spring A 21.48
+89 Northmont A 21.47
+90 Battle Ground Academy 21.38
+91 Olentangy Liberty A 21.35
+92 Lausanne A 21.34
+93 Arcadia A 21.32
+94 Wayzata A 21.25
+95 Ithaca A 21.23
+96 CCA 21.19
+97 Carmel Catholic A 21.19
+98 Barrington 21.12
+99 North Hollywood A 21.1
+100 Not Ok Computer A 21.09
