@@ -1,0 +1,1479 @@
+"Cave Spring" C
+"Harsha's Hattrick"
+AMHERST A
+AMHERST B
+AMSA A
+AMSA A
+AMSA B
+AMSA C
+Acton-Boxborough A
+Acton-Boxborough A
+Acton-Boxborough A
+Acton-Boxborough B
+Acton-Boxborough B
+Adair County A
+Adair County A
+Adair County B
+Adair County B
+Adena
+Alagar
+Albemarle
+Albemarle
+Allderdice A
+Allderdice B
+Alpharetta
+Alpharetta
+Altamont
+Amherst A
+Amherst B
+Arc A
+Arc B
+Arcadia
+Arcadia A
+Arcadia A
+Arcadia A
+Arcadia B
+Arcadia B
+Arcadia B
+Arcadia C
+Arcadia C
+Arcadia D
+Arcadia D
+Auburn
+Auburn
+Auburn
+Auburn A
+Auburn A
+Auburn A
+Auburn B
+Auburn B
+Auburn B
+Auburn C
+Auburn C
+Augusta Christian
+Aurora
+Awty A
+Awty B
+BC High
+BERWICK A
+BERWICK B
+BRIGHTON A
+BRIGHTON B
+Ballard
+Barrington
+Barrington
+Barrington
+Batavia
+Battle Ground Academy
+Bay City Western
+Beachwood
+Beecher
+Bellarmine
+Bellarmine A
+Bellarmine A
+Belmont
+Belton
+Belvidere
+Belvidere North A
+Belvidere North B
+Benet A
+Benet B
+Benjamin Logan
+Bergen A
+Bergen A
+Bergen B
+Bergen B
+Bergenfield A
+Bergenfield B
+Bergenfield C
+Berwick A
+Berwick B
+Bethlehem
+Bethlehem
+Bethlehem
+Bethlehem
+Biotech A
+Biotech B
+Bishop Guertin
+Bishop Guertin
+Bishop McNamara
+Bishop's A
+Bishop's B
+Bishops
+Bishops
+Black Mountain Middle School A
+Black Mountain Middle School B
+Blackburg A
+Blacksburg A
+Blacksburg B
+Blacksburg B
+Blacksburg C
+Blacksburg C
+Blacksburg D
+Blessed Trinity
+Bloomington
+Bloomington
+Bloomington
+Bloomington A
+Bloomington A
+Bloomington B
+Bloomington B
+Bloomington C
+Bloomington C
+Boardman A
+Boardman B
+Bolingbrook
+Boston Latin
+Boylan
+Bradley-Bourbonnais A
+Bradley-Bourbonnais B
+Brighton
+Brighton A
+Brighton B
+Bronx Science A
+Bronx Science B
+Brookfield
+Brookfield
+Brookfield A
+Brookfield B
+Brookline
+Brookwood A
+Brookwood B
+Buckhorn
+Buffalo Grove
+Buffalo Grove A
+Buffalo Grove B
+Buford
+Butler A
+Butler B
+Byron
+Byron A
+Byron B
+C. Milton Wright
+CBC
+CBC
+CCA
+CCA A
+CCA A
+CCA A
+CCA A
+CCA B
+CCA B
+CCA B
+CCA B
+CCA C
+CCA C
+CCA C
+CCA C
+CCPAA
+Cabrini
+Caesar Rodney
+Caesar Rodney
+Calhoun A
+Calhoun B
+Calvary Lutheran A
+Calvary Lutheran B
+Camdenton
+Camp Hill
+Camp Hill A
+Camp Hill B
+Campbell County A
+Campbell County B
+Carbondale
+Carbondale
+Carbondale A
+Carbondale B
+Cardinal Spellman
+Carl Sandburg A
+Carl Sandburg B
+Carlisle 
+Carmel A
+Carmel B
+Carmel C
+Carmel Catholic A
+Carmel Catholic A
+Carmel Catholic B
+Carmel Catholic B
+Carnegie A
+Carnegie B
+Carrboro A
+Carrboro B
+Carroll A
+Carroll B
+Carroll C
+Carroll County
+Carterville
+Cat in the Hat A
+Cat in the Hat B
+Cat in the Hat C
+Cathedral
+Cathedral Catholic A
+Cathedral Catholic B
+Cave Spring A
+Cave Spring A
+Cave Spring A
+Cave Spring A
+Cave Spring B
+Cave Spring B
+Cave Spring B
+Cave Spring B
+Cave Spring C
+Cedar Crest A
+Cedar Crest B
+Centennial
+Centennial A
+Centennial A
+Centennial B
+Centennial B
+Centennial C
+Centennial C
+Centennial D
+Centennial D
+Central Bucks East A
+Central Catholic
+Centralia A
+Centralia B
+Chamblee
+Champaign Centennial A
+Champaign Centennial B
+Chanhassen
+Charleston Catholic A
+Charleston Catholic B
+Chattahoochee
+Chattahoochee A
+Chattahoochee B
+Chester
+Chicago Lab B
+Chicago Lab B
+Chillicothe A
+Christiansburg
+Christiansburg
+Christiansburg A
+Christiansburg A
+Christiansburg B
+Christiansburg B
+Clayton A
+Clayton B
+Clermont Northeastern A
+Clermont Northeastern B
+Clever
+Clever A
+Clever B
+Clover Hill A
+Clover Hill A
+Clover Hill B
+Clover Hill B
+Clover Hill C
+Collegiate
+Collins Hill A
+Collins Hill B
+Copley A
+Copley B
+Cosby A
+Cosby A
+Cosby B
+Cosby B
+Covenant Christian Academy
+Cranbrook
+Crystal Springs
+Cuba
+Culver
+Cupertino A
+Cupertino A
+Cupertino A
+Cupertino B
+DCC A
+DCC A
+DCC B
+DCC B
+DCC C
+DCC D
+DCC E
+DCD A
+DCD B
+DCD C
+DCD D
+DELAWARE VALLEY A
+DELAWARE VALLEY B
+DUNDEE
+Danville
+Darien A
+Darien B
+Darien C
+Daviess County
+Daviess County
+Davis
+Davis A
+Davis A
+Dawkins MS A
+Dawkins MS B
+DePaul A
+DePaul B
+DeSmet A
+DeSmet B
+DeWitt
+Deep Run
+Del Norte
+Del Norte A
+Del Norte A
+Del Norte B
+Delaware Valley A
+Delaware Valley A
+Delaware Valley A
+Delaware Valley B
+Delaware Valley B
+Delaware Valley B
+Detroit Catholic Central
+Detroit Catholic Central (MI) A
+Detroit Catholic Central (MI) B
+Divine Child A
+Divine Child A
+Divine Child B
+Divine Child B
+Divine Child C
+Dorman
+Dorman A
+Dorman A
+Dorman A
+Dorman A
+Dorman A
+Dorman B
+Dorman B
+Dorman B
+Dorman B
+Dorman B
+Dorman C
+Dorman C
+Dorman C
+Dorman C
+Dorman D
+Dougherty Valley A
+Downingtown East A
+Downingtown East B
+Downingtown East C
+DuBois
+DuPont Manual A
+DuPont Manual B
+Dublin Scioto
+Dublin Scioto
+Dunbar
+Dunbar
+Dunbar A
+Dunbar B
+Dundee
+EMMA WILLARD
+EO Smith A
+EO Smith B
+Early College at Guilford
+East Brunswick A
+East Brunswick A
+East Brunswick A
+East Brunswick A
+East Brunswick B
+East Brunswick B
+East Brunswick B
+East Brunswick B
+East Brunswick C
+East Brunswick C
+East Palestine
+East Ridge
+Eastside
+Eastside (GA)
+Eau Claire Regis A
+Eau Claire Regis B
+Eau Claire Regis C
+Eau Claire Regis D
+Eden C.A.
+Eden Prairie A
+Eden Prairie B
+Eden Prairie C
+Eden Prairie D
+Eisenhower
+Eleanor Roosevelt
+Emma Willard
+Emmaus
+Enloe
+Enochs
+Enochs
+Escobar A
+Escobar A
+Eureka
+Evangel Classical Christian
+Evangel Classical Christian
+FILLMORE
+Fairfield
+Fenton
+Fenton
+Fenton
+Fenton A
+Fenton B
+Fenwick A
+Fenwick A
+Fenwick B
+Fenwick B
+Fenwick C
+Fenwick C
+Fenwick D
+Fillmore
+Fisher Catholic A
+Fisher Catholic B
+Fitch
+Fitch A
+Fitch B
+Flowery Branch
+Fordland
+Fork Union Military Academy
+Fort Osage A
+Fort Osage A
+Fort Osage A
+Fort Osage B
+Fort Osage B
+Fort Osage B
+Francis Howell
+Francis Howell North Black
+Francis Howell North Gold
+Francis Parker
+Francis Parker A
+Francis Parker B
+Fremd
+Fremd A
+Fremd A
+Fremd A
+Fremd A
+Fremd B
+Fremd B
+Fremd B
+Fremd B
+Fremd C
+Fremd C
+Fremd C
+Fremd C
+Fremd D
+Fremd D
+Ft. Zumwalt North
+GDS A
+GDS B
+GENEVA A
+GENEVA B
+GNS A
+GNS A
+GNS B
+GNS B
+GNS C
+GNS C
+GPN A
+GPN B
+GREENE
+Gadsden City A
+Gainesville
+Galileo Magnet
+Gallatin
+Gatton Academy
+Geneva A
+Geneva A
+Geneva B
+Geneva B
+George C. Marshall
+Georgetown Day A
+Georgetown Day A
+Georgetown Day B
+Georgetown Day B
+Germantown Z
+Glasgow
+Glen Allen
+Glenbard East A
+Glenbard East B
+Glenwood A
+Glenwood B
+Godwin
+Gotham
+Graham A
+Graham B
+Graham C
+Grasshoppers A
+Grasshoppers B
+Grauer
+Grauer School
+Graves County
+Grayson County
+Grayson County A
+Grayson County B
+Great Valley A
+Great Valley A
+Great Valley A
+Great Valley B
+Great Valley B
+Great Valley C
+Great Valley D
+Great Valley High School
+Greene
+Greenville Tech Charter
+Guilder A
+Gunston
+HC A
+HC B
+HC C
+HFT Westlake
+HSOBX A
+HSOBX B
+HSoBX A
+HSoBX B
+Haarlem
+Haarlem A
+Half Hollow Hills East
+Half Hollow Hills West
+Hallsville A
+Hallsville A
+Hallsville A
+Hallsville B
+Hallsville B
+Hallsville B
+Hampton
+Hampton A
+Hampton B
+Hannibal
+Hannibal
+Hannibal
+Hannibal A
+Hannibal A
+Hannibal B
+Hannibal B
+Harding
+Harker 
+Harker HS
+Helias A
+Helias A
+Helias A
+Helias B
+Helias B
+Helias B
+Henderson A
+Henderson B
+Henderson County
+Henderson County
+Henderson County A
+Henderson County B
+Hermann
+Hermann
+Hermitage
+Hewitt-Trussville
+Hewitt-Trussville A
+Hewitt-Trusville B
+Hickman
+Hickman A
+Hickman A
+Hickman B
+Hickman B
+Hidden Valley A
+Hidden Valley B
+High Point Central A
+High Point Central B
+High Tech A
+High Tech A
+High Tech A
+High Tech A
+High Tech B
+High Tech B
+High Tech B
+High Tech B
+High Tech C 
+Highlands
+Hingham
+Hinsdale Center
+Hinsdale Central
+Hinsdale Central A
+Hinsdale Central A
+Hinsdale Central A
+Hinsdale Central B
+Hinsdale Central B
+Hinsdale Central B
+Hinsdale Central C
+Hoffman Estates
+Hoffman Estates
+Holy Innocents
+Homeschool Out of the Box
+Homestead A
+Homewood
+Homewood-Flossmoor
+Homewood-Flossmoor
+Homewood-Flossmoor
+Homewood-Flossmoor A
+Homewood-Flossmoor B
+Honaker A
+Honaker B
+Hoover A
+Hoover A
+Hoover B
+Hoover B
+Horse
+Horse
+House
+Houston A
+Houston B
+Howard
+Howard
+Howard
+Howard
+Howard
+Howard
+Hubbard
+Hubbard
+Hunter A
+Hunter A
+Hunter A
+Hunter A
+Hunter B
+Hunter B
+Hunter B
+Huntington HS
+Huron
+IMSA
+IMSA
+IMSA
+IMSA A
+IMSA A
+IMSA A
+IMSA A
+IMSA B
+IMSA B
+IMSA B
+IMSA C
+ITHACA A
+ITHACA B
+ITHACA C
+ITHACA D
+ITHACA E
+Independence A
+Independence B
+Indiana A
+Indiana B
+Irvine
+Irvine
+Irvine
+Irvine A
+Irvine A 
+Irvine B
+Irvine B
+Itawamba
+Itawamba A
+Itawamba B
+Ithaca A
+Ithaca A
+Ithaca B
+Ithaca B
+Ithaca C
+Ithaca C
+Ithaca D
+Ithaca E
+Jackson Prep
+Jackson-Milton
+James Clemens
+James Clemens A
+James Clemens B
+James Island
+Jefferson City
+John Carroll
+John Marshall
+Johns Creek
+Johns Creek
+Johnson Central A
+Johnson Central A
+Johnson Central B
+Johnson Central B
+Joliet Central A
+Joliet Central B
+Jones College Prep
+Kaneland
+Kaneland
+Keith Country Day
+Keith Country Day A
+Keith Country Day B
+Kellenberg A
+Kellenberg A
+Kellenberg A
+Kellenberg B
+Kellenberg B
+Kellenberg B
+Kellenberg C
+Kellenberg C
+Kellenberg D
+Keystone Oaks
+Kickapoo A
+Kickapoo B
+Kings Park A
+Kings Park B
+Kings Park C
+Kittylonians
+L & N STEM Academy A
+L & N STEM Academy B
+LAKELAND
+LAMP
+LISGAR
+LJ A
+LJ B
+LJ C
+La Jolla
+La Jolla A
+La Jolla A
+La Jolla A
+La Jolla B
+La Jolla B
+La Jolla B
+La Jolla C
+La Jolla D
+LaGrange Acad
+Ladue A
+Ladue A
+Ladue B
+Ladue B
+Ladue C
+Ladue C
+Ladue D
+Ladue E
+Lafayette
+Lake Center A
+Lake Center B
+Lake Zurich
+Lakeland
+Lakeland A
+Lakeland B
+Latin
+Latin A
+Latin A
+Latin B
+Latin B
+Latin C
+Latin School A
+Latin School B
+Lausanne A
+Lausanne B
+Lee's Summit A
+Lee's Summit B
+Lee's Summit North A
+Lee's Summit North B
+Lee's Summit West A
+Lee's Summit West B
+Lehigh Valley Academy
+Lehigh Valley Academy
+Lexington A
+Lexington A
+Lexington B
+Lexington B
+Lexington C
+Lexington C
+Lexington D
+Leyden
+Liberty A
+Liberty B
+Liberty North
+Libertyville
+Lincoln-Way North A
+Lincoln-Way North B
+Lisgar
+Lisle
+Lisle
+Little Miami A
+Little Miami B
+Livingston A
+Livingston A
+Livingston A
+Livingston A
+Livingston B
+Livingston B
+Livingston B
+Livingston B
+Livingston C
+Livingston C
+Livingston C
+Livingston C
+Livingston D
+Livingston D
+Livingston D
+Livingston E
+Livonia Churchill
+Locust Grove A
+Locust Grove B
+Logos A
+Logos B
+Longfellow
+Longfellow Middle A
+Longfellow Middle B
+Los Alamitos
+Los Alamitos
+Loudoun County
+Loveland
+Lowell
+Lowell
+Lowellville
+Loyola
+Loyola A
+Loyola A
+Loyola Academy A
+Loyola Academy B
+Loyola B
+Loyola B
+Loyola C
+Lutheran (St. Charles) A
+Lutheran (St. Charles) B
+Lutheran-St. Charles A
+Lutheran-St. Charles B
+MARCUS WHITMAN A
+MARCUS WHITMAN B
+MAST A
+MAST B
+MC A
+MC B
+MICDS
+MORAVIAN A
+MORAVIAN B
+MOUNTAIN VIEW
+MUS
+Macomb A
+Macomb B
+Madisonville North Hopkins
+Madisonville-North Hopkins
+Maggie Walker
+Maggie Walker
+Maggie Walker A
+Maggie Walker A
+Maggie Walker A
+Maggie Walker B
+Maggie Walker B
+Maggie Walker B
+Maggie Walker C
+Maggie Walker C
+Magical Unicorn Rainbow Phoenixes
+Maine East
+Maine South A
+Maine South A
+Maine South B
+Maine South B
+Manheim Township A
+Manheim Township A
+Manheim Township A
+Manheim Township A
+Manheim Township B
+Manheim Township B
+Manheim Township B
+Manheim Township B
+Manheim Township C
+Manheim Township C
+Manheim Township D
+Manheim Township D
+Marcus Whitman A
+Marcus Whitman B
+Marionville
+Marist
+Marist A
+Marist B
+Marquette
+Marquette A
+Marquette B
+Marshall
+Maryville A
+Maryville B
+Mauldin A
+Mauldin B
+McCracken County A
+McCracken County B
+Menlo-Atherton
+Merrol Hyde A
+Merrol Hyde A
+Merrol Hyde B
+Merrol Hyde B
+Mesa Verde A
+Mesa Verde B
+Metea Valley A
+Metea Valley B
+Mexico
+Mexico
+Mexico
+Mexico
+Miami Valley
+Miami Valley School
+Middlesex A
+Middlesex B
+Middlesex County Academy A
+Middlesex County Academy B
+Middlesex County Academy C
+Midlothian
+Millbrook
+Millburn A
+Millburn A
+Millburn B
+Millburn B
+Milton
+Mineral Ridge
+Minnetonka A
+Minnetonka B
+Minnetonka C
+Minnetonka D
+Moberly A
+Moberly A
+Moberly A
+Moberly B
+Moberly B
+Moberly B
+Montgomery Co.
+Moorestown Friends
+Moravian A
+Moravian A
+Moravian B
+Mounds Park
+Mount Carmel
+Mount Vernon
+Mountain Brook
+Mountain Lakes A
+Mountain Lakes B
+Mountain View
+Mountain View A
+N Babylon/Kings Pk C
+NCSSM A
+NCSSM B
+NCSSM C
+NCSSM D
+NKC A
+NKC B
+NOTRE DAME
+Nandua
+Naperville Central
+Naperville North
+Naperville North A
+Naperville North B
+Needham
+Needham
+New Haven A
+New Haven B
+New Haven C
+New Kent
+New Kent A
+New Kent A
+New Kent A
+New Kent B
+New Kent B
+New Kent B
+New Kent C
+New Kent C
+New Trier
+New Trier
+Newton
+Newton South
+NoHo A
+NoHo B
+Norcross
+Norfolk Academic Guild
+North Babylon A
+North Babylon A
+North Babylon B
+North Babylon B
+North Hollywood
+North Hollywood A
+North Hollywood A
+North Hollywood B
+North Hollywood B
+North Shore
+Northern Highlands A
+Northern Highlands B
+Northern Highlands C
+Northgate
+Northgate
+Northmont
+Northmont
+Northmont
+Northmont A
+Northmont B
+Northridge
+Northview
+Northwest
+Northwood
+Not Battle Ground Academy
+Not OK Computer B
+Not Ok Computer A
+Notre Dame
+Notre Dame A
+Notre Dame A
+Notre Dame B
+Notre Dame B
+Notre Dame de Sion 
+OPRF
+OPRF A
+OPRF B
+Oak Lawn A
+Oak Lawn B
+Oak Mountain
+Oak Park River Forest A
+Oak Park-River Forest B
+Oakville A
+Oakville A
+Oakville B
+Oakville B
+Oakville C
+Olentangy Liberty
+Olentangy Liberty A
+Olentangy Liberty B
+Olentangy Liberty C
+Olmsted Falls
+Olmsted Falls
+Orchard Farm A
+Orchard Farm A
+Orchard Farm A
+Orchard Farm B
+Orchard Farm B
+Orchard Farm B
+Orono A
+Orono B
+Orono C
+Osage (Chamois)
+Oswego East A
+Oswego East B
+Ottawa Hills A
+Ottawa Hills B
+Owensboro
+Owensville A
+Owensville B
+PALCS A
+PALCS A
+PALCS B
+PIONEER
+PITTSFORD MENDON
+Pacific
+Paideia
+Paintsville
+Palatine A
+Palatine A
+Palatine B
+Palatine B
+Palmetto
+Palo Alto
+Palo Alto
+Parkway Central
+Parkway North
+Parkway South
+Patrick County
+Patrick Henry
+Paul G. Blazer A
+Paul G. Blazer B
+Paul Laurence Dunbar A
+Paul Laurence Dunbar B
+Peachtree Ridge
+Pell City
+Phillips Andover A
+Phillips Andover A
+Phillips Andover A
+Phillips Andover A
+Phillips Andover A
+Phillips Andover B
+Pick Up Squad
+Pikesville
+Pilot Grove A
+Pilot Grove A
+Pilot Grove A
+Pilot Grove A
+Pilot Grove B
+Pilot Grove B
+Pilot Grove B
+Pilot Grove B
+Pine Garden Stream Woods
+Pine Garden Stream Woods
+Pinecrest
+Pingry A
+Pingry B
+Pioneer
+Pittsford Mendon
+Plainfield North A
+Plainfield North B
+Pleasant Hill A
+Pleasant Hill B
+Plymouth
+Poplar Bluff A
+Poplar Bluff B
+Port Jefferson A
+Port Jefferson A
+Port Jefferson B
+Portland
+Potomac Falls A
+Potomac Falls B
+Prestige Worldwide
+Preston
+Providence A
+Providence B
+Quince Orchard
+Quincy A
+Quincy B
+RB A
+RB B
+RB C
+RB D
+Raceland-Worthington
+Raleigh Charter A
+Raleigh Charter B
+Raleigh Charter C
+Ramsay
+Rancho Bernardo
+Rancho Bernardo
+Rancho Bernardo A
+Rancho Bernardo B
+Rappahannock A
+Rappahannock B
+Renaissance A
+Renaissance B
+Renaissance C
+Richard Montgomery
+Richard Montgomery
+Richard Montgomery A
+Richard Montgomery A
+Richard Montgomery B
+Richard Montgomery B
+Richard Montgomery C
+Richmond Burton
+Richmond Sr. A
+Richmond Sr. B
+Ridgewood A
+Ridgewood B
+River Ridge
+Riverside A
+Riverside B
+Robinson A
+Robinson B
+Rochester Scholars
+Rock Bridge
+Rock Bridge A
+Rock Bridge A
+Rock Bridge B
+Rock Bridge B
+Rock Bridge C
+Rock Hill A
+Rock Hill B
+Rock Island
+Rockbridge A
+Rockbridge B
+Rolla 
+Rolling Meadows
+Russell
+Russell A
+Russell B
+Russell C
+Rustburg A
+Rustburg B
+Rutland
+Rutland
+SOUTHERN CAYUGA A
+SOUTHERN CAYUGA B
+SR A
+SR B
+Saint Joseph (IN)
+Salem A
+Salem B
+Sandburg
+Sandburg A
+Sandburg B
+Sandburg C
+Saratoga A
+Saratoga A
+Sarcoxie A
+Sarcoxie B
+Savannah (Mo)
+Saxony Lutheran A
+Saxony Lutheran B
+Senaca
+Seneca (SC)
+Shady Side
+Sidney
+Sidney
+Silex A
+Silex B
+Skyline
+Smiths Station
+Smithtown West A
+Smithtown West A
+Smithtown West B
+Smithtown West B
+Smithville A
+Smithville B
+Solo N
+Solon A
+Solon A
+Solon B
+Solon B
+Solon C
+South Caldwell
+South Gibson
+South Range
+South Side A
+South Side B
+Southern Cayuga A
+Southern Cayuga B
+Southwest
+Spain Park A
+Spain Park A
+Spain Park B
+Spain Park B
+Sparta
+Spartenburg A
+Spartenburg B
+Specters of Europe
+Springfield
+Springfield A
+Springfield B
+Springville
+Springwood
+St Pius A
+St. Anne
+St. Anselm's Abbey
+St. Augustine
+St. Charles A
+St. Charles A
+St. Charles B
+St. Charles B
+St. Charles C
+St. Charles East A
+St. Charles East B
+St. Clair
+St. Ignatius
+St. James
+St. John Paul II
+St. John's
+St. John's A
+St. John's B
+St. Joseph A
+St. Joseph A
+St. Joseph A
+St. Joseph B
+St. Joseph B
+St. Mary's
+St. Monica
+St. Paul Central
+St. Paul Lutheran
+St. Pius B
+St. Pius X
+St. Pius X A
+St. Pius X B
+St. Teresa
+St. Thomas A
+St. Thomas B
+St. Thomas C
+St. Thomas D
+St. Viator
+St. Viator
+State College A
+State College A
+State College B
+State College B
+Stevenson
+Stevenson A
+Stevenson A
+Stevenson A
+Stevenson B
+Stevenson B
+Stevenson B
+Stevenson C
+Stevenson C
+Stevenson C
+Stevenson D
+Stillman Valley
+Stonewold
+Strafford
+Stuyvesant
+Sylacauga
+TCC A
+TCC B
+TP A
+TP B
+TP C
+Team USA
+Tenafly MS
+The Wikipedia Appreciation Society
+Thomas Jefferson A
+Thomas Jefferson A
+Thomas Jefferson A
+Thomas Jefferson B
+Thomas Jefferson B
+Thomas Jefferson B
+Thomas Jefferson C
+Thomas Jefferson HSST A
+Thomas Jefferson HSST B
+Thomas Jefferson Science & Tech A
+Thomas Jefferson Science & Tech B
+Thomas Jefferson Science & Tech C
+Timothy Christian
+Tippecanoe
+Tippecanoe A
+Tippecanoe B
+Toledo Christian
+Tolton
+Tolton
+Torrey Pines
+Torrey Pines
+Torrey Pines A
+Torrey Pines B
+Trinity A
+Trinity B
+Troy A
+Troy B
+Troy Buchanan A
+Troy Buchanan B
+Troy C
+Truman
+Turk's Head A
+Turk's Head B
+Tuscumbia
+Tuscumbia
+Tuscumbia
+Tuscumbia
+U of D A
+U of D B
+UAIS A
+UAIS B
+UC Lab
+UChicago Lab A
+University
+University City
+University School of Nashville
+University School of Nashville
+University of Chicago Lab A
+University of Chicago Lab A
+University of Chicago Lab B
+VA Episcopal
+VSS A
+VSS B
+Valle Catholic
+Valley Christian A
+Valley Christian A
+Valley Christian B
+Van Wert
+Vestavia A
+Vestavia A
+Vestavia B
+Vestavia B
+Vestavia C
+Virginia Episcopal 
+WALLENPAUPACK
+WHITNEY POINT A
+WHITNEY POINT B
+WV A
+WV B
+WV C
+WWS A
+WWS B
+WWS B
+WYOMING AREA A
+WYOMING AREA B
+Wade Hampton A
+Wade Hampton B
+Walled Lake Central
+Wallenpaupack
+Wallenpaupeck
+Walnut Grove
+Walnut Hill
+Walter Johnson
+Walter Johnson
+Warrenton
+Warwick
+Washington
+Washington A
+Washington A
+Washington A
+Washington B
+Washington B
+Washington B
+Washington C
+Washington C
+Waubonsie Valley
+Waubonsie Valley
+Waverly A
+Waverly B
+Wayzata A
+Wayzata B
+Wayzata C
+Wayzata D
+Wayzata E
+Wayzata F
+Wayzata G
+Weaubleau
+Webster Groves
+Webster Groves
+Wellsville
+Wellsville-Middletown
+Wellsville-Middletown
+Wellsville-Middletown
+Wellsville-Middletown
+Wentzville Holt
+Wesleyan
+West Chester East A
+West Chester East B
+West Chester East C
+West Chester East D
+West Point
+West Point A
+West Point B
+West Point JV A
+West Point JV B
+Western Albemarle
+Western Albemarle A
+Western Albemarle B
+Westinghouse
+Westlake A
+Westlake B
+Westlake C
+Westview A
+Westview A
+Westview A
+Westview B
+Westview B
+Westview B
+Westview C
+Wheatley A
+Wheatley B
+Wheaton Academy A
+Wheaton Academy A
+Wheaton Academy B
+Wheaton Academy B
+Wheaton Warrenville South A
+Wheaton Warrenville South A
+Wheaton Warrenville South A
+Wheaton Warrenville South B
+Wheaton Warrenville South B
+Wheaton Warrenville South C
+White Station A
+White Station B
+Whitney Point A
+Whitney Point B
+Whitney Young Morning Centennial C Afternoon
+William Chrisman
+Willow Tree
+Wilmington Charter A
+Wilmington Charter A
+Wilmington Charter A
+Wilmington Charter A
+Wilmington Charter A
+Wilmington Charter B
+Wilmington Charter B
+Wilmington Charter B
+Wilmington Charter B
+Wilmington Charter B
+Wilmington Charter B
+Wilmington Charter C
+Wilmington Charter C
+Wilmington Charter C
+Wilmington Charter C
+Wilmington Charter D
+Wilmington Charter D
+Wilmington Charter D
+Wilmington Charter F
+Wilmington Charter G
+Winchester Thurston A 
+Winchester Thurston B
+Winnebago
+Wissahickon A
+Woodford County A
+Woodford County A
+Woodford County B
+Woodford County B
+Woodford County C
+Woodrow Wilson
+Wyoming Area A
+Wyoming Area A
+Wyoming Area B
+Yough
+Zion-Benton
+duPont Manual

@@ -1,0 +1,1479 @@
+GNS A, IS-150, 21.75, 75, 11
+Livingston A, IS-150, 19.81, 51, 11
+Kings Park A, IS-150, 20.64, 67, 11
+High Tech B, IS-150, 17.92, 33, 10
+Mountain Lakes A, IS-150, 19.19, 45, 10
+Stuyvesant, IS-150, 15.28, 21, 10
+High Tech A, IS-150, 23.64, 101, 11
+Bergen A, IS-150, 22.42, 66, 11
+Millburn A, IS-150, 22.12, 55, 11
+Port Jefferson A, IS-150, 18.97, 47, 10
+East Brunswick A, IS-150, 19.27, 64, 10
+St. Joseph A, IS-150, 19.23, 51, 10
+Millburn B, IS-150, 18.14, 32, 10
+Bergen B, IS-150, 16.06, 34, 10
+North Babylon A, IS-150, 15.82, 34, 10
+Smithtown West A, IS-150, 16.28, 28, 10
+Livingston C, IS-150, 18.47, 29, 10
+Livingston B, IS-150, 15.49, 23, 10
+St. Joseph B, IS-150, 14.66, 24, 10
+Wheatley A, IS-150, 13.01, 41, 10
+Kings Park B, IS-150, 14.22, 20, 10
+GNS B, IS-150, 15.26, 21, 10
+VSS A, IS-150, 13.04, 12, 10
+East Brunswick B, IS-150, 14.44, 21, 10
+VSS B, IS-150, 11.90, 9, 10
+East Brunswick C, IS-150, 11.32, 13, 10
+Mountain Lakes B, IS-150, 8.65, 9, 10
+North Babylon B, IS-150, 9.82, 10, 10
+Kings Park C, IS-150, 10.25, 8, 10
+GNS C, IS-150, 8.37, 6, 10
+North Shore, IS-150, 10.73, 7, 10
+N Babylon/Kings Pk C, IS-150, 9.41, 5, 10
+Wheatley B, IS-150, 7.98, 6, 10
+Livingston D, IS-150, 8.91, 3, 10
+Port Jefferson B, IS-150, 9.46, 4, 10
+Smithtown West B, IS-150, 9.57, 6, 10
+Bethlehem, IS-148, 23.33, 104, 12
+High Tech A, IS-148, 24.53, 101, 12
+East Brunswick A, IS-148, 23.07, 78, 12
+Hunter B, IS-148, 20.26, 60, 12
+State College A, IS-148, 22.98, 62, 10
+High Tech B, IS-148, 18.97, 47, 10
+Hunter A, IS-148, 23.55, 76, 10
+Livingston A, IS-148, 21.82, 52, 10
+Lehigh Valley Academy, IS-148, 19.81, 72, 10
+St. Joseph A, IS-148, 19.79, 38, 10
+Pingry A, IS-148, 18.18, 38, 10
+Wilmington Charter B, IS-148, 18.68, 28, 10
+Middlesex County Academy A, IS-148, 19.45, 50, 10
+Livingston B, IS-148, 18.74, 29, 10
+Henderson A, IS-148, 19.08, 32, 10
+State College B, IS-148, 16.70, 37, 10
+St. Joseph B, IS-148, 16.33, 26, 10
+Henderson B, IS-148, 11.67, 12, 10
+East Brunswick B, IS-148, 18.00, 42, 10
+Wilmington Charter C, IS-148, 16.76, 33, 10
+Livingston C, IS-148, 16.48, 24, 10
+Kellenberg B, IS-148, 14.29, 23, 10
+Livingston D, IS-148, 13.17, 18, 10
+Wilmington Charter D, IS-148, 15.60, 21, 10
+Kellenberg A, IS-148, 17.93, 35, 10
+MAST A, IS-148, 10.18, 3, 10
+Middlesex County Academy C, IS-148, 9.40, 9, 10
+Kellenberg C, IS-148, 6.21, 7, 10
+Livingston E, IS-148, 7.78, 1, 10
+Biotech A, IS-148, 12.27, 11, 10
+Camp Hill, IS-148, 15.16, 17, 10
+East Brunswick C, IS-148, 13.75, 19, 10
+MAST B, IS-148, 11.38, 9, 10
+Middlesex County Academy B, IS-148, 8.45, 14, 10
+Pingry B, IS-148, 10.00, 6, 10
+Biotech B, IS-148, 7.65, 5, 10
+Lexington A, BASK, 25.30, 108, 12
+Bethlehem, BASK, 25.30, 106, 12
+High Tech A, BASK, 24.37, 99, 12
+GNS A, BASK, 22.50, 73, 12
+Bergen A, BASK, 22.27, 55, 10
+East Brunswick A, BASK, 23.61, 72, 10
+Hunter A, BASK, 24.29, 66, 10
+Livingston A, BASK, 21.76, 44, 10
+Port Jefferson A, BASK, 21.50, 44, 10
+Acton-Boxborough A, BASK, 18.00, 28, 10
+Hunter B, BASK, 17.32, 25, 10
+Livingston B, BASK, 19.69, 25, 10
+Half Hollow Hills East, BASK, 19.16, 27, 10
+St. Joseph A, BASK, 18.82, 27, 10
+East Brunswick B, BASK, 18.44, 27, 10
+Smithtown West A, BASK, 16.37, 24, 10
+High Tech B, BASK, 18.99, 35, 10
+Kellenberg A, BASK, 18.70, 24, 10
+North Babylon A, BASK, 16.00, 25, 10
+Kellenberg B, BASK, 15.61, 12, 10
+Gotham, BASK, 17.39, 23, 10
+Half Hollow Hills West, BASK, 16.14, 36, 10
+Bronx Science A, BASK, 15.69, 20, 10
+Livingston C, BASK, 16.74, 10, 10
+GNS B, BASK, 14.43, 18, 10
+Bergen B, BASK, 15.34, 11, 10
+Preston, BASK, 11.67, 3, 10
+GNS C, BASK, 10.37, 9, 10
+Bronx Science B, BASK, 10.40, 1, 10
+North Babylon B, BASK, 10.94, 2, 10
+Cardinal Spellman, BASK, 12.77, 4, 10
+Smithtown West B, BASK, 9.06, 3, 10
+High Tech A, CALI, 24.45, 120, 11
+Wilmington Charter A, CALI, 25.49, 99, 10
+East Brunswick A, CALI, 23.71, 82, 11
+Great Valley A, CALI, 20.62, 75, 11
+PALCS A, CALI, 20.83, 52, 9
+Delaware Valley A, CALI, 20.99, 52, 8
+High Tech C , CALI, 17.07, 33, 9
+High Tech B, CALI, 14.86, 38, 8
+Carlisle , CALI, 16.13, 50, 9
+East Brunswick B, CALI, 14.79, 38, 9
+Wissahickon A, CALI, 14.77, 19, 9
+Central Bucks East A, CALI, 14.90, 28, 8
+Wilmington Charter B, CALI, 16.47, 31, 8
+Gunston, CALI, 12.41, 16, 8
+Wilmington Charter C, CALI, 11.04, 15, 8
+Delaware Valley B, CALI, 10.00, 15, 8
+Great Valley B, CALI, 12.63, 18, 8
+Quince Orchard, Maryland_Fall, 23.32, 77, 10
+Thomas Jefferson A, Maryland_Fall, 24.15, 71, 10
+Wilmington Charter A, Maryland_Fall, 23.20, 73, 10
+Manheim Township A, Maryland_Fall, 22.89, 41, 10
+Centennial A, Maryland_Fall, 23.68, 62, 10
+Centennial B, Maryland_Fall, 19.31, 40, 10
+Thomas Jefferson B, Maryland_Fall, 21.90, 43, 10
+Maggie Walker, Maryland_Fall, 21.50, 62, 10
+Georgetown Day A, Maryland_Fall, 19.39, 37, 10
+Walter Johnson, Maryland_Fall, 18.19, 41, 10
+Thomas Jefferson C, Maryland_Fall, 16.53, 35, 10
+Longfellow, Maryland_Fall, 16.97, 41, 10
+St. Anselm's Abbey, Maryland_Fall, 19.91, 38, 10
+Eleanor Roosevelt, Maryland_Fall, 16.46, 15, 10
+Howard, Maryland_Fall, 13.33, 17, 10
+Manheim Township B, Maryland_Fall, 14.33, 10, 9
+Centennial C, Maryland_Fall, 14.04, 10, 10
+Georgetown Day B, Maryland_Fall, 12.68, 22, 10
+Pikesville, Maryland_Fall, 12.98, 15, 9
+John Carroll, Maryland_Fall, 8.92, 8, 9
+Centennial D, Maryland_Fall, 9.19, 4, 9
+Darien A, IS-148, 22.57, 83, 11
+Delaware Valley A, IS-148, 21.63, 75, 11
+Darien B, IS-148, 17.08, 46, 10
+Darien C, IS-148, 14.84, 16, 10
+Ithaca A, IS-148, 20.77, 75, 11
+Manheim Township A, IS-148, 22.61, 83, 11
+Northmont, IS-148, 16.06, 32, 10
+Manheim Township B, IS-148, 16.34, 33, 10
+Lakeland A, IS-148, 15.71, 21, 10
+Ithaca B, IS-148, 14.32, 15, 10
+Wallenpaupeck, IS-148, 9.67, 10, 10
+Ithaca C, IS-148, 11.58, 4, 10
+Wyoming Area A, IS-148, 11.19, 8, 10
+Lakeland B, IS-148, 10.26, 5, 10
+Moravian A, IS-148, 8.65, 5, 10
+Delaware Valley B, IS-148, 10.57, 13, 10
+Wilmington Charter D, BASK, 16.93, 18, 10
+Wilmington Charter F, BASK, 15.33, 7, 10
+Stonewold, BASK, 4.29, 2, 10
+Turk's Head B, BASK, 14.00, 12, 10
+Moorestown Friends, BASK, 8.57, 9, 10
+Wilmington Charter G, BASK, 10.21, 8, 10
+Richard Montgomery A, BASK, 23.85, 102, 12
+Wilmington Charter B, BASK, 20.79, 59, 12
+Great Valley A, BASK, 18.95, 34, 10
+C. Milton Wright, BASK, 14.88, 11, 10
+Richard Montgomery B, BASK, 21.81, 66, 12
+Richard Montgomery C, BASK, 19.44, 40, 10
+Turk's Head A, BASK, 19.67, 33, 12
+Caesar Rodney, BASK, 15.50, 9, 10
+Wilmington Charter A, IS-148, 22.31, 92, 11
+Great Valley High School, IS-148, 19.05, 61, 11
+Wilmington Charter B, IS-148, 14.52, 31, 10
+Wilmington Charter C, IS-148, 16.08, 19, 11
+Wilmington Charter D, IS-148, 11.46, 7, 11
+Caesar Rodney, IS-148, 8.00, 4, 10
+Bethlehem, HFT, 22.08, 43, 9
+Hunter A, HFT, 21.43, 57, 9
+Wilmington Charter A, HFT, 22.73, 46, 9
+Dunbar, HFT, 21.57, 21, 9
+Acton-Boxborough A, HFT, 16.03, 5, 9
+Lexington A, HFT, 22.31, 57, 10
+Bishop Guertin, HFT, 20.71, 24, 9
+AMSA A, HFT, 21.88, 50, 9
+Hunter B, HFT, 18.24, 21, 9
+Hingham, HFT, 16.46, 10, 8
+Phillips Andover A, HFT, 18.93, 41, 10
+Wilmington Charter C, HFT, 15.85, 11, 8
+St. John's, HFT, 18.09, 26, 8
+Lexington B, HFT, 17.28, 17, 9
+Ridgewood B, HFT, 10.96, 2, 8
+Wilmington Charter B, HFT, 17.44, 19, 9
+Needham, HFT, 12.69, 10, 9
+Ridgewood A, HFT, 14.43, 19, 9
+Phillips Andover A, HFT, 14.77, 8, 8
+Acton-Boxborough B, HFT, 10.93, 6, 8
+Lexington C, HFT, 10.07, 6, 9
+AMSA C, HFT, 11.07, 5, 9
+AMSA B, HFT, 12.74, 18, 10
+Phillips Andover A, HFT, 13.31, 3, 10
+Lexington D, HFT, 8.33, 1, 9
+Walnut Hill, HFT, 7.69, 5, 9
+Lehigh Valley Academy, IS-150, 21.61, 59, 11
+Great Valley A, IS-150, 19.65, 68, 11
+Manheim Township B, IS-150, 18.89, 46, 10
+Cedar Crest A, IS-150, 19.23, 44, 10
+Downingtown East A, IS-150, 15.56, 19, 10
+PALCS B, IS-150, 12.67, 10, 10
+Manheim Township A, IS-150, 22.44, 79, 11
+PALCS A, IS-150, 20.68, 55, 11
+Manheim Township C, IS-150, 17.78, 27, 10
+West Chester East A, IS-150, 18.53, 35, 10
+Emmaus, IS-150, 17.73, 30, 10
+Great Valley B, IS-150, 14.30, 24, 10
+Cedar Crest B, IS-150, 17.77, 18, 10
+West Chester East B, IS-150, 14.54, 10, 10
+West Chester East D, IS-150, 11.30, 5, 10
+Great Valley C, IS-150, 8.73, 14, 10
+Renaissance A, IS-150, 10.19, 8, 10
+Renaissance C, IS-150, 7.70, 4, 10
+Downingtown East B, IS-150, 13.25, 19, 10
+West Chester East C, IS-150, 12.23, 11, 10
+Manheim Township D, IS-150, 14.10, 16, 10
+Downingtown East C, IS-150, 8.96, 10, 10
+Renaissance B, IS-150, 9.68, 4, 10
+Great Valley D, IS-150, 3.48, 3, 10
+Ithaca A, IS-150, 21.68, 72, 11
+Delaware Valley A, IS-150, 22.19, 53, 11
+Lakeland, IS-150, 16.04, 26, 11
+Ithaca B, IS-150, 14.44, 25, 11
+Emma Willard, IS-150, 13.25, 16, 11
+Moravian A, IS-150, 13.91, 13, 11
+Brighton A, IS-150, 20.91, 59, 11
+Lisgar, IS-150, 19.86, 49, 11
+Fillmore, IS-150, 12.07, 13, 11
+Geneva A, IS-150, 13.13, 21, 11
+Wallenpaupack, IS-150, 15.31, 9, 11
+Mountain View, IS-150, 9.57, 10, 11
+Brighton B, IS-150, 14.83, 20, 10
+Amherst B, IS-150, 12.22, 21, 10
+Southern Cayuga A, IS-150, 13.78, 13, 10
+Notre Dame, IS-150, 12.97, 20, 10
+Wyoming Area B, IS-150, 12.69, 13, 10
+Greene, IS-150, 10.32, 12, 10
+Amherst A, IS-150, 11.88, 11, 10
+Wyoming Area A, IS-150, 13.38, 6, 10
+Moravian B, IS-150, 9.09, 12, 10
+Delaware Valley B, IS-150, 11.64, 13, 10
+Ithaca D, IS-150, 9.67, 9, 10
+Geneva B, IS-150, 8.33, 8, 10
+Ithaca E, IS-150, 10.61, 15, 10
+Ithaca C, IS-150, 10.28, 9, 10
+Berwick A, IS-150, 12.76, 8, 10
+Marcus Whitman A, IS-150, 8.12, 4, 10
+Pioneer, IS-150, 9.80, 13, 10
+Whitney Point A, IS-150, 10.45, 7, 10
+Southern Cayuga B, IS-150, 11.37, 5, 10
+Whitney Point B, IS-150, 9.26, 6, 10
+Berwick B, IS-150, 9.73, 4, 10
+Marcus Whitman B, IS-150, 8.16, 4, 10
+Dundee, IS-150, 7.00, 4, 10
+Pittsford Mendon, IS-150, 5.00, 0, 10
+Manheim Township A, IS-152, 20.16, 52, 10
+Millburn A, IS-152, 19.58, 36, 10
+Manheim Township B, IS-152, 15.73, 36, 10
+Kellenberg A, IS-152, 18.37, 17, 10
+Livingston A, IS-152, 19.79, 29, 8
+Livingston C, IS-152, 16.91, 23, 8
+Middlesex A, IS-152, 19.87, 34, 8
+Manheim Township C, IS-152, 14.10, 18, 8
+Millburn B, IS-152, 19.45, 27, 8
+Kellenberg B, IS-152, 11.87, 8, 8
+Middlesex B, IS-152, 13.54, 6, 8
+Manheim Township D, IS-152, 9.35, 5, 8
+Livingston B, IS-152, 20.00, 20, 8
+Northern Highlands C, IS-152, 14.93, 14, 8
+Kellenberg C, IS-152, 8.82, 2, 8
+Northern Highlands B, IS-152, 6.90, 2, 8
+Northern Highlands A, IS-152, 13.12, 11, 7
+Livingston D, IS-152, 13.48, 6, 8
+Bergenfield A, IS-152, 10.61, 6, 7
+Kellenberg D, IS-152, 7.89, 3, 8
+Tenafly MS, IS-152, 10.83, 4, 5
+Bergenfield B, IS-152, 10.54, 3, 7
+Bergenfield C, IS-152, 5.19, 5, 7
+Team USA, IS-152, 0.00, 0, 5
+Bethlehem, LIMIT, 20.79, 62, 11
+Phillips Andover A, LIMIT, 18.72, 48, 10
+Bishop Guertin, LIMIT, 20.91, 37, 11
+Hunter A, LIMIT, 16.84, 41, 10
+Phillips Andover A, LIMIT, 17.23, 23, 10
+Belmont, LIMIT, 16.67, 16, 10
+Acton-Boxborough A, LIMIT, 15.52, 15, 10
+Needham, LIMIT, 13.86, 15, 10
+EO Smith A, LIMIT, 16.51, 13, 9
+EO Smith B, LIMIT, 16.10, 22, 9
+Lexington B, LIMIT, 12.39, 23, 9
+Boston Latin, LIMIT, 12.19, 8, 9
+BC High, LIMIT, 10.83, 8, 9
+Phillips Andover B, LIMIT, 12.21, 6, 9
+Brookline, LIMIT, 11.76, 14, 9
+Acton-Boxborough B, LIMIT, 12.17, 12, 9
+Newton South, LIMIT, 13.38, 9, 9
+AMSA A, LIMIT, 10.80, 9, 9
+St. John Paul II, LIMIT, 9.29, 6, 9
+Lexington C, LIMIT, 9.17, 1, 9
+Thomas Jefferson A, ACF_Fall, 22.35
+Wilmington Charter A, ACF_Fall, 23.24
+Dorman, ACF_Fall, 21.67
+Maggie Walker, ACF_Fall, 20.97
+Early College at Guilford, ACF_Fall, 21.07
+Richard Montgomery, ACF_Fall, 22.95
+Thomas Jefferson B, ACF_Fall, 17.03
+Wilmington Charter B, ACF_Fall, 12.77
+Hinsdale Central A, VTACO, 25.53
+DCC A, VTACO, 26.64
+Stevenson, VTACO, 22.56
+IMSA, VTACO, 24.04
+DCC B, VTACO, 22.65
+"Harsha's Hattrick", VTACO, 19.62
+Homewood-Flossmoor, VTACO, 18.89
+Loyola, VTACO, 15.78
+Pine Garden Stream Woods, VTACO, 16.30
+Hinsdale Central B, VTACO, 13.48
+Dublin Scioto, VTACO, 21.47
+Tippecanoe A, VTACO, 16.00
+St. Charles A, VTACO, 14.41
+Miami Valley School, VTACO, 13.08
+St. Charles B, VTACO, 8.77
+Tippecanoe B, VTACO, 7.89
+Van Wert, VTACO, 9.66
+Lausanne A, BISB, 19.07, 18, 7
+White Station B, BISB, 11.92, 5, 5
+Jackson Prep, BISB, 10.68, 6, 5
+Itawamba A, BISB, 11.17, 5, 7
+Germantown Z, BISB, 8.21, 2, 5
+Independence B, BISB, 3.75, 0, 5
+White Station A, BISB, 18.70, 25, 7
+MUS, BISB, 14.56, 12, 7
+Independence A, BISB, 8.00, 4, 5
+Lausanne B, BISB, 10.00, 3, 5
+South Gibson, BISB, 10.94, 1, 5
+Itawamba B, BISB, 7.58, 2, 5
+La Jolla A, SSNCT, 22.34, 97, 11
+CCA A, SSNCT, 20.76, 73, 10
+Rancho Bernardo A, SSNCT, 21.75, 82, 11
+Arcadia A, SSNCT, 20.65, 51, 10
+Irvine A, SSNCT, 18.88, 58, 10
+CCA B, SSNCT, 18.00, 43, 10
+Westview A, SSNCT, 18.74, 59, 10
+Cathedral Catholic A, SSNCT, 17.52, 61, 10
+North Hollywood A, SSNCT, 18.59, 29, 10
+Bishop's A, SSNCT, 16.01, 43, 10
+Francis Parker A, SSNCT, 14.75, 29, 10
+La Jolla B, SSNCT, 10.21, 17, 10
+Arcadia B, SSNCT, 17.11, 52, 11
+Westview C, SSNCT, 11.74, 26, 10
+Cathedral Catholic B, SSNCT, 11.43, 27, 10
+CCA C, SSNCT, 10.62, 17, 10
+Bishop's B, SSNCT, 15.05, 33, 11
+Mount Carmel, SSNCT, 13.18, 23, 10
+North Hollywood B, SSNCT, 13.47, 14, 10
+Francis Parker B, SSNCT, 11.07, 7, 10
+Rancho Bernardo B, SSNCT, 13.54, 22, 10
+Westview B, SSNCT, 8.89, 17, 10
+Irvine B, SSNCT, 6.14, 13, 10
+Del Norte, SSNCT, 8.04, 8, 10
+La Jolla D, SSNCT, 8.00, 13, 10
+La Jolla C, SSNCT, 6.25, 4, 10
+HC A, BISB, 24.50, 80, 10
+Horse, BISB, 21.94, 51, 10
+Auburn, BISB, 22.80, 80, 11
+Not Ok Computer A, BISB, 18.83, 58, 11
+IMSA A, BISB, 22.57, 72, 10
+UC Lab, BISB, 16.68, 34, 11
+University, BISB, 17.47, 26, 10
+Carbondale, BISB, 17.93, 35, 11
+HC B, BISB, 19.86, 41, 10
+Not OK Computer B, BISB, 17.75, 28, 9
+HC C, BISB, 15.69, 16, 10
+Glenwood A, BISB, 16.89, 14, 9
+Bloomington B, BISB, 11.48, 14, 10
+Rolling Meadows, BISB, 10.16, 9, 9
+Springfield, BISB, 15.29, 20, 10
+Glenwood B, BISB, 11.40, 7, 9
+Bloomington A, BISB, 14.22, 25, 10
+Carl Sandburg A, BISB, 11.76, 7, 9
+IMSA B, BISB, 12.56, 4, 10
+Carl Sandburg B, BISB, 12.50, 8, 10
+Fenton, BISB, 9.50, 7, 10
+Bloomington C, BISB, 6.96, 1, 9
+Arcadia C, IS-148, 15.23, 26, 8
+St. Monica, IS-148, 16.06, 11, 8
+HFT Westlake, IS-148, 14.50, 8, 8
+Arcadia D, IS-148, 15.51, 9, 8
+Westview B, IS-148, 15.00, 12, 8
+NoHo A, IS-148, 14.56, 16, 8
+NoHo B, IS-148, 13.83, 4, 8
+Irvine B, IS-148, 9.03, 2, 8
+Irvine A , IS-148, 10.71, 3, 8
+La Jolla, IS-148, 21.57, 60, 10
+CCA, IS-148, 21.19, 88, 11
+Torrey Pines, IS-148, 21.23, 76, 11
+Westview A, IS-148, 22.04, 74, 10
+Arcadia A, IS-148, 21.16, 48, 10
+Arcadia B, IS-148, 17.65, 29, 10
+Rancho Bernardo, IS-148, 19.43, 26, 10
+Los Alamitos, IS-148, 17.89, 36, 10
+Hannibal, IS-148, 20.07, 67, 11
+Hickman A, IS-148, 20.94, 59, 11
+Washington A, IS-148, 17.88, 48, 9
+Orchard Farm A, IS-148, 17.07, 28, 9
+Washington B, IS-148, 15.46, 21, 9
+Hickman B, IS-148, 13.48, 14, 9
+Fort Osage A, IS-148, 12.61, 15, 9
+Tuscumbia, IS-148, 10.81, 7, 9
+Wellsville-Middletown, IS-148, 11.32, 12, 9
+Tolton, IS-148, 6.88, 9, 9
+Washington C, IS-148, 9.84, 8, 9
+Orchard Farm B, IS-148, 8.08, 11, 9
+Saxony Lutheran A, IS-148, 11.13, 10, 9
+Fort Osage B, IS-148, 9.29, 4, 9
+Pilot Grove A, IS-148, 6.78, 8, 9
+Saxony Lutheran B, IS-148, 8.33, 7, 9
+Mexico, IS-148, 10.00, 2, 9
+Pilot Grove B, IS-148, 4.38, 2, 9
+Hubbard, SMART, 17.69, 24, 8
+Fitch, SMART, 11.38, 15, 8
+Brookfield A, SMART, 12.71, 7, 7
+Lake Center A, SMART, 10.86, 4, 7
+East Palestine, SMART, 11.00, 3, 7
+Brookfield B, SMART, 10.00, 3, 7
+Lake Center B, SMART, 4.00, 1, 7
+Wellsville, SMART, 6.80, 1, 7
+Washington A, IS-150, 18.25, 60, 13
+Hannibal A, IS-150, 19.63, 76, 12
+Rock Bridge A, IS-150, 18.61, 45, 12
+Hickman A, IS-150, 20.30, 56, 11
+Ladue A, IS-150, 15.62, 25, 9
+Washington B, IS-150, 15.95, 23, 9
+Poplar Bluff A, IS-150, 16.41, 17, 9
+St. Pius X, IS-150, 12.21, 14, 9
+Ladue B, IS-150, 16.04, 16, 9
+Pilot Grove A, IS-150, 11.30, 18, 10
+Hickman B, IS-150, 12.03, 15, 9
+Tuscumbia, IS-150, 9.38, 2, 10
+Poplar Bluff B, IS-150, 12.35, 4, 9
+Washington C, IS-150, 10.43, 9, 9
+Moberly A, IS-150, 10.88, 9, 9
+Fort Osage B, IS-150, 12.41, 14, 9
+Hermann, IS-150, 11.93, 12, 9
+Rock Bridge B, IS-150, 11.20, 10, 9
+Lutheran (St. Charles) A, IS-150, 13.22, 5, 9
+Ladue C, IS-150, 12.35, 4, 9
+Fort Osage A, IS-150, 10.97, 12, 9
+Lutheran (St. Charles) B, IS-150, 10.82, 9, 9
+Rock Bridge C, IS-150, 8.70, 8, 9
+Mexico, IS-150, 11.00, 6, 9
+Hannibal B, IS-150, 6.60, 3, 9
+Camdenton, IS-150, 5.71, 2, 9
+Moberly B, IS-150, 6.30, 2, 9
+Pilot Grove B, IS-150, 2.50, 0, 9
+Spain Park A, Maryland_Fall, 20.07, 41, 10
+Hoover A, Maryland_Fall, 17.50, 19, 10
+West Point A, Maryland_Fall, 16.62, 12, 10
+James Clemens A, Maryland_Fall, 17.84, 20, 10
+Spain Park B, Maryland_Fall, 13.61, 15, 10
+Vestavia B, Maryland_Fall, 13.03, 10, 7
+Hoover B, Maryland_Fall, 14.85, 22, 7
+West Point JV A, Maryland_Fall, 10.75, 9, 7
+Vestavia A, Maryland_Fall, 10.54, 9, 10
+Vestavia C, Maryland_Fall, 5.56, 5, 7
+Hewitt-Trussville A, Maryland_Fall, 11.75, 8, 7
+James Clemens B, Maryland_Fall, 9.27, 6, 7
+Evangel Classical Christian, Maryland_Fall, 10.23, 7, 7
+West Point B, Maryland_Fall, 8.08, 0, 7
+Hewitt-Trusville B, Maryland_Fall, 7.22, 1, 7
+West Point JV B, Maryland_Fall, 5.79, 6, 7
+NCSSM A, IS-148, 20.83, 57, 9
+Cave Spring A, IS-148, 18.61, 47, 9
+Raleigh Charter A, IS-148, 19.95, 48, 9
+Enloe, IS-148, 19.20, 46, 9
+Millbrook, IS-148, 14.40, 25, 9
+NCSSM B, IS-148, 16.76, 23, 9
+Raleigh Charter B, IS-148, 15.11, 19, 9
+Carrboro A, IS-148, 17.44, 26, 9
+NCSSM C, IS-148, 14.04, 17, 9
+Carrboro B, IS-148, 11.33, 17, 9
+Raleigh Charter C, IS-148, 10.95, 11, 9
+Richmond Sr. B, IS-148, 11.05, 20, 9
+Richmond Sr. A, IS-148, 12.92, 17, 9
+NCSSM D, IS-148, 9.25, 6, 9
+Cave Spring B, IS-148, 10.16, 11, 9
+Northwood, IS-148, 7.06, 2, 9
+South Caldwell, IS-148, 5.88, 3, 9
+"Cave Spring" C, IS-148, 4.44, 0, 9
+Maggie Walker A, BASK, 24.15, 92, 11
+Maggie Walker B, BASK, 21.67, 53, 11
+Maggie Walker C, BASK, 16.67, 31, 11
+Warwick, BASK, 13.20, 9, 11
+Christiansburg A, BASK, 14.27, 9, 11
+HSoBX A, BASK, 13.80, 25, 11
+Mount Vernon, BASK, 13.08, 17, 11
+New Kent, BASK, 11.22, 9, 11
+Howard, BASK, 10.57, 3, 11
+Collegiate, BASK, 10.81, 7, 11
+Christiansburg B, BASK, 10.60, 2, 11
+HSoBX B, BASK, 9.52, 17, 11
+Guilder A, BISB, 20.94, 41, 11
+Davis A, BISB, 22.10, 56, 10
+Escobar A, BISB, 20.36, 52, 10
+Harker , BISB, 20.10, 40, 10
+Valley Christian A, BISB, 16.98, 23, 9
+Palo Alto, BISB, 17.40, 25, 10
+Solo N, BISB, 16.02, 35, 11
+Cat in the Hat A, BISB, 18.53, 31, 10
+Cupertino A, BISB, 16.73, 23, 10
+Bellarmine A, BISB, 17.45, 18, 10
+Saratoga A, BISB, 16.82, 23, 10
+Northgate, BISB, 11.97, 19, 10
+Haarlem A, BISB, 13.55, 15, 8
+Enochs, BISB, 11.64, 11, 9
+Cat in the Hat C, BISB, 12.91, 4, 8
+Mountain View A, BISB, 9.40, 5, 9
+Cat in the Hat B, BISB, 9.57, 6, 9
+St. John's A, BISB, 21.36, 54, 12
+Carnegie A, BISB, 17.21, 31, 10
+St. Thomas A, BISB, 20.83, 47, 12
+Carnegie B, BISB, 14.75, 25, 10
+St. Thomas B, BISB, 15.56, 15, 10
+Logos A, BISB, 12.15, 10, 10
+Awty B, BISB, 11.30, 2, 10
+St. John's B, BISB, 13.62, 17, 10
+Awty A, BISB, 13.51, 13, 10
+St. Thomas C, BISB, 10.00, 5, 10
+St. Thomas D, BISB, 9.58, 7, 10
+Logos B, BISB, 8.25, 1, 10
+Blackburg A, IS-148, 17.08, 26, 10
+Rockbridge B, IS-148, 11.97, 12, 10
+Norfolk Academic Guild, IS-148, 8.12, 11, 10
+Honaker B, IS-148, 5.56, 4, 10
+Rustburg B, IS-148, 4.81, 1, 10
+Hidden Valley B, IS-148, 8.64, 6, 10
+Rustburg A, IS-148, 9.75, 12, 10
+Blacksburg C, IS-148, 7.71, 9, 10
+Rappahannock A, IS-148, 8.13, 8, 10
+Carroll County, IS-148, 9.31, 3, 8
+Christiansburg, IS-148, 14.71, 34, 10
+Hidden Valley A, IS-148, 13.24, 26, 10
+Blacksburg B, IS-148, 11.14, 13, 10
+Patrick Henry, IS-148, 7.25, 5, 10
+Rappahannock B, IS-148, 3.00, 2, 10
+Honaker A, IS-148, 9.01, 9, 10
+Rockbridge A, IS-148, 12.33, 12, 10
+Patrick County, IS-148, 9.86, 9, 10
+Virginia Episcopal , IS-148, 11.08, 10, 10
+Pick Up Squad, IS-148, 7.03, 4, 8
+Dorman A, IS-150, 25.27, 55, 10
+Johns Creek, IS-150, 24.22, 50, 10
+Eastside (GA), IS-150, 22.34, 49, 10
+Northview, IS-150, 26.36, 24, 7
+Chattahoochee, IS-150, 19.85, 21, 7
+James Island, IS-150, 15.22, 20, 7
+Alpharetta, IS-150, 22.69, 49, 10
+Dorman B, IS-150, 20.48, 24, 7
+Collins Hill A, IS-150, 21.49, 15, 6
+Peachtree Ridge, IS-150, 22.27, 15, 6
+Newton, IS-150, 18.93, 15, 6
+Buford, IS-150, 17.05, 9, 6
+Brookwood A, IS-150, 19.25, 12, 6
+Flowery Branch, IS-150, 19.39, 12, 6
+Paideia, IS-150, 17.10, 4, 5
+Brookwood B, IS-150, 18.52, 5, 5
+Collins Hill B, IS-150, 15.00, 14, 6
+Dawkins MS A, IS-150, 17.65, 4, 6
+Seneca (SC), IS-150, 13.20, 4, 5
+Locust Grove A, IS-150, 19.38, 4, 5
+Smiths Station, IS-150, 13.89, 1, 5
+Dawkins MS B, IS-150, 11.25, 3, 5
+Locust Grove B, IS-150, 13.00, 1, 5
+Dorman C, IS-150, 16.67, 1, 5
+LaGrange Acad, IS-150, 2.17, 2, 5
+Rutland, IS-150, 13.64, 0, 5
+CCA A, BASK, 23.83, 84, 10
+Irvine, BASK, 21.08, 56, 9
+Torrey Pines A, BASK, 23.13, 51, 9
+Rancho Bernardo, BASK, 18.75, 29, 9
+La Jolla A, BASK, 24.82, 86, 10
+North Hollywood A, BASK, 22.26, 39, 9
+Del Norte A, BASK, 20.71, 29, 9
+Arcadia A, BASK, 20.88, 36, 9
+Arcadia B, BASK, 18.86, 22, 8
+Francis Parker, BASK, 16.11, 9, 8
+La Jolla B, BASK, 14.55, 9, 8
+CCA B, BASK, 15.94, 15, 8
+Torrey Pines B, BASK, 16.67, 17, 8
+Bishops, BASK, 15.79, 15, 8
+Del Norte B, BASK, 13.67, 15, 10
+North Hollywood B, BASK, 12.30, 15, 9
+Arcadia C, BASK, 12.25, 6, 10
+Arcadia D, BASK, 13.27, 11, 9
+Grauer School, BASK, 13.70, 11, 9
+CCA C, BASK, 14.54, 9, 9
+Black Mountain Middle School B, BASK, 12.91, 4, 9
+Black Mountain Middle School A, BASK, 12.01, 10, 9
+Mesa Verde A, BASK, 11.73, 7, 9
+Mesa Verde B, BASK, 9.26, 1, 9
+Solon A, CALI, 25.68, 135, 11
+Sidney, CALI, 24.06, 107, 11
+Olentangy Liberty A, CALI, 19.54, 39, 10
+Divine Child A, CALI, 15.96, 44, 10
+Solon B, CALI, 19.13, 61, 10
+Olentangy Liberty B, CALI, 16.26, 30, 10
+Olmsted Falls, CALI, 18.00, 22, 10
+Olentangy Liberty C, CALI, 11.27, 20, 10
+Smithville A, CALI, 10.85, 18, 10
+Divine Child B, CALI, 9.60, 10, 10
+Smithville B, CALI, 5.00, 2, 10
+Westlake A, LIMIT, 15.57, 28, 10
+Boardman A, LIMIT, 14.19, 19, 11
+Beachwood, LIMIT, 13.78, 6, 8
+Lowellville, LIMIT, 11.89, 8, 8
+Brookfield, LIMIT, 9.14, 9, 8
+Hubbard, LIMIT, 14.00, 22, 10
+Westlake B, LIMIT, 12.63, 17, 9
+Fitch A, LIMIT, 9.12, 10, 8
+Boardman B, LIMIT, 11.63, 7, 8
+Westlake C, LIMIT, 6.00, 6, 8
+South Range, LIMIT, 7.39, 4, 7
+Salem A, LIMIT, 5.44, 4, 8
+Fitch B, LIMIT, 5.00, 8, 8
+Mineral Ridge, LIMIT, 7.32, 2, 8
+Jackson-Milton, LIMIT, 4.59, 0, 8
+Salem B, LIMIT, 2.89, 1, 7
+State College A, IS-150, 20.84, 44, 11
+Winchester Thurston A , IS-150, 19.10, 40, 11
+Alagar, IS-150, 17.54, 47, 11
+Allderdice A, IS-150, 17.12, 34, 11
+Harding, IS-150, 15.75, 39, 11
+Camp Hill A, IS-150, 17.55, 22, 11
+State College B, IS-150, 13.33, 35, 11
+DuBois, IS-150, 15.15, 23, 11
+Shady Side, IS-150, 14.91, 24, 11
+Indiana A, IS-150, 15.14, 16, 11
+Hampton A, IS-150, 16.11, 22, 11
+South Side A, IS-150, 13.25, 12, 11
+Eden C.A., IS-150, 14.24, 19, 11
+Yough, IS-150, 10.95, 12, 11
+Central Catholic, IS-150, 12.90, 10, 11
+Keystone Oaks, IS-150, 9.82, 6, 11
+Winchester Thurston B, IS-150, 12.50, 15, 11
+Indiana B, IS-150, 10.86, 9, 11
+Hampton B, IS-150, 11.11, 7, 11
+Allderdice B, IS-150, 11.78, 12, 11
+John Marshall, IS-150, 8.81, 2, 11
+Camp Hill B, IS-150, 11.00, 6, 11
+South Side B, IS-150, 6.30, 4, 11
+Westinghouse, IS-150, 6.25, 3, 11
+Centennial A, IS-148, 24.16, 120, 12
+Thomas Jefferson Science & Tech A, IS-148, 22.67, 89, 12
+Thomas Jefferson Science & Tech B, IS-148, 22.56, 54, 11
+Georgetown Day A, IS-148, 20.46, 60, 11
+Centennial B, IS-148, 18.43, 52, 11
+Longfellow Middle A, IS-148, 17.83, 53, 11
+Thomas Jefferson Science & Tech C, IS-148, 15.63, 31, 10
+Georgetown Day B, IS-148, 13.29, 26, 10
+George C. Marshall, IS-148, 14.34, 19, 10
+Howard, IS-148, 10.32, 13, 10
+Centennial C, IS-148, 13.21, 18, 10
+Longfellow Middle B, IS-148, 7.03, 6, 10
+Centennial D, IS-148, 8.42, 5, 10
+Woodrow Wilson, IS-148, 6.94, 3, 10
+DuPont Manual A, BISB, 21.36, 36, 10
+Paul Laurence Dunbar A, BISB, 20.78, 43, 10
+Johnson Central A, BISB, 19.77, 37, 10
+Northmont, BISB, 16.96, 19, 10
+Woodford County A, BISB, 20.58, 47, 10
+DuPont Manual B, BISB, 16.48, 28, 10
+Paul Laurence Dunbar B, BISB, 16.64, 21, 11
+Paul G. Blazer A, BISB, 17.83, 16, 11
+L & N STEM Academy A, BISB, 14.27, 18, 8
+Johnson Central B, BISB, 14.65, 20, 8
+Raceland-Worthington, BISB, 12.69, 13, 8
+Henderson County, BISB, 17.94, 21, 10
+Woodford County B, BISB, 13.29, 8, 9
+Clermont Northeastern A, BISB, 8.70, 3, 8
+Grayson County A, BISB, 11.81, 9, 9
+Highlands, BISB, 12.41, 4, 7
+Paul G. Blazer B, BISB, 11.19, 11, 7
+Loveland, BISB, 12.16, 4, 9
+Owensboro, BISB, 8.37, 2, 7
+Woodford County C, BISB, 12.83, 6, 8
+Charleston Catholic A, BISB, 11.33, 9, 8
+Paintsville, BISB, 10.73, 5, 6
+East Ridge, BISB, 13.47, 7, 7
+L & N STEM Academy B, BISB, 6.18, 2, 8
+Charleston Catholic B, BISB, 6.21, 3, 8
+Clermont Northeastern B, BISB, 7.50, 3, 9
+Grayson County B, BISB, 6.45, 0, 8
+Clever, IS-148, 15.44
+Kickapoo A, IS-148, 13.68
+Aurora, IS-148, 16.41
+Kickapoo B, IS-148, 10.60
+Fordland, IS-148, 11.82
+Strafford, IS-148, 9.27
+Marionville, IS-148, 9.41
+Walnut Grove, IS-148, 11.52
+Sarcoxie A, IS-148, 8.24
+Sarcoxie B, IS-148, 9.13
+Sparta, IS-148, 7.43
+Southwest, IS-148, 11.03
+Hinsdale Central, ACF_Fall, 24.37
+Detroit Catholic Central (MI) A, ACF_Fall, 24.66
+Auburn, ACF_Fall, 23.46
+IMSA, ACF_Fall, 18.81
+Barrington, ACF_Fall, 21.84
+Detroit Catholic Central (MI) B, ACF_Fall, 21.27
+Naperville North, ACF_Fall, 19.80
+Macomb A, ACF_Fall, 18.31
+Fremd, ACF_Fall, 15.65
+Bloomington, ACF_Fall, 15.64
+Saint Joseph (IN), ACF_Fall, 17.10
+Macomb B, ACF_Fall, 9.00
+Davis, ACF_Fall, 21.67
+Bellarmine, ACF_Fall, 16.00
+Haarlem, ACF_Fall, 14.40
+Cupertino B, ACF_Fall, 14.50
+Grasshoppers A, ACF_Fall, 13.43
+Cupertino A, ACF_Fall, 12.53
+Grasshoppers B, ACF_Fall, 12.61
+Lowell, ACF_Fall, 11.53
+Miami Valley, SMART, 19.25, 35, 7
+Liberty A, SMART, 14.72, 16, 7
+Huntington HS, SMART, 14.69, 16, 7
+Waverly A, SMART, 14.49, 14, 7
+Chillicothe A, SMART, 12.80, 9, 7
+Liberty B, SMART, 11.80, 8, 7
+Adena, SMART, 7.50, 1, 7
+Waverly B, SMART, 11.05, 4, 7
+Davis A, IS-150, 21.16, 49, 10
+Homestead A, IS-150, 21.94, 35, 10
+Saratoga A, IS-150, 18.74, 36, 9
+Dougherty Valley A, IS-150, 19.09, 45, 8
+Valley Christian A, IS-150, 19.47, 31, 8
+Bellarmine A, IS-150, 17.34, 27, 8
+Harker HS, IS-150, 20.21, 44, 9
+Graham A, IS-150, 19.21, 31, 8
+Escobar A, IS-150, 18.52, 30, 8
+Cupertino A, IS-150, 17.79, 28, 8
+Palo Alto, IS-150, 16.46, 37, 8
+Northgate, IS-150, 16.21, 23, 8
+Menlo-Atherton, IS-150, 15.62, 17, 8
+Washington, IS-150, 15.65, 16, 8
+Valley Christian B, IS-150, 12.59, 11, 8
+Crystal Springs, IS-150, 17.24, 21, 8
+Enochs, IS-150, 14.12, 4, 8
+Lowell, IS-150, 9.17, 9, 8
+Graham C, IS-150, 11.27, 10, 8
+Graham B, IS-150, 9.29, 7, 8
+CCA A, CALI, 23.88, 130, 12
+La Jolla A, CALI, 24.88, 126, 12
+Torrey Pines, CALI, 22.86, 77, 11
+Westview A, CALI, 22.40, 83, 11
+Irvine, CALI, 20.89, 66, 11
+Del Norte A, CALI, 19.90, 46, 11
+North Hollywood, CALI, 22.17, 73, 10
+Arcadia, CALI, 17.95, 51, 10
+Los Alamitos, CALI, 16.36, 42, 10
+Bishops, CALI, 12.92, 29, 10
+University City, CALI, 10.45, 24, 10
+Westview B, CALI, 10.61, 18, 10
+La Jolla B, CALI, 13.88, 14, 10
+Cathedral, CALI, 14.86, 30, 10
+CCA C, CALI, 8.96, 13, 10
+St. Augustine, CALI, 10.00, 5, 10
+CCA B, CALI, 15.90, 18, 10
+Grauer, CALI, 9.00, 7, 10
+Hoover A, CALI, 7.57, 8, 10
+CCPAA, CALI, 10.83, 12, 10
+Hoover B, CALI, 5.71, 6, 10
+Ladue B, CALI, 17.25, 39, 11
+Marquette A, CALI, 17.83, 58, 11
+Orchard Farm A, CALI, 17.87, 36, 10
+Ladue A, CALI, 17.71, 41, 10
+Francis Howell, CALI, 16.20, 35, 9
+Eureka, CALI, 15.78, 29, 9
+Clayton A, CALI, 15.83, 33, 9
+MICDS, CALI, 15.44, 21, 9
+Ladue C, CALI, 14.72, 28, 9
+Webster Groves, CALI, 13.53, 6, 9
+CBC, CALI, 13.88, 17, 9
+Ladue D, CALI, 13.08, 20, 9
+DeSmet A, CALI, 10.96, 8, 9
+Lutheran-St. Charles A, CALI, 11.27, 10, 9
+DeSmet B, CALI, 11.36, 11, 9
+Ladue E, CALI, 10.00, 20, 9
+Orchard Farm B, CALI, 11.38, 10, 9
+Oakville C, CALI, 9.13, 10, 9
+Clayton B, CALI, 11.03, 15, 9
+Marquette B, CALI, 10.62, 14, 9
+Oakville A, CALI, 10.34, 7, 9
+Lutheran-St. Charles B, CALI, 6.42, 6, 9
+Oakville B, CALI, 8.33, 3, 9
+Warrenton, CALI, 5.60, 1, 9
+ITHACA A, IS-150, 21.68, 72, 11
+DELAWARE VALLEY A, IS-150, 22.19, 53, 11
+LAKELAND, IS-150, 16.04, 26, 11
+ITHACA B, IS-150, 14.44, 25, 11
+EMMA WILLARD, IS-150, 13.25, 16, 11
+MORAVIAN A, IS-150, 13.91, 13, 11
+BRIGHTON A, IS-150, 20.91, 59, 11
+LISGAR, IS-150, 19.86, 49, 11
+FILLMORE, IS-150, 12.07, 13, 11
+GENEVA A, IS-150, 13.13, 21, 11
+WALLENPAUPACK, IS-150, 15.31, 9, 11
+MOUNTAIN VIEW, IS-150, 9.57, 10, 11
+BRIGHTON B, IS-150, 14.83, 20, 10
+AMHERST B, IS-150, 12.22, 21, 10
+SOUTHERN CAYUGA A, IS-150, 13.78, 13, 10
+NOTRE DAME, IS-150, 12.97, 20, 10
+WYOMING AREA B, IS-150, 12.69, 13, 10
+GREENE, IS-150, 10.32, 12, 10
+AMHERST A, IS-150, 11.88, 11, 10
+WYOMING AREA A, IS-150, 13.38, 6, 10
+MORAVIAN B, IS-150, 9.09, 12, 10
+DELAWARE VALLEY B, IS-150, 11.64, 13, 10
+ITHACA D, IS-150, 9.67, 9, 10
+GENEVA B, IS-150, 8.33, 8, 10
+ITHACA E, IS-150, 10.61, 15, 10
+ITHACA C, IS-150, 10.28, 9, 10
+BERWICK A, IS-150, 12.76, 8, 10
+MARCUS WHITMAN A, IS-150, 8.12, 4, 10
+PIONEER, IS-150, 9.80, 13, 10
+WHITNEY POINT A, IS-150, 10.45, 7, 10
+SOUTHERN CAYUGA B, IS-150, 11.37, 5, 10
+WHITNEY POINT B, IS-150, 9.26, 6, 10
+BERWICK B, IS-150, 9.73, 4, 10
+MARCUS WHITMAN B, IS-150, 8.16, 4, 10
+DUNDEE, IS-150, 7.00, 4, 10
+PITTSFORD MENDON, IS-150, 5.00, 0, 10
+Dorman A, IS-148, 23.04, 74, 9
+River Ridge, IS-148, 17.74, 37, 10
+Wade Hampton A, IS-148, 18.60, 23, 10
+Riverside A, IS-148, 17.23, 36, 10
+Dorman B, IS-148, 19.21, 33, 9
+Spartenburg A, IS-148, 14.26, 7, 8
+Spartenburg B, IS-148, 14.08, 13, 8
+Wade Hampton B, IS-148, 14.08, 12, 10
+Mauldin B, IS-148, 12.56, 6, 7
+Thomas Jefferson A, IS-148, 12.97, 10, 8
+High Point Central A, IS-148, 12.31, 9, 8
+Augusta Christian, IS-148, 10.86, 10, 6
+Riverside B, IS-148, 8.82, 4, 6
+Dorman C, IS-148, 10.94, 8, 9
+Senaca, IS-148, 14.17, 4, 7
+High Point Central B, IS-148, 10.67, 10, 8
+Mauldin A, IS-148, 6.84, 1, 6
+Greenville Tech Charter, IS-148, 11.21, 5, 8
+Thomas Jefferson B, IS-148, 4.79, 4, 8
+Dorman D, IS-148, 9.17, 4, 9
+Palmetto, IS-148, 3.64, 0, 4
+Rock Hill A, IS-148, 11.11, 0, 7
+Rock Hill B, IS-148, 6.00, 1, 5
+Alpharetta, LIMIT, 20.25, 46, 10
+Chattahoochee A, LIMIT, 18.39, 50, 10
+Chamblee, LIMIT, 13.48, 19, 10
+Eastside, LIMIT, 15.57, 30, 10
+Marist, LIMIT, 16.32, 29, 10
+St Pius A, LIMIT, 12.63, 14, 10
+Chattahoochee B, LIMIT, 17.59, 30, 10
+Johns Creek, LIMIT, 17.13, 25, 10
+Norcross, LIMIT, 11.44, 9, 10
+Milton, LIMIT, 7.63, 9, 10
+Calhoun A, LIMIT, 8.14, 9, 10
+St. Pius B, LIMIT, 11.50, 7, 10
+Blessed Trinity, LIMIT, 13.18, 10, 10
+Rutland, LIMIT, 5.42, 3, 10
+Wesleyan, LIMIT, 10.00, 9, 10
+Pinecrest, LIMIT, 7.95, 7, 10
+Holy Innocents, LIMIT, 5.95, 5, 10
+Calhoun B, LIMIT, 4.12, 1, 10
+Naperville North A, IS-150, 24.86, 62, 8
+Homewood-Flossmoor A, IS-150, 21.55, 50, 8
+Metea Valley A, IS-150, 20.29, 48, 8
+Champaign Centennial A, IS-150, 17.27, 24, 8
+University of Chicago Lab A, IS-150, 18.43, 42, 8
+Plainfield North A, IS-150, 16.00, 20, 8
+St. Charles East A, IS-150, 16.07, 23, 8
+Providence A, IS-150, 16.45, 19, 8
+Sandburg A, IS-150, 14.06, 12, 8
+University of Chicago Lab B, IS-150, 13.40, 12, 8
+Homewood-Flossmoor B, IS-150, 11.70, 11, 8
+Whitney Young Morning Centennial C Afternoon, IS-150, 10.62, 7, 8
+Kaneland, IS-150, 13.43, 13, 8
+Glenbard East A, IS-150, 15.77, 31, 9
+Oak Lawn A, IS-150, 12.99, 29, 9
+DePaul A, IS-150, 13.46, 9, 8
+Timothy Christian, IS-150, 15.77, 30, 9
+Oswego East A, IS-150, 16.12, 25, 9
+Geneva A, IS-150, 12.50, 11, 8
+Lincoln-Way North A, IS-150, 14.29, 14, 8
+Bradley-Bourbonnais A, IS-150, 14.43, 13, 8
+Metea Valley B, IS-150, 14.18, 20, 8
+Marist A, IS-150, 13.67, 9, 8
+Plainfield North B, IS-150, 12.20, 8, 8
+Naperville North B, IS-150, 13.28, 10, 8
+Glenbard East B, IS-150, 12.69, 14, 8
+Wheaton Academy A, IS-150, 12.46, 16, 8
+Bolingbrook, IS-150, 11.21, 11, 8
+Naperville Central, IS-150, 15.86, 19, 8
+Sandburg B, IS-150, 12.84, 9, 8
+Bishop McNamara, IS-150, 13.75, 16, 8
+Bradley-Bourbonnais B, IS-150, 11.40, 11, 8
+Hoffman Estates, IS-150, 11.32, 7, 8
+Beecher, IS-150, 11.82, 9, 8
+Wheaton Academy B, IS-150, 10.58, 12, 8
+Joliet Central A, IS-150, 8.52, 10, 8
+Joliet Central B, IS-150, 10.20, 11, 8
+Marist B, IS-150, 12.83, 5, 8
+Geneva B, IS-150, 9.78, 4, 8
+Sandburg C, IS-150, 8.75, 4, 8
+Providence B, IS-150, 11.11, 6, 8
+Oswego East B, IS-150, 11.36, 9, 8
+Lincoln-Way North B, IS-150, 12.57, 7, 8
+St. Charles East B, IS-150, 8.64, 4, 8
+Oak Lawn B, IS-150, 7.06, 12, 8
+Champaign Centennial B, IS-150, 7.62, 6, 8
+DePaul B, IS-150, 7.58, 4, 8
+St. Anne, IS-150, 7.59, 3, 8
+Battle Ground Academy, CALI, 19.57, 50, 10
+Merrol Hyde A, CALI, 18.85, 49, 10
+Glasgow, CALI, 17.73, 30, 9
+Dunbar, CALI, 17.93, 51, 10
+Adair County A, CALI, 15.68, 30, 10
+Graves County, CALI, 15.44, 18, 9
+Henderson County B, CALI, 11.32, 15, 9
+Gatton Academy, CALI, 18.04, 43, 10
+Henderson County A, CALI, 20.81, 46, 10
+University School of Nashville, CALI, 17.71, 54, 10
+Daviess County, CALI, 19.42, 40, 10
+Madisonville-North Hopkins, CALI, 15.78, 25, 9
+Merrol Hyde B, CALI, 10.00, 12, 9
+Adair County B, CALI, 10.82, 9, 9
+Cave Spring A, IS-150, 22.09, 73, 10
+Maggie Walker A, IS-150, 19.71, 45, 10
+Walter Johnson, IS-150, 19.16, 57, 10
+Blacksburg B, IS-150, 17.74, 32, 10
+Albemarle, IS-150, 19.21, 42, 11
+Potomac Falls A, IS-150, 19.62, 47, 11
+Blacksburg A, IS-150, 15.58, 29, 11
+Cave Spring B, IS-150, 13.56, 27, 11
+Western Albemarle A, IS-150, 14.45, 27, 9
+Christiansburg A, IS-150, 13.35, 23, 9
+New Kent A, IS-150, 12.38, 7, 9
+Cave Spring C, IS-150, 11.91, 9, 9
+Maggie Walker B, IS-150, 16.80, 28, 9
+Hermitage, IS-150, 14.52, 17, 9
+VA Episcopal, IS-150, 16.47, 12, 9
+Howard, IS-150, 12.72, 10, 9
+Robinson A, IS-150, 13.48, 23, 9
+Godwin, IS-150, 15.81, 19, 9
+Blacksburg C, IS-150, 13.33, 18, 9
+Western Albemarle B, IS-150, 9.52, 15, 9
+Potomac Falls B, IS-150, 15.79, 15, 9
+Clover Hill B, IS-150, 12.64, 15, 9
+Clover Hill A, IS-150, 11.36, 7, 9
+New Kent B, IS-150, 9.63, 4, 9
+Loudoun County, IS-150, 11.58, 5, 9
+Christiansburg B, IS-150, 11.37, 11, 9
+Blacksburg D, IS-150, 11.41, 4, 9
+Robinson B, IS-150, 10.42, 6, 9
+Hannibal A, CALI, 21.99, 96, 11
+Rock Bridge A, CALI, 21.10, 48, 10
+Washington A, CALI, 19.15, 69, 11
+Hallsville A, CALI, 17.60, 23, 10
+Helias A, CALI, 16.13, 31, 10
+Washington B, CALI, 16.39, 33, 10
+Wellsville-Middletown, CALI, 11.89, 21, 10
+Helias B, CALI, 13.47, 13, 10
+Moberly A, CALI, 11.36, 16, 10
+Brookfield, CALI, 8.92, 7, 10
+Hannibal B, CALI, 9.03, 5, 10
+Rock Bridge B, CALI, 10.60, 12, 10
+Pilot Grove A, CALI, 11.12, 20, 10
+Mexico, CALI, 9.27, 14, 10
+Tolton, CALI, 8.11, 9, 10
+Hallsville B, CALI, 6.84, 8, 10
+Pilot Grove B, CALI, 6.19, 3, 10
+Moberly B, CALI, 5.45, 3, 10
+Dorman A, BASK, 23.72, 78, 10
+Springwood, BASK, 17.18, 17, 8
+Hewitt-Trussville, BASK, 16.32, 8, 7
+Woodford County B, BASK, 12.61, 11, 6
+Altamont, BASK, 13.30, 13, 6
+Mountain Brook, BASK, 16.00, 4, 7
+Evangel Classical Christian, BASK, 12.63, 12, 6
+Woodford County A, BASK, 22.77, 67, 10
+Spain Park A, BASK, 22.19, 49, 10
+Oak Mountain, BASK, 15.49, 7, 7
+Covenant Christian Academy, BASK, 16.20, 14, 7
+Vestavia B, BASK, 14.09, 13, 6
+James Clemens, BASK, 12.68, 7, 6
+Springville, BASK, 12.20, 3, 6
+Gadsden City A, BASK, 20.75, 31, 8
+Dorman B, BASK, 19.82, 40, 10
+LAMP, BASK, 15.00, 11, 7
+Spain Park B, BASK, 14.41, 10, 7
+Homewood, BASK, 12.44, 14, 6
+Prestige Worldwide, BASK, 12.00, 9, 6
+Pell City, BASK, 10.97, 2, 6
+West Point, BASK, 18.43, 19, 8
+Buckhorn, BASK, 17.50, 20, 7
+Northridge, BASK, 18.06, 27, 8
+Itawamba, BASK, 14.67, 8, 7
+Vestavia A, BASK, 11.22, 7, 6
+Ramsay, BASK, 13.26, 17, 6
+Sylacauga, BASK, 11.94, 5, 6
+NKC A, CALI, 15.81, 38, 9
+Lee's Summit West A, CALI, 15.81, 39, 9
+St. Pius X A, CALI, 13.66, 24, 9
+Maryville A, CALI, 11.75, 19, 9
+Liberty North, CALI, 13.94, 22, 9
+Lee's Summit North A, CALI, 15.16, 26, 9
+Tuscumbia, CALI, 12.98, 11, 9
+Notre Dame de Sion , CALI, 11.40, 10, 9
+Butler A, CALI, 10.17, 10, 8
+Lee's Summit North B, CALI, 13.15, 12, 8
+Lee's Summit West B, CALI, 10.17, 9, 8
+St. Pius X B, CALI, 7.93, 2, 8
+Pleasant Hill B, CALI, 9.83, 6, 8
+William Chrisman, CALI, 10.27, 12, 8
+Truman, CALI, 8.15, 5, 8
+Pleasant Hill A, CALI, 7.45, 3, 8
+NKC B, CALI, 9.38, 7, 8
+Weaubleau, CALI, 7.62, 5, 8
+Belton, CALI, 6.32, 2, 8
+Maryville B, CALI, 8.26, 5, 8
+Lee's Summit B, CALI, 5.71, 6, 8
+Lafayette, CALI, 8.04, 2, 8
+Butler B, CALI, 8.39, 6, 8
+Lee's Summit A, CALI, 4.17, 1, 8
+Waubonsie Valley, IS-150, 17.23, 29, 8
+Keith Country Day A, IS-150, 15.84, 17, 8
+Boylan, IS-150, 14.14, 11, 7
+Belvidere North A, IS-150, 9.67, 10, 7
+Keith Country Day B, IS-150, 10.70, 6, 7
+Richmond Burton, IS-150, 10.22, 9, 7
+Belvidere North B, IS-150, 3.75, 5, 7
+Winnebago, IS-150, 1.43, 2, 7
+Hinsdale Central A, IS-150, 22.91, 67, 9
+OPRF A, IS-150, 22.72, 45, 9
+WWS A, IS-150, 22.39, 44, 8
+Loyola Academy A, IS-150, 19.09, 28, 8
+Hinsdale Central B, IS-150, 21.26, 49, 9
+Latin School A, IS-150, 20.84, 37, 9
+St. Ignatius, IS-150, 20.98, 40, 8
+Fenwick A, IS-150, 16.50, 33, 8
+St. Viator, IS-150, 19.46, 27, 8
+Lisle, IS-150, 16.72, 13, 8
+Fenwick B, IS-150, 15.19, 19, 8
+Fenton A, IS-150, 12.13, 6, 8
+Maine South A, IS-150, 15.00, 14, 8
+WWS B, IS-150, 13.52, 16, 8
+Notre Dame A, IS-150, 14.81, 16, 8
+Loyola Academy B, IS-150, 10.38, 14, 8
+Fenwick C, IS-150, 14.17, 11, 8
+Latin School B, IS-150, 12.69, 10, 8
+Maine East, IS-150, 11.75, 2, 8
+Fenton B, IS-150, 11.89, 3, 8
+Jones College Prep, IS-150, 11.74, 9, 8
+OPRF B, IS-150, 10.68, 10, 8
+Maine South B, IS-150, 12.14, 8, 8
+Notre Dame B, IS-150, 10.00, 4, 8
+Auburn A, IS-150, 24.38, 93, 11
+IMSA A, IS-150, 23.94, 83, 11
+Stevenson A, IS-150, 21.86, 84, 10
+Barrington, IS-150, 21.48, 67, 10
+Stevenson B, IS-150, 21.07, 51, 10
+Fremd A, IS-150, 20.83, 36, 10
+Carmel A, IS-150, 19.15, 38, 10
+Fremd B, IS-150, 18.28, 29, 10
+Bloomington A, IS-150, 16.02, 33, 10
+IMSA B, IS-150, 15.51, 17, 10
+Savannah (Mo), IS-150, 16.67, 37, 10
+Fremd C, IS-150, 13.92, 16, 10
+Auburn B, IS-150, 13.09, 19, 8
+New Trier, IS-150, 13.00, 16, 8
+Bloomington B, IS-150, 11.82, 7, 8
+Lake Zurich, IS-150, 14.53, 17, 8
+Stevenson C, IS-150, 15.42, 14, 8
+Palatine A, IS-150, 12.04, 10, 8
+IMSA C, IS-150, 14.11, 10, 8
+Fremd D, IS-150, 10.44, 9, 8
+Buffalo Grove A, IS-150, 13.57, 10, 8
+Carmel B, IS-150, 10.36, 9, 8
+Auburn C, IS-150, 9.09, 13, 8
+Palatine B, IS-150, 10.81, 7, 8
+Zion-Benton, IS-150, 12.96, 7, 8
+Leyden, IS-150, 12.55, 5, 8
+Carmel C, IS-150, 11.90, 9, 8
+Batavia, IS-150, 9.55, 10, 8
+Buffalo Grove B, IS-150, 10.54, 7, 8
+Bloomington C, IS-150, 10.00, 6, 8
+Carbondale A, IS-150, 18.30, 37, 8
+Carbondale B, IS-150, 12.86, 14, 8
+Carterville, IS-150, 12.45, 9, 8
+Fairfield, IS-150, 12.71, 11, 8
+Chester, IS-150, 7.50, 5, 8
+Wayzata A, IS-148, 21.25, 75, 12
+Eden Prairie B, IS-148, 18.75, 44, 13
+Eden Prairie A, IS-148, 21.09, 68, 12
+Wayzata B, IS-148, 19.39, 52, 11
+Wayzata C, IS-148, 17.87, 42, 12
+Mounds Park, IS-148, 17.12, 42, 12
+Eden Prairie C, IS-148, 17.41, 23, 11
+Minnetonka B, IS-148, 13.56, 21, 11
+Orono A, IS-148, 13.81, 28, 12
+Wayzata E, IS-148, 13.74, 31, 13
+Wayzata D, IS-148, 14.75, 30, 12
+Rochester Scholars, IS-148, 12.90, 20, 11
+Wayzata F, IS-148, 13.11, 28, 12
+Wayzata G, IS-148, 11.20, 20, 11
+Eden Prairie D, IS-148, 14.75, 14, 12
+Chanhassen, IS-148, 13.94, 19, 11
+St. Paul Central, IS-148, 13.27, 19, 12
+Minnetonka C, IS-148, 11.08, 5, 12
+Orono B, IS-148, 10.99, 8, 12
+Minnetonka A, IS-148, 11.04, 9, 11
+Orono C, IS-148, 5.22, 2, 12
+Minnetonka D, IS-148, 3.33, 1, 11
+Eau Claire Regis A, IS-148, 12.96, 7, 6
+Eau Claire Regis B, IS-148, 4.67, 5, 6
+Eau Claire Regis D, IS-148, 7.31, 3, 6
+Eau Claire Regis C, IS-148, 8.10, 5, 6
+Copley B, IS-150, 16.31, 31, 10
+St. Charles B, IS-150, 15.05, 19, 10
+St. Charles C, IS-150, 12.80, 21, 10
+Little Miami A, IS-150, 13.33, 18, 10
+Solon B, IS-150, 14.21, 21, 10
+Little Miami B, IS-150, 10.83, 10, 10
+Fisher Catholic B, IS-150, 10.42, 11, 10
+Carroll A, IS-150, 12.37, 11, 10
+Carroll B, IS-150, 8.70, 2, 10
+Solon C, IS-150, 8.46, 2, 10
+Carroll C, IS-150, 8.78, 1, 10
+Benjamin Logan, IS-150, 7.50, 2, 10
+Solon A, IS-150, 24.17, 112, 11
+Sidney, IS-150, 22.76, 74, 10
+Russell, IS-150, 20.71, 43, 12
+Fisher Catholic A, IS-150, 17.85, 43, 11
+Dublin Scioto, IS-150, 17.42, 63, 10
+Tippecanoe, IS-150, 17.93, 50, 10
+Culver, IS-150, 17.79, 37, 10
+St. Charles A, IS-150, 21.02, 39, 10
+Northmont, IS-150, 16.92, 32, 10
+Danville, IS-150, 17.62, 20, 10
+Copley A, IS-150, 19.04, 38, 10
+Olmsted Falls, IS-150, 16.70, 19, 10
+Marquette, IS-152, 19.38, 62, 14
+Hannibal, IS-152, 19.01, 71, 12
+Hallsville A, IS-152, 16.12, 36, 13
+Helias A, IS-152, 15.28, 26, 12
+Orchard Farm A, IS-152, 16.43, 31, 12
+Parkway North, IS-152, 16.17, 29, 12
+Webster Groves, IS-152, 12.53, 10, 12
+Parkway South, IS-152, 11.91, 22, 12
+Calvary Lutheran A, IS-152, 12.93, 14, 10
+Wentzville Holt, IS-152, 16.10, 21, 10
+Rolla , IS-152, 13.17, 19, 10
+Orchard Farm B, IS-152, 10.79, 9, 10
+St. Clair, IS-152, 10.27, 17, 10
+Clever B, IS-152, 9.86, 13, 10
+Houston A, IS-152, 9.29, 9, 10
+Cuba, IS-152, 12.14, 10, 10
+Parkway Central, IS-152, 10.68, 15, 9
+Wellsville-Middletown, IS-152, 9.57, 10, 9
+Helias B, IS-152, 11.57, 14, 9
+Oakville A, IS-152, 8.42, 4, 9
+New Haven C, IS-152, 11.92, 8, 9
+Hermann, IS-152, 9.34, 9, 9
+CBC, IS-152, 14.19, 15, 9
+Clever A, IS-152, 8.25, 3, 9
+Gainesville, IS-152, 10.69, 6, 8
+Ft. Zumwalt North, IS-152, 12.90, 7, 9
+Francis Howell North Black, IS-152, 9.48, 12, 9
+Northwest, IS-152, 11.72, 7, 8
+New Haven A, IS-152, 9.62, 4, 8
+Pacific, IS-152, 6.35, 3, 9
+Hallsville B, IS-152, 6.43, 6, 9
+Osage (Chamois), IS-152, 7.61, 4, 9
+Mexico, IS-152, 9.74, 7, 9
+Montgomery Co., IS-152, 8.17, 5, 9
+Owensville B, IS-152, 8.07, 3, 9
+Calvary Lutheran B, IS-152, 7.33, 2, 9
+Troy Buchanan A, IS-152, 7.69, 5, 9
+Valle Catholic, IS-152, 8.42, 2, 9
+Oakville B, IS-152, 6.82, 1, 9
+Silex A, IS-152, 3.70, 3, 9
+St. James, IS-152, 7.05, 6, 9
+St. Paul Lutheran, IS-152, 4.58, 2, 9
+Francis Howell North Gold, IS-152, 5.59, 1, 9
+New Haven B, IS-152, 6.10, 3, 9
+Troy Buchanan B, IS-152, 4.64, 2, 9
+Owensville A, IS-152, 4.38, 1, 9
+Silex B, IS-152, 5.17, 1, 9
+Houston B, IS-152, 3.87, 3, 9
+Auburn A, HFT, 22.93, 69, 11
+Willow Tree, HFT, 21.93, 58, 11
+Barrington, HFT, 21.17, 45, 10
+IMSA A, HFT, 19.27, 50, 10
+Homewood-Flossmoor, HFT, 18.75, 34, 10
+Carbondale, HFT, 16.60, 21, 10
+Wheaton Warrenville South A, HFT, 19.43, 27, 10
+Fremd A, HFT, 16.16, 17, 10
+Latin, HFT, 18.73, 19, 9
+Waubonsie Valley, HFT, 17.65, 16, 9
+Carmel Catholic A, HFT, 17.93, 14, 8
+Fremd B, HFT, 15.54, 8, 8
+Auburn B, HFT, 14.10, 7, 9
+IMSA B, HFT, 12.42, 8, 9
+Bloomington, HFT, 14.77, 18, 9
+Fremd C, HFT, 12.74, 6, 9
+Byron A, HFT, 11.71, 5, 9
+Carmel Catholic B, HFT, 11.72, 2, 9
+Wheaton Warrenville South B, HFT, 11.25, 4, 8
+Belvidere, HFT, 11.86, 2, 8
+Kaneland, HFT, 10.71, 5, 8
+Fenton, HFT, 7.92, 2, 8
+Wheaton Warrenville South C, HFT, 8.00, 0, 8
+Byron B, HFT, 3.33, 0, 8
+Rock Island, HFT, 3.85, 0, 8
+DCC A, IS-152, 24.59, 120, 12
+DCC B, IS-152, 20.78, 85, 12
+DCC C, IS-152, 18.83, 48, 11
+DCD A, IS-152, 19.23, 39, 12
+OPRF, IS-152, 20.12, 43, 11
+DCC D, IS-152, 14.77, 24, 12
+UAIS A, IS-152, 17.83, 59, 12
+Notre Dame A, IS-152, 17.93, 31, 11
+U of D B, IS-152, 16.27, 25, 12
+TCC A, IS-152, 17.50, 33, 11
+Troy A, IS-152, 16.49, 38, 12
+Divine Child A, IS-152, 12.59, 18, 11
+Livonia Churchill, IS-152, 15.17, 23, 11
+Eisenhower, IS-152, 17.46, 30, 11
+DCD B, IS-152, 15.14, 26, 11
+Ottawa Hills A, IS-152, 13.48, 13, 11
+Huron, IS-152, 13.73, 8, 11
+Skyline, IS-152, 13.38, 7, 11
+DeWitt, IS-152, 15.80, 16, 11
+Troy B, IS-152, 13.86, 12, 11
+DCD C, IS-152, 10.00, 15, 11
+Bay City Western, IS-152, 12.43, 7, 11
+Cranbrook, IS-152, 14.22, 17, 11
+Brighton, IS-152, 10.60, 5, 11
+UAIS B, IS-152, 12.45, 7, 12
+Cabrini, IS-152, 12.50, 14, 12
+Ottawa Hills B, IS-152, 13.67, 8, 12
+DCC E, IS-152, 10.97, 18, 11
+GPN A, IS-152, 13.70, 15, 12
+Plymouth, IS-152, 9.45, 10, 11
+Notre Dame B, IS-152, 11.22, 16, 11
+Walled Lake Central, IS-152, 10.22, 13, 12
+U of D A, IS-152, 10.29, 9, 11
+Troy C, IS-152, 10.61, 12, 11
+Divine Child C, IS-152, 11.43, 8, 11
+St. Mary's, IS-152, 7.25, 7, 11
+Divine Child B, IS-152, 9.09, 3, 11
+DCD D, IS-152, 6.98, 8, 11
+TCC B, IS-152, 8.14, 5, 12
+GPN B, IS-152, 5.96, 3, 12
+Toledo Christian, IS-152, 5.28, 5, 11
+Marshall, IS-152, 5.88, 2, 11
+Quincy A, IS-152, 8.60, 5, 7
+Quincy B, IS-152, 8.26, 2, 7
+Richard Montgomery, IS-152, 22.44, 90, 13
+Maggie Walker A, IS-152, 22.47, 83, 15
+Thomas Jefferson HSST A, IS-152, 21.72, 60, 12
+Cave Spring A, IS-152, 18.66, 60, 12
+Dorman A, IS-152, 22.06, 61, 11
+Albemarle, IS-152, 20.50, 30, 11
+Thomas Jefferson HSST B, IS-152, 18.56, 35, 11
+Dorman B, IS-152, 17.56, 42, 11
+Maggie Walker B, IS-152, 17.76, 42, 11
+Nandua, IS-152, 12.55, 19, 11
+Dorman C, IS-152, 12.06, 2, 11
+Maggie Walker C, IS-152, 13.20, 7, 11
+New Kent A, IS-152, 12.76, 16, 11
+Cosby A, IS-152, 13.50, 19, 11
+Glen Allen, IS-152, 13.15, 19, 11
+Cave Spring B, IS-152, 13.88, 18, 11
+Midlothian, IS-152, 12.33, 16, 11
+Galileo Magnet, IS-152, 14.52, 15, 11
+Homeschool Out of the Box, IS-152, 12.07, 10, 11
+Cosby B, IS-152, 9.35, 4, 11
+New Kent B, IS-152, 9.65, 5, 11
+Hampton, IS-152, 9.82, 6, 11
+Howard, IS-152, 8.77, 11, 11
+New Kent C, IS-152, 7.42, 3, 11
+Stevenson A, BASK, 24.39, 94, 10
+Hinsdale Center, BASK, 25.45, 88, 10
+IMSA, BASK, 24.65, 67, 10
+Wheaton Warrenville South A, BASK, 22.87, 47, 10
+Auburn, BASK, 22.64, 44, 10
+UChicago Lab A, BASK, 22.17, 51, 10
+Pine Garden Stream Woods, BASK, 22.01, 45, 12
+Stevenson C, BASK, 21.67, 63, 12
+Latin A, BASK, 22.27, 44, 10
+Fremd A, BASK, 20.71, 37, 10
+Fenwick A, BASK, 17.16, 31, 10
+Stevenson B, BASK, 16.30, 31, 10
+Loyola A, BASK, 20.66, 36, 10
+Fremd B, BASK, 19.61, 36, 10
+Fenwick B, BASK, 16.55, 15, 10
+Loyola B, BASK, 13.90, 21, 10
+Fremd C, BASK, 16.46, 17, 10
+Latin B, BASK, 15.31, 17, 10
+WWS B, BASK, 14.82, 14, 10
+Latin C, BASK, 13.26, 10, 10
+Fenwick D, BASK, 11.40, 16, 10
+Fenwick C, BASK, 14.00, 4, 10
+Loyola C, BASK, 13.71, 12, 10
+Chicago Lab B, BASK, 12.23, 11, 10
+GDS A, GSAC, 20.75, 55, 12
+Richard Montgomery A, GSAC, 22.90, 58, 12
+Richard Montgomery B, GSAC, 21.11, 35, 11
+Magical Unicorn Rainbow Phoenixes, GSAC, 21.09, 37, 11
+Cave Spring A, GSAC, 21.47, 32, 11
+Christiansburg, GSAC, 14.79, 16, 11
+The Wikipedia Appreciation Society, GSAC, 16.67, 15, 11
+Kittylonians, GSAC, 16.58, 25, 11
+New Kent A, GSAC, 14.81, 11, 11
+Clover Hill A, GSAC, 12.82, 8, 11
+Cave Spring B, GSAC, 15.79, 6, 11
+New Kent C, GSAC, 11.94, 3, 11
+Howard, GSAC, 16.03, 20, 11
+Western Albemarle, GSAC, 12.39, 13, 11
+HSOBX A, GSAC, 12.67, 14, 11
+GDS B, GSAC, 11.49, 7, 11
+Cosby A, GSAC, 9.30, 9, 11
+New Kent B, GSAC, 7.92, 5, 11
+Deep Run, GSAC, 13.11, 8, 7
+Clover Hill B, GSAC, 7.69, 4, 11
+Cosby B, GSAC, 10.08, 2, 11
+Fork Union Military Academy, GSAC, 6.30, 3, 11
+House, GSAC, 9.58, 3, 4
+Clover Hill C, GSAC, 8.38, 3, 11
+HSOBX B, GSAC, 6.39, 5, 11
+TP A, IS-150, 23.47, 99, 12
+LJ A, IS-150, 22.54, 79, 12
+TP B, IS-150, 19.56, 37, 10
+RB A, IS-150, 22.56, 77, 10
+WV A, IS-150, 22.02, 66, 10
+Irvine, IS-150, 19.78, 50, 10
+CCA A, IS-150, 22.41, 64, 10
+CCA B, IS-150, 18.93, 49, 10
+WV B, IS-150, 15.87, 21, 10
+SR A, IS-150, 14.35, 18, 10
+LJ B, IS-150, 13.75, 15, 10
+MC A, IS-150, 13.97, 15, 10
+Arc A, IS-150, 20.25, 46, 9
+SR B, IS-150, 16.12, 23, 9
+TP C, IS-150, 13.40, 18, 10
+WV C, IS-150, 12.96, 20, 9
+RB B, IS-150, 11.64, 9, 9
+Arc B, IS-150, 13.92, 7, 9
+MC B, IS-150, 12.62, 12, 9
+RB D, IS-150, 10.56, 5, 9
+CCA C, IS-150, 11.09, 7, 9
+RB C, IS-150, 7.73, 7, 9
+LJ C, IS-150, 6.88, 4, 9
+Hinsdale Central A, Missouri_Open, 16.80, 37, 10
+Horse, Missouri_Open, 13.13, 12, 10
+Auburn A, Missouri_Open, 15.44, 17, 10
+Stevenson A, Missouri_Open, 12.29, 8, 10
+IMSA A, Missouri_Open, 14.36, 15, 10
+University of Chicago Lab A, Missouri_Open, 11.79, 7, 10
+Oak Park River Forest A, Missouri_Open, 11.42, 3, 10
+Centennial, Missouri_Open, 6.73, 2, 10
+Specters of Europe, SMART, 21.27, 43, 9
+Stevenson B, SMART, 21.21, 56, 9
+Loyola A, SMART, 22.61, 38, 9
+Homewood-Flossmoor, SMART, 19.88, 27, 8
+Latin A, SMART, 21.32, 45, 9
+Wheaton Warrenville South A, SMART, 20.46, 56, 9
+Fremd A, SMART, 22.45, 37, 9
+Carmel Catholic A, SMART, 21.71, 32, 8
+Palatine A, SMART, 19.07, 19, 8
+Springfield A, SMART, 20.00, 32, 8
+Fremd B, SMART, 20.13, 31, 8
+St. Viator, SMART, 20.43, 18, 8
+Northmont A, SMART, 19.79, 36, 8
+Bloomington, SMART, 18.86, 42, 8
+Hinsdale Central B, SMART, 20.34, 40, 8
+St. Teresa, SMART, 17.25, 14, 8
+Maine South A, SMART, 16.43, 9, 8
+Keith Country Day, SMART, 18.26, 19, 8
+Auburn B, SMART, 16.79, 18, 8
+Fremd D, SMART, 15.49, 9, 8
+Benet A, SMART, 15.08, 18, 8
+Loyola B, SMART, 16.42, 20, 8
+Palatine B, SMART, 15.20, 10, 8
+Libertyville, SMART, 16.02, 8, 8
+Wheaton Academy A, SMART, 15.42, 21, 8
+Latin B, SMART, 15.22, 16, 8
+Carmel Catholic B, SMART, 15.93, 10, 8
+Buffalo Grove, SMART, 14.90, 11, 8
+Lisle, SMART, 17.38, 14, 8
+Wheaton Warrenville South B, SMART, 15.23, 17, 8
+Byron, SMART, 14.55, 15, 8
+Hinsdale Central C, SMART, 14.71, 9, 8
+Sandburg, SMART, 16.36, 14, 8
+Fremd C, SMART, 14.85, 21, 8
+Stevenson C, SMART, 14.65, 17, 8
+Springfield B, SMART, 14.15, 9, 8
+Oak Park-River Forest B, SMART, 15.23, 14, 8
+Stillman Valley, SMART, 12.35, 5, 8
+Hoffman Estates, SMART, 13.21, 12, 8
+Chicago Lab B, SMART, 12.25, 10, 8
+New Trier, SMART, 10.81, 16, 8
+Benet B, SMART, 12.82, 16, 8
+Wheaton Academy B, SMART, 12.65, 5, 8
+Northmont B, SMART, 11.02, 4, 8
+Maine South B, SMART, 11.33, 6, 8
+Fenton, SMART, 10.21, 8, 8
+Stevenson D, SMART, 10.44, 3, 8
+Auburn C, SMART, 8.78, 4, 8
+Detroit Catholic Central, Northmont, 25.71, 132, 11
+Dorman A, Northmont, 23.84, 97, 11
+Johnson Central A, Northmont, 21.90, 49, 11
+Russell A, Northmont, 19.21, 40, 10
+Not Battle Ground Academy, Northmont, 20.70, 47, 11
+Dorman B, Northmont, 16.28, 43, 11
+Campbell County A, Northmont, 19.82, 25, 10
+duPont Manual, Northmont, 19.43, 31, 10
+Daviess County, Northmont, 19.09, 28, 10
+Dunbar B, Northmont, 18.10, 33, 11
+Merrol Hyde A, Northmont, 18.10, 26, 10
+University School of Nashville, Northmont, 16.55, 27, 10
+Henderson County, Northmont, 17.41, 27, 10
+Gallatin, Northmont, 15.00, 18, 10
+Russell C, Northmont, 12.25, 12, 10
+Adair County A, Northmont, 14.26, 12, 10
+Olentangy Liberty, Northmont, 16.00, 20, 10
+Dunbar A, Northmont, 17.47, 25, 10
+Johnson Central B, Northmont, 13.45, 11, 10
+Trinity A, Northmont, 14.72, 11, 10
+Ballard, Northmont, 12.92, 10, 10
+Madisonville North Hopkins, Northmont, 10.52, 11, 10
+Russell B, Northmont, 12.17, 8, 10
+McCracken County B, Northmont, 10.35, 13, 10
+McCracken County A, Northmont, 14.40, 8, 10
+Grayson County, Northmont, 8.63, 5, 10
+Adair County B, Northmont, 9.14, 2, 10
+Campbell County B, Northmont, 14.11, 12, 10
+Portland, Northmont, 7.92, 5, 10
+Dorman C, Northmont, 9.82, 9, 10
+Trinity B, Northmont, 6.36, 5, 10
+Merrol Hyde B, Northmont, 4.86, 5, 10
+Hickman, BISB, 21.61, 36, 11
+Hannibal, BISB, 17.64, 41, 11
+Rock Bridge, BISB, 18.38, 24, 9
+Hallsville A, BISB, 14.29, 16, 9
+Centralia A, BISB, 15.15, 10, 9
+Helias A, BISB, 16.12, 12, 9
+Helias B, BISB, 11.69, 17, 9
+Fort Osage A, BISB, 10.44, 7, 9
+Pilot Grove A, BISB, 9.38, 9, 9
+Tuscumbia, BISB, 10.51, 0, 9
+Centralia B, BISB, 8.78, 8, 9
+Jefferson City, BISB, 6.86, 0, 9
+Wellsville-Middletown, BISB, 10.13, 7, 9
+Hallsville B, BISB, 7.54, 4, 9
+Moberly A, BISB, 7.36, 3, 9
+Fort Osage B, BISB, 5.48, 1, 9
+Pilot Grove B, BISB, 4.38, 0, 9
+Moberly B, BISB, 5.00, 1, 9

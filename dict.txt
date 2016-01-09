@@ -1,1 +1,3673 @@
-{"Caesar Rodney": {"IS-148": 8.0, "BASK": 14.6385676549}, "FILLMORE": {"IS-150": 12.07}, "Wyoming Area A": {"IS-150": 13.38, "IS-148": 11.19}, "Wyoming Area B": {"IS-150": 12.69}, "Byron B": {"HFT": 4.17358452157}, "Byron A": {"HFT": 12.4610497919}, "Dundee": {"IS-150": 7.0}, "Fenwick D": {"BASK": 10.232096147}, "Gotham": {"BASK": 16.6698435451}, "HC C": {"BISB": 17.9173931979}, "HC B": {"BISB": 22.1346079381}, "HC A": {"BISB": 26.8271442437}, "Latin School A": {"IS-150": 20.84}, "Bishop McNamara": {"IS-150": 13.75}, "St. Charles B": {"IS-150": 15.05, "VTACO": 8.27453959347}, "St. Charles C": {"IS-150": 12.8}, "Hewitt-Trussville": {"BASK": 15.5198619564}, "Latin School B": {"IS-150": 12.69}, "Spartenburg B": {"IS-148": 14.08}, "Wade Hampton A": {"IS-148": 18.6}, "Battle Ground Academy": {"CALI": 21.3787480299}, "MORAVIAN B": {"IS-150": 9.09}, "Maggie Walker A": {"IS-152": 22.47, "IS-150": 19.71, "BASK": 23.9351477873}, "Buford": {"IS-150": 17.05}, "Winchester Thurston A ": {"IS-150": 19.1}, "Kickapoo A": {"IS-148": 13.68}, "Miami Valley School": {"VTACO": 12.0667667526}, "Marquette B": {"CALI": 12.8489902491}, "Brookwood A": {"IS-150": 19.25}, "Georgetown Day B": {"Maryland_Fall": 13.594299027, "IS-148": 13.29}, "Oak Mountain": {"BASK": 14.6278201634}, "Richmond Sr. A": {"IS-148": 12.92}, "Richmond Sr. B": {"IS-148": 11.05}, "Maine South B": {"IS-150": 12.14, "SMART": 11.3804047086}, "Campbell County B": {"Northmont": 15.0866880025}, "Paul Laurence Dunbar B": {"BISB": 18.8781495536}, "Maine South A": {"IS-150": 15.0, "SMART": 17.4650292388}, "Quince Orchard": {"Maryland_Fall": 23.3199772305}, "Lakeland": {"IS-150": 16.04}, "PALCS A": {"CALI": 22.5795854381, "IS-150": 20.68}, "Clayton B": {"CALI": 13.2397389296}, "St. Mary's": {"IS-152": 7.25}, "Liberty North": {"CALI": 16.0131015153}, "Bay City Western": {"IS-152": 12.43}, "OPRF B": {"IS-150": 10.68}, "OPRF A": {"IS-150": 22.72}, "Bolingbrook": {"IS-150": 11.21}, "Irvine A": {"SSNCT": 20.5915633592}, "Augusta Christian": {"IS-148": 10.86}, "Hannibal": {"IS-152": 19.01, "IS-148": 20.07, "BISB": 19.8894720333}, "DCC A": {"IS-152": 24.59, "VTACO": 23.997764497}, "Calvary Lutheran B": {"IS-152": 7.33}, "Centralia B": {"BISB": 10.9291548636}, "Deep Run": {"GSAC": 15.4097193243}, "Osage (Chamois)": {"IS-152": 7.61}, "Ft. Zumwalt North": {"IS-152": 12.9}, "Hampton A": {"IS-150": 16.11}, "Hampton B": {"IS-150": 11.11}, "South Gibson": {"BISB": 13.1136114196}, "Wesleyan": {"LIMIT": 13.6890822583}, "Libertyville": {"SMART": 16.9758731491}, "St. John Paul II": {"LIMIT": 12.9239457662}, "DCC E": {"IS-152": 10.97}, "IMSA": {"ACF_Fall": 16.6947856166, "VTACO": 21.7101100622, "BASK": 24.4725223614}, "VA Episcopal": {"IS-150": 16.47}, "Washington B": {"CALI": 18.3480631424, "IS-150": 15.95, "IS-148": 15.46}, "Washington C": {"IS-150": 10.43, "IS-148": 9.84}, "Washington A": {"CALI": 20.9784688938, "IS-150": 18.25, "IS-148": 17.88}, "Francis Howell": {"CALI": 18.1669844856}, "Arcadia D": {"IS-148": 15.51, "BASK": 12.2418770543}, "Raleigh Charter C": {"IS-148": 10.95}, "Logos A": {"BISB": 14.33731162}, "Raleigh Charter A": {"IS-148": 19.95}, "Arcadia A": {"SSNCT": 22.3892271892, "IS-148": 21.16, "BASK": 20.4207180725}, "Arcadia B": {"SSNCT": 18.7938995293, "IS-148": 17.65, "BASK": 18.249724793}, "Arcadia C": {"IS-148": 15.23, "BASK": 11.145632923}, "NCSSM C": {"IS-148": 14.04}, "NCSSM B": {"IS-148": 16.76}, "NCSSM A": {"IS-148": 20.83}, "Valle Catholic": {"IS-152": 8.42}, "Dougherty Valley A": {"IS-150": 19.09}, "NCSSM D": {"IS-148": 9.25}, "Albemarle": {"IS-152": 20.5, "IS-150": 19.21}, "Hingham": {"HFT": 17.158598722}, "Tippecanoe B": {"VTACO": 7.50025655402}, "University of Chicago Lab A": {"IS-150": 18.43, "Missouri_Open": 14.3557063152}, "Pingry B": {"IS-148": 10.0}, "Pingry A": {"IS-148": 18.18}, "James Island": {"IS-150": 15.22}, "Ottawa Hills B": {"IS-152": 13.67}, "Marquette A": {"CALI": 19.7204487518}, "Moberly B": {"CALI": 7.92174469306, "IS-150": 6.3, "BISB": 7.10635589048}, "Moberly A": {"CALI": 13.5542439651, "IS-150": 10.88, "BISB": 9.49307694245}, "Cabrini": {"IS-152": 12.5}, "Ithaca B": {"IS-150": 14.44, "IS-148": 14.32}, "Ithaca C": {"IS-150": 10.28, "IS-148": 11.58}, "Ithaca A": {"IS-150": 21.68, "IS-148": 20.77}, "Moravian B": {"IS-150": 9.09}, "Moravian A": {"IS-150": 13.91, "IS-148": 8.65}, "Ithaca E": {"IS-150": 10.61}, "Walnut Grove": {"IS-148": 11.52}, "New Trier": {"IS-150": 13.0, "SMART": 10.7600116193}, "Ottawa Hills A": {"IS-152": 13.48}, "Calhoun A": {"LIMIT": 11.6846401804}, "Carmel A": {"IS-150": 19.15}, "Carmel B": {"IS-150": 10.36}, "Carmel C": {"IS-150": 11.9}, "Wellsville-Middletown": {"IS-152": 9.57, "IS-148": 11.32, "BISB": 12.2944402111, "CALI": 14.059358113}, "Loyola": {"VTACO": 14.4424078964}, "Notre Dame de Sion ": {"CALI": 13.5923657875}, "Northwest": {"IS-152": 11.72}, "Wade Hampton B": {"IS-148": 14.08}, "Highlands": {"BISB": 14.6002554647}, "Bishops": {"CALI": 15.0409950419, "BASK": 14.9502449079}, "St. Paul Central": {"IS-148": 13.27}, "High Tech C ": {"CALI": 18.9961341246}, "State College B": {"IS-150": 13.33, "IS-148": 16.7}, "State College A": {"IS-150": 20.84, "IS-148": 22.98}, "Gatton Academy": {"CALI": 19.9205883199}, "John Carroll": {"Maryland_Fall": 10.1574052257}, "Greene": {"IS-150": 10.32}, "Spartenburg A": {"IS-148": 14.26}, "Dorman": {"ACF_Fall": 19.8823515731}, "Calvary Lutheran A": {"IS-152": 12.93}, "Hickman": {"BISB": 23.9044222775}, "Lake Center A": {"SMART": 10.8196648009}, "U of D A": {"IS-152": 10.29}, "Godwin": {"IS-150": 15.81}, "WALLENPAUPACK": {"IS-150": 15.31}, "CBC": {"IS-152": 14.19, "CALI": 15.9559187816}, "Camp Hill": {"IS-148": 15.16}, "Saratoga A": {"IS-150": 18.74, "BISB": 19.0601876}, "Raceland-Worthington": {"BISB": 14.883425759}, "Lexington B": {"LIMIT": 16.2646825627, "HFT": 17.969544011}, "Metea Valley B": {"IS-150": 14.18}, "Metea Valley A": {"IS-150": 20.29}, "Not Battle Ground Academy": {"Northmont": 21.5624693769}, "Olentangy Liberty": {"Northmont": 16.9439303087}, "Detroit Catholic Central (MI) B": {"ACF_Fall": 19.4365381526}, "Lowellville": {"LIMIT": 15.7258540471}, "Clover Hill A": {"IS-150": 11.36, "GSAC": 15.1224620553}, "Marquette": {"IS-152": 19.38}, "Liberty B": {"SMART": 11.9411446163}, "Clover Hill B": {"IS-150": 12.64, "GSAC": 10.0409800211}, "Bergenfield A": {"IS-152": 10.61}, "Bergenfield B": {"IS-152": 10.54}, "Bergenfield C": {"IS-152": 5.19}, "Copley A": {"IS-150": 19.04}, "Copley B": {"IS-150": 16.31}, "Wheaton Warrenville South C": {"HFT": 8.79201683811}, "DuBois": {"IS-150": 15.15}, "Bloomington C": {"IS-150": 10.0, "BISB": 9.08854795059}, "Bloomington B": {"IS-150": 11.82, "BISB": 13.6597255586}, "Bloomington A": {"IS-150": 16.02, "BISB": 16.4307491529}, "UChicago Lab A": {"BASK": 21.8071444737}, "Lisle": {"IS-150": 16.72, "SMART": 18.5984396905}, "Salem B": {"LIMIT": 6.02694076688}, "Little Miami B": {"IS-150": 10.83}, "Little Miami A": {"IS-150": 13.33}, "Butler A": {"CALI": 12.4201197462}, "St. John's B": {"BISB": 15.8239556651}, "Ladue D": {"CALI": 15.1934823319}, "Ladue E": {"CALI": 12.2581020006}, "Ladue B": {"CALI": 19.1676823258, "IS-150": 16.04}, "Ladue C": {"CALI": 16.7564770537, "IS-150": 12.35}, "Ladue A": {"CALI": 19.6060832844, "IS-150": 15.62}, "Middlesex County Academy A": {"IS-148": 19.45}, "Awty B": {"BISB": 13.4776875123}, "Awty A": {"BISB": 15.7127101923}, "Northwood": {"IS-148": 7.06}, "Needham": {"LIMIT": 17.8488383985, "HFT": 13.430228308}, "High Point Central A": {"IS-148": 12.31}, "Russell B": {"Northmont": 13.180312302}, "Russell A": {"Northmont": 20.0982942255}, "Middlesex County Academy B": {"IS-148": 8.45}, "Brighton": {"IS-152": 10.6}, "Brighton A": {"IS-150": 20.91}, "Cranbrook": {"IS-152": 14.22}, "Brighton B": {"IS-150": 14.83}, "Cosby A": {"IS-152": 13.5, "GSAC": 11.6357531351}, "Saint Joseph (IN)": {"ACF_Fall": 14.7889332441}, "Torrey Pines": {"CALI": 24.5142679292, "IS-148": 21.23}, "William Chrisman": {"CALI": 12.5154243024}, "Norcross": {"LIMIT": 15.2409083831}, "Kaneland": {"IS-150": 13.43, "HFT": 11.4720921224}, "Gallatin": {"Northmont": 15.9612624218}, "Fort Osage A": {"BISB": 12.6079501798, "IS-150": 10.97, "IS-148": 12.61}, "Fort Osage B": {"BISB": 7.59179068071, "IS-150": 12.41, "IS-148": 9.29}, "Cosby B": {"IS-152": 9.35, "GSAC": 12.4083761345}, "Middlesex B": {"IS-152": 13.54}, "Notre Dame": {"IS-150": 12.97}, "Middlesex A": {"IS-152": 19.87}, "New Haven A": {"IS-152": 9.62}, "Not Ok Computer A": {"BISB": 21.0929457841}, "Logos B": {"BISB": 10.3931539493}, "St. Pius X B": {"CALI": 10.2852976871}, "Mineral Ridge": {"LIMIT": 10.8009614148}, "St. Pius X A": {"CALI": 15.7462487579}, "North Hollywood B": {"SSNCT": 15.0970089412, "BASK": 11.1993703805}, "North Hollywood A": {"SSNCT": 20.2970308673, "BASK": 21.9038718971}, "Byron": {"SMART": 15.2220696081}, "Pacific": {"IS-152": 6.35}, "Montgomery Co.": {"IS-152": 8.17}, "Eleanor Roosevelt": {"Maryland_Fall": 17.0494741783}, "Maggie Walker": {"ACF_Fall": 19.1021780872, "Maryland_Fall": 21.6563743799}, "New Haven B": {"IS-152": 6.1}, "MARCUS WHITMAN A": {"IS-150": 8.12}, "Francis Howell North Black": {"IS-152": 9.48}, "MARCUS WHITMAN B": {"IS-150": 8.16}, "Cathedral": {"CALI": 16.8899034324}, "Lee's Summit West A": {"CALI": 17.7952967164}, "Champaign Centennial A": {"IS-150": 17.27}, "WHITNEY POINT B": {"IS-150": 9.26}, "WHITNEY POINT A": {"IS-150": 10.45}, "Champaign Centennial B": {"IS-150": 7.62}, "Toledo Christian": {"IS-152": 5.28}, "Madisonville-North Hopkins": {"CALI": 17.7667053495}, "Rustburg B": {"IS-148": 4.81}, "Lexington A": {"BASK": 25.1711093078, "HFT": 22.9440010886}, "PITTSFORD MENDON": {"IS-150": 5.0}, "Rustburg A": {"IS-148": 9.75}, "Pioneer": {"IS-150": 9.8}, "Beecher": {"IS-150": 11.82}, "Cat in the Hat A": {"BISB": 20.7895490402}, "Blackburg A": {"IS-148": 17.08}, "Tippecanoe": {"IS-150": 17.93}, "Bradley-Bourbonnais B": {"IS-150": 11.4}, "Bradley-Bourbonnais A": {"IS-150": 14.43}, "Carl Sandburg B": {"BISB": 14.6912744879}, "Henderson County": {"BISB": 20.1928687772, "Northmont": 18.3294920291}, "Glasgow": {"CALI": 19.6251441956}, "Lee's Summit A": {"CALI": 6.70184637357}, "DuPont Manual A": {"BISB": 23.6515916576}, "Haarlem A": {"BISB": 15.7531630915}, "Naperville North": {"ACF_Fall": 17.7981738323}, "Campbell County A": {"Northmont": 20.6977216365}, "L & N STEM Academy A": {"BISB": 16.4813152768}, "Amherst B": {"IS-150": 12.22}, "Amherst A": {"IS-150": 11.88}, "L & N STEM Academy B": {"BISB": 8.29971641647}, "Zion-Benton": {"IS-150": 12.96}, "OPRF": {"IS-152": 20.12}, "Irvine": {"CALI": 22.6367681719, "IS-150": 19.78, "BASK": 20.6356679021}, "CCA B": {"SSNCT": 19.6978095907, "CALI": 17.881070817, "IS-150": 18.93, "BASK": 15.1114572801}, "Quincy B": {"IS-152": 8.26}, "Quincy A": {"IS-152": 8.6}, "CCA A": {"SSNCT": 22.5009464102, "CALI": 25.4863744025, "IS-150": 22.41, "BASK": 23.5912280598}, "Hidden Valley B": {"IS-148": 8.64}, "Marionville": {"IS-148": 9.41}, "Hidden Valley A": {"IS-148": 13.24}, "Robinson B": {"IS-150": 10.42}, "NOTRE DAME": {"IS-150": 12.97}, "Alpharetta": {"IS-150": 22.69, "LIMIT": 24.7350668274}, "Robinson A": {"IS-150": 13.48}, "Johnson Central B": {"BISB": 16.8656178191, "Northmont": 14.4381271972}, "Orono A": {"IS-148": 13.81}, "MICDS": {"CALI": 17.4426698584}, "Jones College Prep": {"IS-150": 11.74}, "John Marshall": {"IS-150": 8.81}, "St. Pius B": {"LIMIT": 15.305567805}, "Homestead A": {"IS-150": 21.94}, "Springfield B": {"SMART": 14.7448441547}, "Hunter B": {"IS-148": 20.26, "BASK": 16.5946111047, "HFT": 18.9189433737}, "Buckhorn": {"BASK": 16.7880659514}, "Hunter A": {"LIMIT": 21.0602563513, "IS-148": 23.55, "BASK": 24.085612668, "HFT": 22.0737183394}, "Clayton A": {"CALI": 17.8143576276}, "University City": {"CALI": 12.6869725036}, "Dawkins MS B": {"IS-150": 11.25}, "Dawkins MS A": {"IS-150": 17.65}, "Orono C": {"IS-148": 5.22}, "Orono B": {"IS-148": 10.99}, "University School of Nashville": {"CALI": 19.6060832844, "Northmont": 17.4843976464}, "Brookfield A": {"SMART": 13.0268325227}, "Mount Carmel": {"SSNCT": 14.8024764493}, "SR B": {"IS-150": 16.12}, "SR A": {"IS-150": 14.35}, "Mexico": {"IS-152": 9.74, "IS-150": 11.0, "IS-148": 10.0, "CALI": 11.5623787403}, "Sandburg B": {"IS-150": 12.84}, "Sandburg C": {"IS-150": 8.75}, "Sandburg A": {"IS-150": 14.06}, "Longfellow Middle A": {"IS-148": 17.83}, "Pine Garden Stream Woods": {"VTACO": 14.8999387834, "BASK": 21.63518461}, "Longfellow Middle B": {"IS-148": 7.03}, "McCracken County A": {"Northmont": 15.3716616897}, "AMHERST B": {"IS-150": 12.22}, "Truman": {"CALI": 10.4949677107}, "AMHERST A": {"IS-150": 11.88}, "EO Smith B": {"LIMIT": 20.2627901482}, "Flowery Branch": {"IS-150": 19.39}, "Wheatley A": {"IS-150": 13.01}, "McCracken County B": {"Northmont": 11.3918567479}, "LISGAR": {"IS-150": 19.86}, "Eden C.A.": {"IS-150": 14.24}, "MORAVIAN A": {"IS-150": 13.91}, "Benjamin Logan": {"IS-150": 7.5}, "Millburn A": {"IS-152": 19.58, "IS-150": 22.12}, "Oakville C": {"CALI": 11.4289523616}, "Chanhassen": {"IS-148": 13.94}, "Grayson County": {"Northmont": 9.70166798247}, "Fenwick C": {"IS-150": 14.17, "BASK": 13.0264439325}, "Arc A": {"IS-150": 20.25}, "Arc B": {"IS-150": 13.92}, "Hermann": {"IS-152": 9.34, "IS-150": 11.93}, "Boardman B": {"LIMIT": 15.445663219}, "EO Smith A": {"LIMIT": 20.704629531}, "Brookfield": {"CALI": 11.2288127935, "LIMIT": 12.7622972115}, "DeSmet B": {"CALI": 13.5542439651}, "Benet B": {"SMART": 13.1580695224}, "Benet A": {"SMART": 15.8543933338}, "Irvine B": {"SSNCT": 7.65244630088, "IS-148": 9.03}, "CCA C": {"SSNCT": 12.2024654862, "CALI": 11.266934616, "IS-150": 11.09, "BASK": 13.6068084725}, "Smithtown West B": {"IS-150": 9.57, "BASK": 7.71718314011}, "West Point JV A": {"Maryland_Fall": 11.8301487513}, "Dunbar B": {"Northmont": 19.0075328711}, "Smithtown West A": {"IS-150": 16.28, "BASK": 15.5735994139}, "Oakville B": {"IS-152": 6.82, "CALI": 10.6665159119}, "Preston": {"BASK": 10.5222784171}, "Waubonsie Valley": {"IS-150": 17.23, "HFT": 18.3354583487}, "Acton-Boxborough B": {"LIMIT": 16.0275980158, "HFT": 11.6896628097}, "Sylacauga": {"BASK": 10.8124606871}, "TCC B": {"IS-152": 8.14}, "Darien C": {"IS-148": 14.84}, "Darien B": {"IS-148": 17.08}, "Darien A": {"IS-148": 22.57}, "Liberty A": {"SMART": 15.4248904258}, "Helias A": {"IS-152": 15.28, "BISB": 18.3522618642, "CALI": 18.1002712963}, "Helias B": {"IS-152": 11.57, "BISB": 13.8721032793, "CALI": 15.5651701011}, "James Clemens B": {"Maryland_Fall": 10.4773288509}, "James Clemens A": {"Maryland_Fall": 18.3108873287}, "Livingston E": {"IS-148": 7.78}, "Livingston D": {"IS-152": 13.48, "IS-150": 8.91, "IS-148": 13.17}, "Rockbridge B": {"IS-148": 11.97}, "Livingston A": {"IS-152": 19.79, "IS-150": 19.81, "IS-148": 21.82, "BASK": 21.366497323}, "Livingston C": {"IS-152": 16.91, "IS-150": 18.47, "IS-148": 16.48, "BASK": 15.9712565987}, "Livingston B": {"IS-152": 20.0, "IS-150": 15.49, "IS-148": 18.74, "BASK": 19.1417665861}, "Acton-Boxborough A": {"LIMIT": 19.6377490702, "BASK": 17.3254405255, "HFT": 16.7333469241}, "Peachtree Ridge": {"IS-150": 22.27}, "Team USA": {"IS-152": 0.0}, "Centralia A": {"BISB": 17.3712790589}, "Boardman A": {"LIMIT": 18.2044652187}, "Norfolk Academic Guild": {"IS-148": 8.12}, "Midlothian": {"IS-152": 12.33}, "Patrick Henry": {"IS-148": 7.25}, "Northmont": {"VTACO": 16.9676264455, "IS-150": 16.92, "IS-148": 16.06, "BISB": 19.2017727471}, "Richard Montgomery": {"IS-152": 22.44, "ACF_Fall": 21.3089545186}, "Homewood-Flossmoor": {"VTACO": 17.1787945472, "HFT": 19.4233117852, "SMART": 21.581098774}, "Lehigh Valley Academy": {"IS-150": 21.61, "IS-148": 19.81}, "White Station A": {"BISB": 20.9614738617}, "WYOMING AREA A": {"IS-150": 13.38}, "Newton": {"IS-150": 18.93}, "White Station B": {"BISB": 14.1047074497}, "Vestavia B": {"Maryland_Fall": 13.9142226521, "BASK": 13.1231713558}, "RB A": {"IS-150": 22.56}, "RB B": {"IS-150": 11.64}, "RB C": {"IS-150": 7.73}, "RB D": {"IS-150": 10.56}, "Tuscumbia": {"CALI": 15.0981777757, "IS-150": 9.38, "IS-148": 10.81, "BISB": 12.6787427534}, "Francis Parker A": {"SSNCT": 16.3970144227}, "St. John's": {"HFT": 18.7705997233}, "Francis Parker B": {"SSNCT": 12.6594986633}, "Palatine A": {"IS-150": 12.04, "SMART": 20.6147172309}, "Palatine B": {"IS-150": 10.81, "SMART": 15.9975609698}, "Troy C": {"IS-152": 10.61}, "EMMA WILLARD": {"IS-150": 13.25}, "Fitch B": {"LIMIT": 8.30079710258}, "St. Thomas D": {"BISB": 11.7382128473}, "Carlisle ": {"CALI": 18.1002712963}, "BERWICK A": {"IS-150": 12.76}, "BERWICK B": {"IS-150": 9.73}, "LaGrange Acad": {"IS-150": 2.17}, "PIONEER": {"IS-150": 9.8}, "Dublin Scioto": {"IS-150": 17.42, "VTACO": 19.4488516402}, "River Ridge": {"IS-148": 17.74}, "GPN B": {"IS-152": 5.96}, "Lee's Summit North B": {"CALI": 15.2601955212}, "Mesa Verde A": {"BASK": 10.586763366}, "Bellarmine A": {"IS-150": 17.34, "BISB": 19.6973207621}, "Thomas Jefferson A": {"ACF_Fall": 20.6402343879, "Maryland_Fall": 24.0786532558, "IS-148": 12.97}, "Thomas Jefferson B": {"ACF_Fall": 14.7109158955, "Maryland_Fall": 22.0220013801, "IS-148": 4.79}, "Galileo Magnet": {"IS-152": 14.52}, "Seneca (SC)": {"IS-150": 13.2}, "Notre Dame A": {"IS-152": 17.93, "IS-150": 14.81}, "HSOBX B": {"GSAC": 8.75327502213}, "HSOBX A": {"GSAC": 14.9738807093}, "Warrenton": {"CALI": 8.06470152737}, "Poplar Bluff B": {"IS-150": 12.35}, "Poplar Bluff A": {"IS-150": 16.41}, "GREENE": {"IS-150": 10.32}, "Brookfield B": {"SMART": 9.79363007625}, "PALCS B": {"IS-150": 12.67}, "Bellarmine": {"ACF_Fall": 13.5629463378}, "Brookwood B": {"IS-150": 18.52}, "DCC C": {"IS-152": 18.83}, "Southern Cayuga B": {"IS-150": 11.37}, "Southern Cayuga A": {"IS-150": 13.78}, "Wentzville Holt": {"IS-152": 16.1}, "Potomac Falls A": {"IS-150": 19.62}, "Potomac Falls B": {"IS-150": 15.79}, "DCC D": {"IS-152": 14.77}, "Early College at Guilford": {"ACF_Fall": 19.2136314423}, "Enochs": {"IS-150": 14.12, "BISB": 13.8215371554}, "Central Bucks East A": {"CALI": 16.9280252549}, "University": {"BISB": 19.7175472117}, "Cuba": {"IS-152": 12.14}, "Detroit Catholic Central": {"Northmont": 26.4856354901}, "Bishop's B": {"SSNCT": 16.7017032075}, "Bishop's A": {"SSNCT": 17.6767073186}, "Rolling Meadows": {"BISB": 12.3247798855}, "Wheaton Warrenville South A": {"BASK": 22.5594688775, "SMART": 22.2730756813, "HFT": 20.0958030004}, "Hewitt-Trussville A": {"Maryland_Fall": 12.7442162517}, "Wheaton Warrenville South B": {"HFT": 12.006129264, "SMART": 16.0333528788}, "Fenton": {"BISB": 11.6573070489, "HFT": 8.71290022455, "SMART": 10.0441734393}, "Collins Hill A": {"IS-150": 21.49}, "Middlesex County Academy C": {"IS-148": 9.4}, "Collins Hill B": {"IS-150": 15.0}, "Pilot Grove B": {"CALI": 8.62699840901, "IS-150": 2.5, "IS-148": 4.38, "BISB": 6.47933595309}, "Pilot Grove A": {"CALI": 13.3255130302, "IS-150": 11.3, "IS-148": 6.78, "BISB": 11.5359483513}, "Lisgar": {"IS-150": 19.86}, "Camp Hill B": {"IS-150": 11.0}, "Camp Hill A": {"IS-150": 17.55}, "Torrey Pines A": {"BASK": 22.8389036561}, "Pick Up Squad": {"IS-148": 7.03}, "IMSA C": {"IS-150": 14.11}, "Solon B": {"CALI": 20.9594079826, "IS-150": 14.21}, "Batavia": {"IS-150": 9.55}, "Solon A": {"CALI": 27.2018564143, "IS-150": 24.17}, "Owensboro": {"BISB": 10.5145126469}, "TP A": {"IS-150": 23.47}, "Delaware Valley A": {"CALI": 22.7320727281, "IS-150": 22.19, "IS-148": 21.63}, "UAIS A": {"IS-152": 17.83}, "UAIS B": {"IS-152": 12.45}, "Delaware Valley B": {"CALI": 12.2581020006, "IS-150": 11.64, "IS-148": 10.57}, "Raleigh Charter B": {"IS-148": 15.11}, "West Chester East B": {"IS-150": 14.54}, "MUS": {"BISB": 16.7745987959}, "Woodford County B": {"BISB": 15.4902192468, "BASK": 11.5325426164}, "Keith Country Day": {"SMART": 19.6483356879}, "Homewood": {"BASK": 11.3498352612}, "Woodford County A": {"BISB": 22.8627601234, "BASK": 22.4519939627}, "Cat in the Hat B": {"BISB": 11.7280996225}, "Buffalo Grove A": {"IS-150": 13.57}, "Buffalo Grove B": {"IS-150": 10.54}, "Wheaton Academy A": {"IS-150": 12.46, "SMART": 16.2600349691}, "Del Norte A": {"CALI": 21.6932530654, "BASK": 20.2380107173}, "Del Norte B": {"BASK": 12.6717767136}, "Wheaton Academy B": {"IS-150": 10.58, "SMART": 12.9552487047}, "Wayzata B": {"IS-148": 19.39}, "Wayzata C": {"IS-148": 17.87}, "Wayzata A": {"IS-148": 21.25}, "Wayzata F": {"IS-148": 13.11}, "Wayzata G": {"IS-148": 11.2}, "Wayzata D": {"IS-148": 14.75}, "Wayzata E": {"IS-148": 13.74}, "Graham B": {"IS-150": 9.29}, "Graham C": {"IS-150": 11.27}, "Graham A": {"IS-150": 19.21}, "Rappahannock A": {"IS-148": 8.13}, "Rappahannock B": {"IS-148": 3.0}, "West Chester East A": {"IS-150": 18.53}, "West Chester East C": {"IS-150": 12.23}, "Howard": {"IS-150": 12.72, "IS-148": 10.32, "IS-152": 8.77, "Maryland_Fall": 14.1884429022, "BASK": 9.34005435397, "GSAC": 18.3021028603}, "Cat in the Hat C": {"BISB": 15.1059167045}, "West Chester East D": {"IS-150": 11.3}, "Springville": {"BASK": 11.0918954656}, "Stillman Valley": {"SMART": 12.5973296147}, "Van Wert": {"VTACO": 9.05762130383}, "The Wikipedia Appreciation Society": {"GSAC": 18.9360499367}, "Olentangy Liberty C": {"CALI": 13.4684698645}, "Bergen B": {"IS-150": 16.06, "BASK": 14.4666077912}, "Bergen A": {"IS-150": 22.42, "BASK": 21.9146193886}, "Camdenton": {"IS-150": 5.71}, "Marist": {"LIMIT": 20.4998746951}, "Smithville B": {"CALI": 7.49287419011}, "duPont Manual": {"Northmont": 20.3144811606}, "Hannibal A": {"CALI": 23.6851182902, "IS-150": 19.63}, "Tolton": {"CALI": 10.4568458882, "IS-148": 6.88}, "Hannibal B": {"CALI": 11.3336478054, "IS-150": 6.6}, "North Babylon A": {"IS-150": 15.82, "BASK": 15.175942229}, "North Babylon B": {"IS-150": 9.82, "BASK": 9.73771153883}, "MAST A": {"IS-148": 10.18}, "Lexington C": {"LIMIT": 12.7946269224, "HFT": 10.839159214}, "Walter Johnson": {"Maryland_Fall": 18.6308109538, "IS-150": 19.16}, "MAST B": {"IS-148": 11.38}, "MC B": {"IS-150": 12.62}, "WV B": {"IS-150": 15.87}, "West Point JV B": {"Maryland_Fall": 7.29637394969}, "WV A": {"IS-150": 22.02}, "Chattahoochee": {"IS-150": 19.85}, "Macomb A": {"ACF_Fall": 16.137518841}, "Crystal Springs": {"IS-150": 17.24}, "Smithville A": {"CALI": 13.0681907284}, "Olentangy Liberty A": {"CALI": 21.350156663}, "Shady Side": {"IS-150": 14.91}, "Fisher Catholic A": {"IS-150": 17.85}, "Fisher Catholic B": {"IS-150": 10.42}, "High Tech B": {"CALI": 16.8899034324, "IS-150": 17.92, "IS-148": 18.97, "BASK": 18.3894421823}, "High Tech A": {"CALI": 26.0296103729, "IS-150": 23.64, "IS-148": 24.53, "BASK": 24.1715925999}, "Tippecanoe A": {"VTACO": 14.6359786563}, "Guilder A": {"BISB": 23.2268362161}, "GENEVA A": {"IS-150": 13.13}, "GENEVA B": {"IS-150": 8.33}, "West Point B": {"Maryland_Fall": 9.38958852546}, "West Point A": {"Maryland_Fall": 17.1957249783}, "Auburn": {"ACF_Fall": 21.8773666297, "BISB": 25.1078960283, "BASK": 22.3122765734}, "Grauer School": {"BASK": 12.704019188}, "Cave Spring C": {"IS-150": 11.91}, "Cave Spring B": {"IS-152": 13.88, "IS-150": 13.56, "IS-148": 10.16, "GSAC": 18.0643727067}, "Cave Spring A": {"IS-152": 18.66, "IS-150": 22.09, "IS-148": 18.61, "GSAC": 23.6906530097}, "Chattahoochee B": {"LIMIT": 21.8684991246}, "Chattahoochee A": {"LIMIT": 22.7306247495}, "Wallenpaupeck": {"IS-148": 9.67}, "DELAWARE VALLEY A": {"IS-150": 22.19}, "Harker HS": {"IS-150": 20.21}, "DELAWARE VALLEY B": {"IS-150": 11.64}, "Richmond Burton": {"IS-150": 10.22}, "Loudoun County": {"IS-150": 11.58}, "University of Chicago Lab B": {"IS-150": 13.4}, "Homewood-Flossmoor A": {"IS-150": 21.55}, "Homewood-Flossmoor B": {"IS-150": 11.7}, "House": {"GSAC": 11.913104981}, "Hickman A": {"IS-150": 20.3, "IS-148": 20.94}, "Hickman B": {"IS-150": 12.03, "IS-148": 13.48}, "South Range": {"LIMIT": 10.876397407}, "Danville": {"IS-150": 17.62}, "Menlo-Atherton": {"IS-150": 15.62}, "Hinsdale Center": {"BASK": 25.33232168}, "Gunston": {"CALI": 14.5549418053}, "BRIGHTON A": {"IS-150": 20.91}, "Northmont A": {"SMART": 21.473723047}, "Northmont B": {"SMART": 11.0105549823}, "BRIGHTON B": {"IS-150": 14.83}, "Winnebago": {"IS-150": 1.43}, "St. James": {"IS-152": 7.05}, "Maryville A": {"CALI": 13.9259317343}, "Maryville B": {"CALI": 10.5998027226}, "Kings Park A": {"IS-150": 20.64}, "Kings Park B": {"IS-150": 14.22}, "Kings Park C": {"IS-150": 10.25}, "Naperville North B": {"IS-150": 13.28}, "Naperville North A": {"IS-150": 24.86}, "Cardinal Spellman": {"BASK": 11.7045024801}, "Stevenson": {"VTACO": 20.4079067686}, "Carnegie B": {"BISB": 16.9667500671}, "Stuyvesant": {"IS-150": 15.28}, "Waverly B": {"SMART": 11.0463468913}, "Half Hollow Hills West": {"BASK": 15.3264071098}, "Grayson County B": {"BISB": 8.57277348597}, "Grayson County A": {"BISB": 13.9934619769}, "Rochester Scholars": {"IS-148": 12.9}, "Hallsville A": {"IS-152": 16.12, "BISB": 16.5015417264, "CALI": 19.5012482726}, "Hallsville B": {"IS-152": 6.43, "BISB": 9.67511498879, "CALI": 9.24647802438}, "Latin": {"HFT": 19.4035326318}, "Lafayette": {"CALI": 10.3901326989}, "Belvidere North A": {"IS-150": 9.67}, "Belvidere North B": {"IS-150": 3.75}, "La Jolla": {"IS-148": 21.57}, "Blessed Trinity": {"LIMIT": 17.1160316173}, "Ridgewood A": {"HFT": 15.151014653}, "Portland": {"Northmont": 9.0039737828}, "Spain Park A": {"Maryland_Fall": 20.3492578545, "BASK": 21.8286394567}, "Ridgewood B": {"HFT": 11.7193315398}, "Manheim Township D": {"IS-152": 9.35, "IS-150": 14.1}, "La Jolla D": {"SSNCT": 9.54151676623}, "Manheim Township A": {"Maryland_Fall": 22.9269282054, "IS-152": 20.16, "IS-150": 22.44, "IS-148": 22.61}, "Ithaca D": {"IS-150": 9.67}, "Manheim Township C": {"IS-152": 14.1, "IS-150": 17.78}, "Manheim Township B": {"Maryland_Fall": 15.1025104025, "IS-152": 15.73, "IS-150": 18.89, "IS-148": 16.34}, "Carroll B": {"IS-150": 8.7}, "Carroll C": {"IS-150": 8.78}, "Carroll A": {"IS-150": 12.37}, "Walled Lake Central": {"IS-152": 10.22}, "DUNDEE": {"IS-150": 7.0}, "Spain Park B": {"Maryland_Fall": 14.4443818023, "BASK": 13.4670910833}, "\"Harsha's Hattrick\"": {"VTACO": 17.8210975231}, "La Jolla C": {"SSNCT": 7.76416552195}, "Trinity A": {"Northmont": 15.6861154135}, "LAKELAND": {"IS-150": 16.04}, "Wheatley B": {"IS-150": 7.98}, "Geneva A": {"IS-150": 12.5}, "Geneva B": {"IS-150": 9.78}, "Pikesville": {"Maryland_Fall": 13.8685192771}, "Paintsville": {"BISB": 12.9012336989}, "Magical Unicorn Rainbow Phoenixes": {"GSAC": 23.3142469331}, "Huron": {"IS-152": 13.73}, "Minnetonka A": {"IS-148": 11.04}, "Tenafly MS": {"IS-152": 10.83}, "Lee's Summit West B": {"CALI": 12.4201197462}, "Blacksburg B": {"IS-150": 17.74, "IS-148": 11.14}, "Blacksburg C": {"IS-150": 13.33, "IS-148": 7.71}, "Blacksburg A": {"IS-150": 15.58}, "Blacksburg D": {"IS-150": 11.41}, "Southwest": {"IS-148": 11.03}, "St. Pius X": {"IS-150": 12.21}, "Macomb B": {"ACF_Fall": 5.76121147937}, "Hoover A": {"CALI": 9.94220128471, "Maryland_Fall": 18.0001043786}, "Oakville A": {"IS-152": 8.42, "CALI": 12.5821374917}, "Hoover B": {"CALI": 8.1695365392, "Maryland_Fall": 15.5778255027}, "Alagar": {"IS-150": 17.54}, "Dorman A": {"IS-152": 22.06, "IS-150": 25.27, "IS-148": 23.04, "BASK": 23.4730056535, "Northmont": 24.6480465417}, "Johns Creek": {"IS-150": 24.22, "LIMIT": 21.3727768903}, "Dorman C": {"IS-152": 12.06, "IS-150": 16.67, "IS-148": 10.94, "Northmont": 10.8710427678}, "Dorman B": {"IS-152": 17.56, "IS-150": 20.48, "IS-148": 19.21, "BASK": 19.2814839753, "Northmont": 17.219077317}, "Savannah (Mo)": {"IS-150": 16.67}, "Dorman D": {"IS-148": 9.17}, "St. Paul Lutheran": {"IS-152": 4.58}, "LJ B": {"IS-150": 13.75}, "LJ C": {"IS-150": 6.88}, "LJ A": {"IS-150": 22.54}, "Boston Latin": {"LIMIT": 16.0491511565}, "CCPAA": {"CALI": 13.0491298171}, "Johnson Central A": {"BISB": 22.0435889149, "Northmont": 22.7416708412}, "Charleston Catholic A": {"BISB": 13.5080271867}, "Buffalo Grove": {"SMART": 15.6396418798}, "Black Mountain Middle School B": {"BASK": 11.8549673609}, "Jefferson City": {"BISB": 8.98741570263}, "Charleston Catholic B": {"BISB": 8.33005609086}, "Cathedral Catholic A": {"SSNCT": 19.2103075351}, "Cathedral Catholic B": {"SSNCT": 13.025125205}, "Fenton B": {"IS-150": 11.89}, "AMSA A": {"LIMIT": 14.5512078832, "HFT": 22.5187492907}, "AMSA B": {"HFT": 13.4796761915}, "AMSA C": {"HFT": 11.8281168835}, "Chicago Lab B": {"BASK": 11.1241379401, "SMART": 12.4780232513}, "Lausanne B": {"BISB": 12.1629682887}, "Rock Bridge C": {"IS-150": 8.7}, "Rock Bridge B": {"CALI": 12.8299293379, "IS-150": 11.2}, "Rock Bridge A": {"CALI": 22.8369077399, "IS-150": 18.61}, "Washington": {"IS-150": 15.65}, "NoHo A": {"IS-148": 14.56}, "NoHo B": {"IS-148": 13.83}, "Parkway North": {"IS-152": 16.17}, "Madisonville North Hopkins": {"Northmont": 11.5589102886}, "WWS A": {"IS-150": 22.39}, "Hinsdale Central A": {"IS-150": 22.91, "VTACO": 23.0211120267, "Missouri_Open": 22.8575095351}, "Hinsdale Central C": {"SMART": 15.4129597894}, "Hinsdale Central B": {"IS-150": 21.26, "VTACO": 12.4187135887, "SMART": 22.1299080453}, "Biotech B": {"IS-148": 7.65}, "Biotech A": {"IS-148": 12.27}, "Woodford County C": {"BISB": 15.0250109061}, "Whitney Point B": {"IS-150": 9.26}, "Whitney Point A": {"IS-150": 10.45}, "George C. Marshall": {"IS-148": 14.34}, "Sparta": {"IS-148": 7.43}, "Allderdice B": {"IS-150": 11.78}, "Allderdice A": {"IS-150": 17.12}, "Warwick": {"BASK": 12.1666446139}, "WV C": {"IS-150": 12.96}, "Berwick A": {"IS-150": 12.76}, "Berwick B": {"IS-150": 9.73}, "DuPont Manual B": {"BISB": 18.7163379569}, "Lee's Summit North A": {"CALI": 17.175817101}, "Salem A": {"LIMIT": 8.77496619629}, "Trinity B": {"Northmont": 7.47101187929}, "Bloomington": {"ACF_Fall": 13.1617142593, "HFT": 15.4872602606, "SMART": 20.3641738679}, "Leyden": {"IS-150": 12.55}, "St. Teresa": {"SMART": 18.4433414182}, "Fremd": {"ACF_Fall": 13.1728595948}, "Glen Allen": {"IS-152": 13.15}, "Wallenpaupack": {"IS-150": 15.31}, "Clermont Northeastern B": {"BISB": 9.63466208961}, "DCC B": {"IS-152": 20.78, "VTACO": 20.4870948067}, "HSoBX A": {"BASK": 12.8114941028}, "Millbrook": {"IS-148": 14.4}, "Oak Park-River Forest B": {"SMART": 16.0333528788}, "Aurora": {"IS-148": 16.41}, "DeWitt": {"IS-152": 15.8}, "Rock Bridge": {"BISB": 20.6378506682}, "Locust Grove A": {"IS-150": 19.38}, "Jackson Prep": {"BISB": 12.8506675749}, "Locust Grove B": {"IS-150": 13.0}, "GNS C": {"IS-150": 8.37, "BASK": 9.12510452432}, "GNS B": {"IS-150": 15.26, "BASK": 13.4885860662}, "GNS A": {"IS-150": 21.75, "BASK": 22.1618116927}, "Hoffman Estates": {"IS-150": 11.32, "SMART": 13.6233643394}, "Fordland": {"IS-148": 11.82}, "Belton": {"CALI": 8.75089433208}, "Rock Island": {"HFT": 4.68784250971}, "Rancho Bernardo A": {"SSNCT": 23.5064193998}, "ITHACA B": {"IS-150": 14.44}, "ITHACA C": {"IS-150": 10.28}, "ITHACA A": {"IS-150": 21.68}, "HSoBX B": {"BASK": 8.21156774831}, "ITHACA D": {"IS-150": 9.67}, "ITHACA E": {"IS-150": 10.61}, "Phillips Andover B": {"LIMIT": 16.0707042971}, "Downingtown East A": {"IS-150": 15.56}, "Phillips Andover A": {"LIMIT": 21.4805425934, "HFT": 14.0433820631}, "N Babylon/Kings Pk C": {"IS-150": 9.41}, "Senaca": {"IS-148": 14.17}, "Downingtown East C": {"IS-150": 8.96}, "Downingtown East B": {"IS-150": 13.25}, "Minnetonka D": {"IS-148": 3.33}, "DeSmet A": {"CALI": 13.1730257402}, "East Brunswick A": {"CALI": 25.324356657, "IS-150": 19.27, "IS-148": 23.07, "BASK": 23.3547832472}, "South Side A": {"IS-150": 13.25}, "South Side B": {"IS-150": 6.3}, "East Brunswick B": {"CALI": 16.8231902431, "IS-150": 14.44, "IS-148": 18.0, "BASK": 17.7983301507}, "Irvine A ": {"IS-148": 10.71}, "Pinecrest": {"LIMIT": 11.4798853444}, "Indiana B": {"IS-150": 10.86}, "Waverly A": {"SMART": 15.1504857901}, "Troy Buchanan B": {"IS-152": 4.64}, "Troy Buchanan A": {"IS-152": 7.69}, "Indiana A": {"IS-150": 15.14}, "St. Joseph B": {"IS-150": 14.66, "IS-148": 16.33}, "Dunbar": {"CALI": 19.8157533081, "HFT": 22.2121724131}, "Chillicothe A": {"SMART": 13.1342082497}, "St. Joseph A": {"IS-150": 19.23, "IS-148": 19.79, "BASK": 18.2067348271}, "Itawamba": {"BASK": 13.7465258618}, "Haarlem": {"ACF_Fall": 11.7796926558}, "Fork Union Military Academy": {"GSAC": 8.66412621451}, "NKC A": {"CALI": 17.7952967164}, "Centennial": {"Missouri_Open": 5.76905475987}, "Dunbar A": {"Northmont": 18.3884521023}, "Minnetonka B": {"IS-148": 13.56}, "Paul Laurence Dunbar A": {"BISB": 23.0650246194}, "Clermont Northeastern A": {"BISB": 10.8482490652}, "Itawamba A": {"BISB": 13.3462155899}, "Itawamba B": {"BISB": 9.71556788798}, "Minnetonka C": {"IS-148": 11.08}, "Not OK Computer B": {"BISB": 20.000717506}, "East Brunswick C": {"IS-150": 11.32, "IS-148": 13.75}, "Sidney": {"CALI": 25.6579226037, "IS-150": 22.76}, "Eden Prairie A": {"IS-148": 21.09}, "Eden Prairie B": {"IS-148": 18.75}, "Eden Prairie C": {"IS-148": 17.41}, "Eden Prairie D": {"IS-148": 14.75}, "Richard Montgomery C": {"BASK": 18.873079299}, "Thomas Jefferson Science & Tech C": {"IS-148": 15.63}, "Thomas Jefferson Science & Tech B": {"IS-148": 22.56}, "Thomas Jefferson Science & Tech A": {"IS-148": 22.67}, "Greenville Tech Charter": {"IS-148": 11.21}, "Rolla ": {"IS-152": 13.17}, "Cupertino A": {"ACF_Fall": 9.69551491511, "IS-150": 17.79, "BISB": 18.9691685768}, "Western Albemarle": {"GSAC": 14.6965288633}, "Belmont": {"LIMIT": 20.877054656}, "Parkway South": {"IS-152": 11.91}, "Silex A": {"IS-152": 3.7}, "Silex B": {"IS-152": 5.17}, "Emma Willard": {"IS-150": 13.25}, "Orchard Farm A": {"IS-152": 16.43, "IS-148": 17.07, "CALI": 19.7585705743}, "Patrick County": {"IS-148": 9.86}, "Orchard Farm B": {"IS-152": 10.79, "IS-148": 8.08, "CALI": 13.5733048763}, "Latin C": {"BASK": 12.2311295628}, "Thomas Jefferson HSST B": {"IS-152": 18.56}, "Thomas Jefferson HSST A": {"IS-152": 21.72}, "Oswego East B": {"IS-150": 11.36}, "U of D B": {"IS-152": 16.27}, "Miami Valley": {"SMART": 20.8294686849}, "Oswego East A": {"IS-150": 16.12}, "Kickapoo B": {"IS-148": 10.6}, "Lake Center B": {"SMART": 2.63524827602}, "Wilmington Charter F": {"BASK": 14.4558602997}, "Loyola Academy A": {"IS-150": 19.09}, "DePaul B": {"IS-150": 7.58}, "DePaul A": {"IS-150": 13.46}, "Eastside": {"LIMIT": 19.6916319217}, "Loyola Academy B": {"IS-150": 10.38}, "Ballard": {"Northmont": 13.9173132171}, "NKC B": {"CALI": 11.6672137521}, "Newton South": {"LIMIT": 17.3315630235}, "GPN A": {"IS-152": 13.7}, "Parkway Central": {"IS-152": 10.68}, "Rutland": {"IS-150": 13.64, "LIMIT": 8.75341305566}, "Georgetown Day A": {"Maryland_Fall": 19.7276919542, "IS-148": 20.46}, "Fenwick A": {"IS-150": 16.5, "BASK": 16.422651241}, "Fenwick B": {"IS-150": 15.19, "BASK": 15.7670542605}, "South Caldwell": {"IS-148": 5.88}, "Saxony Lutheran A": {"IS-148": 11.13}, "Saxony Lutheran B": {"IS-148": 8.33}, "Olmsted Falls": {"CALI": 19.8824664974, "IS-150": 16.7}, "Fillmore": {"IS-150": 12.07}, "Joliet Central A": {"IS-150": 8.52}, "Joliet Central B": {"IS-150": 10.2}, "St. Anne": {"IS-150": 7.59}, "Adair County B": {"CALI": 13.0395993615, "Northmont": 10.2028286048}, "Marshall": {"IS-152": 5.88}, "Westlake B": {"LIMIT": 16.5233202502}, "Westlake C": {"LIMIT": 9.37845413372}, "Westlake A": {"LIMIT": 19.6916319217}, "Calhoun B": {"LIMIT": 7.35245891518}, "St. Viator": {"IS-150": 19.46, "SMART": 22.2372837723}, "Chamblee": {"LIMIT": 17.4393287266}, "Bethlehem": {"LIMIT": 25.3170016243, "IS-148": 23.33, "BASK": 25.1711093078, "HFT": 22.7165408246}, "UC Lab": {"BISB": 18.9186024528}, "Kellenberg C": {"IS-152": 8.82, "IS-148": 6.21}, "Bishop Guertin": {"LIMIT": 25.446320468, "HFT": 21.3616688174}, "Ramsay": {"BASK": 12.2311295628}, "Springfield A": {"SMART": 21.72426641}, "Riverside A": {"IS-148": 17.23}, "Riverside B": {"IS-148": 8.82}, "North Hollywood": {"CALI": 23.8566664913}, "Strafford": {"IS-148": 9.27}, "Adair County A": {"CALI": 17.6714007933, "Northmont": 15.2340881855}, "New Kent B": {"IS-152": 9.65, "IS-150": 9.63, "GSAC": 10.2688047516}, "New Kent C": {"IS-152": 7.42, "GSAC": 14.2507848252}, "New Kent A": {"IS-152": 12.76, "IS-150": 12.38, "GSAC": 17.093641246}, "Keith Country Day B": {"IS-150": 10.7}, "Altamont": {"BASK": 12.2741195287}, "New Haven C": {"IS-152": 11.92}, "Keith Country Day A": {"IS-150": 15.84}, "Naperville Central": {"IS-150": 15.86}, "Huntington HS": {"SMART": 15.3890985168}, "Half Hollow Hills East": {"BASK": 18.5721495375}, "GDS A": {"GSAC": 22.9774625487}, "Carterville": {"IS-150": 12.45}, "Lutheran-St. Charles A": {"CALI": 13.4684698645}, "Lutheran-St. Charles B": {"CALI": 8.84619888829}, "Lowell": {"ACF_Fall": 8.58098136391, "IS-150": 9.17}, "Hinsdale Central": {"ACF_Fall": 22.8915921613}, "Culver": {"IS-150": 17.79}, "Emmaus": {"IS-150": 17.73}, "GDS B": {"GSAC": 13.8050407872}, "Rockbridge A": {"IS-148": 12.33}, "Palmetto": {"IS-148": 3.64}, "Olentangy Liberty B": {"CALI": 18.2241672193}, "Vestavia C": {"Maryland_Fall": 7.08613842461}, "Eisenhower": {"IS-152": 17.46}, "Vestavia A": {"Maryland_Fall": 11.6381945763, "BASK": 10.0386413003}, "Smiths Station": {"IS-150": 13.89}, "Independence A": {"BISB": 10.1403233294}, "Detroit Catholic Central (MI) A": {"ACF_Fall": 23.2148068911}, "St Pius A": {"LIMIT": 16.5233202502}, "Livonia Churchill": {"IS-152": 15.17}, "Stonewold": {"BASK": 2.59062970293}, "Carmel Catholic A": {"HFT": 18.6123664962, "SMART": 23.764405223}, "Carmel Catholic B": {"HFT": 12.4709393686, "SMART": 16.8684974221}, "BC High": {"LIMIT": 14.5835375941}, "Timothy Christian": {"IS-150": 15.77}, "Solon C": {"IS-150": 8.46}, "Del Norte": {"SSNCT": 9.58214193753}, "Keystone Oaks": {"IS-150": 9.82}, "Bronx Science A": {"BASK": 14.842769993}, "Bronx Science B": {"BASK": 9.15734699877}, "Francis Parker": {"BASK": 15.2941646353}, "Longfellow": {"Maryland_Fall": 17.5156486034}, "Clover Hill C": {"GSAC": 10.7244542128}, "MC A": {"IS-150": 13.97}, "Hampton": {"IS-152": 9.82}, "Davis A": {"IS-150": 21.16, "BISB": 24.3999702925}, "St. Charles East B": {"IS-150": 8.64}, "Honaker B": {"IS-148": 5.56}, "Honaker A": {"IS-148": 9.01}, "St. Charles East A": {"IS-150": 16.07}, "James Clemens": {"BASK": 11.6077750568}, "LAMP": {"BASK": 14.1011930807}, "\"Cave Spring\" C": {"IS-148": 4.44}, "St. Monica": {"IS-148": 16.06}, "Prestige Worldwide": {"BASK": 10.876945636}, "Lakeland A": {"IS-148": 15.71}, "Lakeland B": {"IS-148": 10.26}, "La Jolla A": {"SSNCT": 24.1056406765, "CALI": 26.4394199646, "BASK": 24.6552297166}, "Houston B": {"IS-152": 3.87}, "Houston A": {"IS-152": 9.29}, "La Jolla B": {"SSNCT": 11.7860574804, "CALI": 15.9559187816, "BASK": 13.617555964}, "Wilmington Charter C": {"CALI": 13.2492693852, "IS-148": 16.08, "HFT": 16.5553345436}, "Wilmington Charter B": {"CALI": 18.4243067874, "ACF_Fall": 9.96300296739, "IS-148": 14.52, "BASK": 20.3239906491, "HFT": 18.1277772381}, "Wilmington Charter A": {"CALI": 27.0207777575, "ACF_Fall": 21.6321692484, "Maryland_Fall": 23.2102891305, "IS-148": 22.31, "HFT": 23.3593633098}, "Wilmington Charter G": {"BASK": 8.9531446606}, "Russell": {"IS-150": 20.71}, "Wilmington Charter D": {"IS-148": 11.46, "BASK": 16.1754589369}, "Rancho Bernardo B": {"SSNCT": 15.168102991}, "Grauer": {"CALI": 11.3050564385}, "Oak Park River Forest A": {"Missouri_Open": 13.7278286323}, "Northern Highlands A": {"IS-152": 13.12}, "Northern Highlands B": {"IS-152": 6.9}, "Northern Highlands C": {"IS-152": 14.93}, "CCA": {"IS-148": 21.19}, "Walnut Hill": {"HFT": 8.48543996056}, "St. Thomas B": {"BISB": 17.7859212756}, "Wissahickon A": {"CALI": 16.8041293318}, "Richard Montgomery B": {"BASK": 21.4202347804, "GSAC": 23.3340577792}, "Lutheran (St. Charles) B": {"IS-150": 10.82}, "Lutheran (St. Charles) A": {"IS-150": 13.22}, "Richard Montgomery A": {"BASK": 23.6127230428, "GSAC": 25.1071285085}, "Webster Groves": {"IS-152": 12.53, "CALI": 15.6223528348}, "Merrol Hyde A": {"CALI": 20.6925552252, "Northmont": 19.0075328711}, "Latin A": {"BASK": 21.9146193886, "SMART": 23.299110406}, "Covenant Christian Academy": {"BASK": 15.3908920587}, "Latin B": {"BASK": 14.4343653167, "SMART": 16.0214222424}, "Port Jefferson B": {"IS-150": 9.46}, "Port Jefferson A": {"IS-150": 18.97, "BASK": 21.0870625444}, "Christiansburg B": {"IS-150": 11.37, "BASK": 9.37229682842}, "Francis Howell North Gold": {"IS-152": 5.59}, "Christiansburg A": {"IS-150": 13.35, "BASK": 13.3166262025}, "Evangel Classical Christian": {"Maryland_Fall": 11.3548336512, "BASK": 11.5540375994}, "Mountain Lakes A": {"IS-150": 19.19}, "Mountain Lakes B": {"IS-150": 8.65}, "Grasshoppers A": {"ACF_Fall": 10.6985951112}, "Grasshoppers B": {"ACF_Fall": 9.7846775992}, "Mountain Brook": {"BASK": 15.175942229}, "St. Clair": {"IS-152": 10.27}, "Willow Tree": {"HFT": 22.5681971742}, "Loyola B": {"BASK": 12.9189690177, "SMART": 17.4530986025}, "Loyola C": {"BASK": 12.7147666795}, "Skyline": {"IS-152": 13.38}, "Loyola A": {"BASK": 20.1842732599, "SMART": 24.8381624931}, "Valley Christian B": {"IS-150": 12.59}, "Pell City": {"BASK": 9.76995401328}, "Valley Christian A": {"IS-150": 19.47, "BISB": 19.2219991967}, "Harker ": {"BISB": 22.3773253332}, "Jackson-Milton": {"LIMIT": 7.85895771982}, "C. Milton Wright": {"BASK": 13.972223183}, "Great Valley High School": {"IS-148": 19.05}, "Carrboro A": {"IS-148": 17.44}, "Henderson A": {"IS-148": 19.08}, "Nandua": {"IS-152": 12.55}, "Henderson B": {"IS-148": 11.67}, "Carrboro B": {"IS-148": 11.33}, "Stevenson B": {"IS-150": 21.07, "BASK": 15.4983669735, "SMART": 23.1678734063}, "Stevenson C": {"IS-150": 15.42, "BASK": 21.2697698996, "SMART": 15.3413759714}, "Stevenson D": {"SMART": 10.3185780749}, "Boylan": {"IS-150": 14.14}, "Virginia Episcopal ": {"IS-148": 11.08}, "Mounds Park": {"IS-148": 17.12}, "North Shore": {"IS-150": 10.73}, "WYOMING AREA B": {"IS-150": 12.69}, "DCD A": {"IS-152": 19.23}, "Glenbard East B": {"IS-150": 12.69}, "Glenbard East A": {"IS-150": 15.77}, "Northview": {"IS-150": 26.36}, "Gainesville": {"IS-152": 10.69}, "Graves County": {"CALI": 17.4426698584}, "Cupertino B": {"ACF_Fall": 11.891146011}, "Winchester Thurston B": {"IS-150": 12.5}, "Rancho Bernardo": {"IS-148": 19.43, "BASK": 18.1315023867}, "Beachwood": {"LIMIT": 17.762625836}, "Eureka": {"CALI": 17.7667053495}, "West Point": {"BASK": 17.7875826593}, "Providence B": {"IS-150": 11.11}, "Providence A": {"IS-150": 16.45}, "Gadsden City A": {"BASK": 20.2810006832}, "Clever": {"IS-148": 15.44}, "Clever A": {"IS-152": 8.25}, "Stevenson A": {"IS-150": 21.86, "BASK": 24.1930875829, "Missouri_Open": 15.2041896705}, "Divine Child A": {"IS-152": 12.59, "CALI": 17.9382535507}, "Divine Child C": {"IS-152": 11.43}, "Divine Child B": {"IS-152": 9.09, "CALI": 11.8768837758}, "Pittsford Mendon": {"IS-150": 5.0}, "Homeschool Out of the Box": {"IS-152": 12.07}, "Maggie Walker C": {"IS-152": 13.2, "BASK": 15.8960241583}, "Maggie Walker B": {"IS-152": 17.76, "IS-150": 16.8, "BASK": 21.2697698996}, "Los Alamitos": {"CALI": 18.3194717756, "IS-148": 17.89}, "Lausanne A": {"BISB": 21.3356631792}, "Mauldin B": {"IS-148": 12.56}, "Mauldin A": {"IS-148": 6.84}, "Lake Zurich": {"IS-150": 14.53}, "Arcadia": {"CALI": 19.8348142193}, "VSS A": {"IS-150": 13.04}, "Marist A": {"IS-150": 13.67}, "Marist B": {"IS-150": 12.83}, "VSS B": {"IS-150": 11.9}, "Lexington D": {"HFT": 9.11837286904}, "Westview A": {"SSNCT": 20.4493752597, "CALI": 24.0758669706, "IS-148": 22.04}, "Westview B": {"SSNCT": 10.4454268276, "CALI": 12.8394597935, "IS-148": 15.0}, "Westview C": {"SSNCT": 13.3399702826}, "DCD D": {"IS-152": 6.98}, "St. John's A": {"BISB": 23.6515916576}, "Chester": {"IS-150": 7.5}, "DCD B": {"IS-152": 15.14}, "DCD C": {"IS-152": 10.0}, "Davis": {"ACF_Fall": 19.8823515731}, "Merrol Hyde B": {"CALI": 12.2581020006, "Northmont": 5.997010049}, "Solo N": {"BISB": 18.2511296162}, "East Ridge": {"BISB": 15.6722572931}, "Plainfield North B": {"IS-150": 12.2}, "Plainfield North A": {"IS-150": 16.0}, "MOUNTAIN VIEW": {"IS-150": 9.57}, "Fitch A": {"LIMIT": 12.7407440709}, "Carl Sandburg A": {"BISB": 13.9428958529}, "Moorestown Friends": {"BASK": 7.19055605746}, "Lee's Summit B": {"CALI": 8.1695365392}, "New Kent": {"BASK": 10.0386413003}, "St. Charles A": {"IS-150": 21.02, "VTACO": 13.2369899827}, "Mountain View": {"IS-150": 9.57}, "Weaubleau": {"CALI": 9.98985356281}, "Millburn B": {"IS-152": 19.45, "IS-150": 18.14}, "Great Valley D": {"IS-150": 3.48}, "Great Valley B": {"CALI": 14.7646118289, "IS-150": 14.3}, "Great Valley C": {"IS-150": 8.73}, "Great Valley A": {"CALI": 22.3794458701, "IS-150": 19.65, "BASK": 18.3464522164}, "Harvard Westlake": {"IS-148": 14.5}, "St. Ignatius": {"IS-150": 20.98}, "TCC A": {"IS-152": 17.5}, "Paul G. Blazer B": {"BISB": 13.3664420395}, "Maine East": {"IS-150": 11.75}, "Independence B": {"BISB": 5.84220279091}, "Fairfield": {"IS-150": 12.71}, "Western Albemarle A": {"IS-150": 14.45}, "Western Albemarle B": {"IS-150": 9.52}, "Glenwood A": {"BISB": 19.1309801735}, "Carbondale": {"BISB": 20.1827555524, "HFT": 17.2970527958}, "St. Anselm's Abbey": {"Maryland_Fall": 20.2030070544}, "St. Thomas C": {"BISB": 12.1629682887}, "IMSA A": {"IS-150": 23.94, "BISB": 24.8752918579, "HFT": 19.9375697733, "Missouri_Open": 18.7169107613}, "IMSA B": {"IS-150": 15.51, "BISB": 14.7519538366, "HFT": 13.1632097373}, "Hermitage": {"IS-150": 14.52}, "Yough": {"IS-150": 10.95}, "TP B": {"IS-150": 19.56}, "TP C": {"IS-150": 13.4}, "Specters of Europe": {"SMART": 23.2394572243}, "Cedar Crest A": {"IS-150": 19.23}, "Cedar Crest B": {"IS-150": 17.77}, "Sandburg": {"SMART": 17.3815147845}, "Pleasant Hill B": {"CALI": 12.0960842551}, "Collegiate": {"BASK": 9.59799414956}, "Lincoln-Way North A": {"IS-150": 14.29}, "Russell C": {"Northmont": 13.2589257329}, "Lincoln-Way North B": {"IS-150": 12.57}, "St. Thomas A": {"BISB": 23.1155907434}, "Centennial C": {"Maryland_Fall": 14.8374308274, "IS-148": 13.21}, "Centennial B": {"Maryland_Fall": 19.6545665542, "IS-148": 18.43}, "Centennial A": {"Maryland_Fall": 23.6490415307, "IS-148": 24.16}, "Pleasant Hill A": {"CALI": 9.82783581726}, "Centennial D": {"Maryland_Fall": 10.4042034508, "IS-148": 8.42}, "Rock Hill B": {"IS-148": 6.0}, "Rock Hill A": {"IS-148": 11.11}, "High Point Central B": {"IS-148": 10.67}, "Renaissance C": {"IS-150": 7.7}, "Renaissance B": {"IS-150": 9.68}, "Renaissance A": {"IS-150": 10.19}, "Fenton A": {"IS-150": 12.13}, "Woodrow Wilson": {"IS-148": 6.94}, "WWS B": {"IS-150": 13.52, "BASK": 13.9077382341}, "Daviess County": {"CALI": 21.2357911956, "Northmont": 19.9803740791}, "Glenwood B": {"BISB": 13.5788197602}, "Paul G. Blazer A": {"BISB": 20.0816233044}, "Eau Claire Regis A": {"IS-148": 12.96}, "Eau Claire Regis C": {"IS-148": 8.1}, "Eau Claire Regis B": {"IS-148": 4.67}, "East Palestine": {"SMART": 10.9866937096}, "Eau Claire Regis D": {"IS-148": 7.31}, "SOUTHERN CAYUGA B": {"IS-150": 11.37}, "SOUTHERN CAYUGA A": {"IS-150": 13.78}, "St. Augustine": {"CALI": 12.2581020006}, "Owensville B": {"IS-152": 8.07}, "Escobar A": {"IS-150": 18.52, "BISB": 22.6402691779}, "Owensville A": {"IS-152": 4.38}, "Hubbard": {"LIMIT": 17.9997103828, "SMART": 18.9682894169}, "Carbondale B": {"IS-150": 12.86}, "Carbondale A": {"IS-150": 18.3}, "Torrey Pines B": {"BASK": 15.8960241583}, "Horse": {"BISB": 24.2381586958, "Missouri_Open": 16.6296417074}, "Paideia": {"IS-150": 17.1}, "Westinghouse": {"IS-150": 6.25}, "Kellenberg D": {"IS-152": 7.89}, "Marcus Whitman A": {"IS-150": 8.12}, "Kellenberg B": {"IS-152": 11.87, "IS-148": 14.29, "BASK": 14.7567900612}, "Kellenberg A": {"IS-152": 18.37, "IS-148": 17.93, "BASK": 18.0777649293}, "Marcus Whitman B": {"IS-150": 8.16}, "Auburn A": {"IS-150": 24.38, "HFT": 23.5571548437, "Missouri_Open": 20.5496348087}, "Auburn C": {"IS-150": 9.09, "SMART": 8.33809244353}, "Auburn B": {"IS-150": 13.09, "HFT": 14.824658622, "SMART": 17.8945321468}, "Mesa Verde B": {"BASK": 7.93213296976}, "Springfield": {"BISB": 17.5128642061}, "Northridge": {"BASK": 17.3899254744}, "Carroll County": {"IS-148": 9.31}, "Harding": {"IS-150": 15.75}, "Oak Lawn A": {"IS-150": 12.99}, "Mountain View A": {"BISB": 11.5561748009}, "Oak Lawn B": {"IS-150": 7.06}, "Belvidere": {"HFT": 12.6093934424}, "Fremd D": {"IS-150": 10.44, "SMART": 16.3435494235}, "Wellsville": {"SMART": 5.97582644946}, "Fremd A": {"IS-150": 20.83, "BASK": 20.2380107173, "SMART": 24.6472723117, "HFT": 16.8619114212}, "Northgate": {"IS-150": 16.21, "BISB": 14.1552735736}, "Fremd C": {"IS-150": 13.92, "BASK": 15.6703268372, "SMART": 15.5799886981, "HFT": 13.4796761915}, "Fremd B": {"IS-150": 18.28, "BASK": 19.0557866542, "SMART": 21.8793646823, "HFT": 16.2487576661}, "Troy A": {"IS-152": 16.49}, "Christiansburg": {"IS-148": 14.71, "GSAC": 17.0738303998}, "Kittylonians": {"GSAC": 18.8469011291}, "Thomas Jefferson C": {"Maryland_Fall": 17.1134589033}, "Mount Vernon": {"BASK": 12.0376747161}, "Milton": {"LIMIT": 11.1350350945}, "Barrington": {"ACF_Fall": 20.0718222768, "IS-150": 21.48, "HFT": 21.8165893453}, "Black Mountain Middle School A": {"BASK": 10.8876931275}, "Sarcoxie A": {"IS-148": 8.24}, "Sarcoxie B": {"IS-148": 9.13}, "Notre Dame B": {"IS-152": 11.22, "IS-150": 10.0}, "Hewitt-Trusville B": {"Maryland_Fall": 8.60349047517}, "Germantown Z": {"BISB": 10.3527010502}, "Plymouth": {"IS-152": 9.45}, "Carnegie A": {"BISB": 19.454603367}, "Troy B": {"IS-152": 13.86}, "Palo Alto": {"IS-150": 16.46, "BISB": 19.6467546382}, "Butler B": {"CALI": 10.7236986456}, "Loveland": {"BISB": 14.3474248448}, "Henderson County B": {"CALI": 13.5161221426}, "Henderson County A": {"CALI": 22.5605245269}, "Brookline": {"LIMIT": 15.5857586331}, "Enloe": {"IS-148": 19.2}, "Eastside (GA)": {"IS-150": 22.34}, "Clever B": {"IS-152": 9.86}, "Turk's Head A": {"BASK": 19.1202716031}, "Turk's Head B": {"BASK": 13.0264439325}, "Central Catholic": {"IS-150": 12.9}, "Fitch": {"SMART": 11.4400578903}, "Holy Innocents": {"LIMIT": 9.32457128217}, "Adena": {"SMART": 6.81097099282}, "Springwood": {"BASK": 16.4441462239}}
+{
+    "\"Cave Spring\" C": {
+        "IS-148": 4.44
+    },
+    "\"Harsha's Hattrick\"": {
+        "VTACO": 17.8210975231
+    },
+    "AMHERST A": {
+        "IS-150": 11.88
+    },
+    "AMHERST B": {
+        "IS-150": 12.22
+    },
+    "AMSA A": {
+        "HFT": 22.5187492907,
+        "LIMIT": 14.5512078832
+    },
+    "AMSA B": {
+        "HFT": 13.4796761915
+    },
+    "AMSA C": {
+        "HFT": 11.8281168835
+    },
+    "Acton-Boxborough A": {
+        "BASK": 17.3254405255,
+        "HFT": 16.7333469241,
+        "LIMIT": 19.6377490702
+    },
+    "Acton-Boxborough B": {
+        "HFT": 11.6896628097,
+        "LIMIT": 16.0275980158
+    },
+    "Adair County A": {
+        "CALI": 17.6714007933,
+        "Northmont": 15.2340881855
+    },
+    "Adair County B": {
+        "CALI": 13.0395993615,
+        "Northmont": 10.2028286048
+    },
+    "Adena": {
+        "SMART": 6.81097099282
+    },
+    "Alagar": {
+        "IS-150": 17.54
+    },
+    "Albemarle": {
+        "IS-150": 19.21,
+        "IS-152": 20.5
+    },
+    "Allderdice A": {
+        "IS-150": 17.12
+    },
+    "Allderdice B": {
+        "IS-150": 11.78
+    },
+    "Alpharetta": {
+        "IS-150": 22.69,
+        "LIMIT": 24.7350668274
+    },
+    "Altamont": {
+        "BASK": 12.2741195287
+    },
+    "Amherst A": {
+        "IS-150": 11.88
+    },
+    "Amherst B": {
+        "IS-150": 12.22
+    },
+    "Arc A": {
+        "IS-150": 20.25
+    },
+    "Arc B": {
+        "IS-150": 13.92
+    },
+    "Arcadia": {
+        "CALI": 19.8348142193
+    },
+    "Arcadia A": {
+        "BASK": 20.4207180725,
+        "IS-148": 21.16,
+        "SSNCT": 22.3892271892
+    },
+    "Arcadia B": {
+        "BASK": 18.249724793,
+        "IS-148": 17.65,
+        "SSNCT": 18.7938995293
+    },
+    "Arcadia C": {
+        "BASK": 11.145632923,
+        "IS-148": 15.23
+    },
+    "Arcadia D": {
+        "BASK": 12.2418770543,
+        "IS-148": 15.51
+    },
+    "Auburn": {
+        "ACF_Fall": 21.8773666297,
+        "BASK": 22.3122765734,
+        "BISB": 25.1078960283
+    },
+    "Auburn A": {
+        "HFT": 23.5571548437,
+        "IS-150": 24.38,
+        "Missouri_Open": 20.5496348087
+    },
+    "Auburn B": {
+        "HFT": 14.824658622,
+        "IS-150": 13.09,
+        "SMART": 17.8945321468
+    },
+    "Auburn C": {
+        "IS-150": 9.09,
+        "SMART": 8.33809244353
+    },
+    "Augusta Christian": {
+        "IS-148": 10.86
+    },
+    "Aurora": {
+        "IS-148": 16.41
+    },
+    "Awty A": {
+        "BISB": 15.7127101923
+    },
+    "Awty B": {
+        "BISB": 13.4776875123
+    },
+    "BC High": {
+        "LIMIT": 14.5835375941
+    },
+    "BERWICK A": {
+        "IS-150": 12.76
+    },
+    "BERWICK B": {
+        "IS-150": 9.73
+    },
+    "BRIGHTON A": {
+        "IS-150": 20.91
+    },
+    "BRIGHTON B": {
+        "IS-150": 14.83
+    },
+    "Ballard": {
+        "Northmont": 13.9173132171
+    },
+    "Barrington": {
+        "ACF_Fall": 20.0718222768,
+        "HFT": 21.8165893453,
+        "IS-150": 21.48
+    },
+    "Batavia": {
+        "IS-150": 9.55
+    },
+    "Battle Ground Academy": {
+        "CALI": 21.3787480299
+    },
+    "Bay City Western": {
+        "IS-152": 12.43
+    },
+    "Beachwood": {
+        "LIMIT": 17.762625836
+    },
+    "Beecher": {
+        "IS-150": 11.82
+    },
+    "Bellarmine": {
+        "ACF_Fall": 13.5629463378
+    },
+    "Bellarmine A": {
+        "BISB": 19.6973207621,
+        "IS-150": 17.34
+    },
+    "Belmont": {
+        "LIMIT": 20.877054656
+    },
+    "Belton": {
+        "CALI": 8.75089433208
+    },
+    "Belvidere": {
+        "HFT": 12.6093934424
+    },
+    "Belvidere North A": {
+        "IS-150": 9.67
+    },
+    "Belvidere North B": {
+        "IS-150": 3.75
+    },
+    "Benet A": {
+        "SMART": 15.8543933338
+    },
+    "Benet B": {
+        "SMART": 13.1580695224
+    },
+    "Benjamin Logan": {
+        "IS-150": 7.5
+    },
+    "Bergen A": {
+        "BASK": 21.9146193886,
+        "IS-150": 22.42
+    },
+    "Bergen B": {
+        "BASK": 14.4666077912,
+        "IS-150": 16.06
+    },
+    "Bergenfield A": {
+        "IS-152": 10.61
+    },
+    "Bergenfield B": {
+        "IS-152": 10.54
+    },
+    "Bergenfield C": {
+        "IS-152": 5.19
+    },
+    "Berwick A": {
+        "IS-150": 12.76
+    },
+    "Berwick B": {
+        "IS-150": 9.73
+    },
+    "Bethlehem": {
+        "BASK": 25.1711093078,
+        "HFT": 22.7165408246,
+        "IS-148": 23.33,
+        "LIMIT": 25.3170016243
+    },
+    "Biotech A": {
+        "IS-148": 12.27
+    },
+    "Biotech B": {
+        "IS-148": 7.65
+    },
+    "Bishop Guertin": {
+        "HFT": 21.3616688174,
+        "LIMIT": 25.446320468
+    },
+    "Bishop McNamara": {
+        "IS-150": 13.75
+    },
+    "Bishop's A": {
+        "SSNCT": 17.6767073186
+    },
+    "Bishop's B": {
+        "SSNCT": 16.7017032075
+    },
+    "Bishops": {
+        "BASK": 14.9502449079,
+        "CALI": 15.0409950419
+    },
+    "Black Mountain Middle School A": {
+        "BASK": 10.8876931275
+    },
+    "Black Mountain Middle School B": {
+        "BASK": 11.8549673609
+    },
+    "Blackburg A": {
+        "IS-148": 17.08
+    },
+    "Blacksburg A": {
+        "IS-150": 15.58
+    },
+    "Blacksburg B": {
+        "IS-148": 11.14,
+        "IS-150": 17.74
+    },
+    "Blacksburg C": {
+        "IS-148": 7.71,
+        "IS-150": 13.33
+    },
+    "Blacksburg D": {
+        "IS-150": 11.41
+    },
+    "Blessed Trinity": {
+        "LIMIT": 17.1160316173
+    },
+    "Bloomington": {
+        "ACF_Fall": 13.1617142593,
+        "HFT": 15.4872602606,
+        "SMART": 20.3641738679
+    },
+    "Bloomington A": {
+        "BISB": 16.4307491529,
+        "IS-150": 16.02
+    },
+    "Bloomington B": {
+        "BISB": 13.6597255586,
+        "IS-150": 11.82
+    },
+    "Bloomington C": {
+        "BISB": 9.08854795059,
+        "IS-150": 10.0
+    },
+    "Boardman A": {
+        "LIMIT": 18.2044652187
+    },
+    "Boardman B": {
+        "LIMIT": 15.445663219
+    },
+    "Bolingbrook": {
+        "IS-150": 11.21
+    },
+    "Boston Latin": {
+        "LIMIT": 16.0491511565
+    },
+    "Boylan": {
+        "IS-150": 14.14
+    },
+    "Bradley-Bourbonnais A": {
+        "IS-150": 14.43
+    },
+    "Bradley-Bourbonnais B": {
+        "IS-150": 11.4
+    },
+    "Brighton": {
+        "IS-152": 10.6
+    },
+    "Brighton A": {
+        "IS-150": 20.91
+    },
+    "Brighton B": {
+        "IS-150": 14.83
+    },
+    "Bronx Science A": {
+        "BASK": 14.842769993
+    },
+    "Bronx Science B": {
+        "BASK": 9.15734699877
+    },
+    "Brookfield": {
+        "CALI": 11.2288127935,
+        "LIMIT": 12.7622972115
+    },
+    "Brookfield A": {
+        "SMART": 13.0268325227
+    },
+    "Brookfield B": {
+        "SMART": 9.79363007625
+    },
+    "Brookline": {
+        "LIMIT": 15.5857586331
+    },
+    "Brookwood A": {
+        "IS-150": 19.25
+    },
+    "Brookwood B": {
+        "IS-150": 18.52
+    },
+    "Buckhorn": {
+        "BASK": 16.7880659514
+    },
+    "Buffalo Grove": {
+        "SMART": 15.6396418798
+    },
+    "Buffalo Grove A": {
+        "IS-150": 13.57
+    },
+    "Buffalo Grove B": {
+        "IS-150": 10.54
+    },
+    "Buford": {
+        "IS-150": 17.05
+    },
+    "Butler A": {
+        "CALI": 12.4201197462
+    },
+    "Butler B": {
+        "CALI": 10.7236986456
+    },
+    "Byron": {
+        "SMART": 15.2220696081
+    },
+    "Byron A": {
+        "HFT": 12.4610497919
+    },
+    "Byron B": {
+        "HFT": 4.17358452157
+    },
+    "C. Milton Wright": {
+        "BASK": 13.972223183
+    },
+    "CBC": {
+        "CALI": 15.9559187816,
+        "IS-152": 14.19
+    },
+    "CCA": {
+        "IS-148": 21.19
+    },
+    "CCA A": {
+        "BASK": 23.5912280598,
+        "CALI": 25.4863744025,
+        "IS-150": 22.41,
+        "SSNCT": 22.5009464102
+    },
+    "CCA B": {
+        "BASK": 15.1114572801,
+        "CALI": 17.881070817,
+        "IS-150": 18.93,
+        "SSNCT": 19.6978095907
+    },
+    "CCA C": {
+        "BASK": 13.6068084725,
+        "CALI": 11.266934616,
+        "IS-150": 11.09,
+        "SSNCT": 12.2024654862
+    },
+    "CCPAA": {
+        "CALI": 13.0491298171
+    },
+    "Cabrini": {
+        "IS-152": 12.5
+    },
+    "Caesar Rodney": {
+        "BASK": 14.6385676549,
+        "IS-148": 8.0
+    },
+    "Calhoun A": {
+        "LIMIT": 11.6846401804
+    },
+    "Calhoun B": {
+        "LIMIT": 7.35245891518
+    },
+    "Calvary Lutheran A": {
+        "IS-152": 12.93
+    },
+    "Calvary Lutheran B": {
+        "IS-152": 7.33
+    },
+    "Camdenton": {
+        "IS-150": 5.71
+    },
+    "Camp Hill": {
+        "IS-148": 15.16
+    },
+    "Camp Hill A": {
+        "IS-150": 17.55
+    },
+    "Camp Hill B": {
+        "IS-150": 11.0
+    },
+    "Campbell County A": {
+        "Northmont": 20.6977216365
+    },
+    "Campbell County B": {
+        "Northmont": 15.0866880025
+    },
+    "Carbondale": {
+        "BISB": 20.1827555524,
+        "HFT": 17.2970527958
+    },
+    "Carbondale A": {
+        "IS-150": 18.3
+    },
+    "Carbondale B": {
+        "IS-150": 12.86
+    },
+    "Cardinal Spellman": {
+        "BASK": 11.7045024801
+    },
+    "Carl Sandburg A": {
+        "BISB": 13.9428958529
+    },
+    "Carl Sandburg B": {
+        "BISB": 14.6912744879
+    },
+    "Carlisle ": {
+        "CALI": 18.1002712963
+    },
+    "Carmel A": {
+        "IS-150": 19.15
+    },
+    "Carmel B": {
+        "IS-150": 10.36
+    },
+    "Carmel C": {
+        "IS-150": 11.9
+    },
+    "Carmel Catholic A": {
+        "HFT": 18.6123664962,
+        "SMART": 23.764405223
+    },
+    "Carmel Catholic B": {
+        "HFT": 12.4709393686,
+        "SMART": 16.8684974221
+    },
+    "Carnegie A": {
+        "BISB": 19.454603367
+    },
+    "Carnegie B": {
+        "BISB": 16.9667500671
+    },
+    "Carrboro A": {
+        "IS-148": 17.44
+    },
+    "Carrboro B": {
+        "IS-148": 11.33
+    },
+    "Carroll A": {
+        "IS-150": 12.37
+    },
+    "Carroll B": {
+        "IS-150": 8.7
+    },
+    "Carroll C": {
+        "IS-150": 8.78
+    },
+    "Carroll County": {
+        "IS-148": 9.31
+    },
+    "Carterville": {
+        "IS-150": 12.45
+    },
+    "Cat in the Hat A": {
+        "BISB": 20.7895490402
+    },
+    "Cat in the Hat B": {
+        "BISB": 11.7280996225
+    },
+    "Cat in the Hat C": {
+        "BISB": 15.1059167045
+    },
+    "Cathedral": {
+        "CALI": 16.8899034324
+    },
+    "Cathedral Catholic A": {
+        "SSNCT": 19.2103075351
+    },
+    "Cathedral Catholic B": {
+        "SSNCT": 13.025125205
+    },
+    "Cave Spring A": {
+        "GSAC": 23.6906530097,
+        "IS-148": 18.61,
+        "IS-150": 22.09,
+        "IS-152": 18.66
+    },
+    "Cave Spring B": {
+        "GSAC": 18.0643727067,
+        "IS-148": 10.16,
+        "IS-150": 13.56,
+        "IS-152": 13.88
+    },
+    "Cave Spring C": {
+        "IS-150": 11.91
+    },
+    "Cedar Crest A": {
+        "IS-150": 19.23
+    },
+    "Cedar Crest B": {
+        "IS-150": 17.77
+    },
+    "Centennial": {
+        "Missouri_Open": 5.76905475987
+    },
+    "Centennial A": {
+        "IS-148": 24.16,
+        "Maryland_Fall": 23.6490415307
+    },
+    "Centennial B": {
+        "IS-148": 18.43,
+        "Maryland_Fall": 19.6545665542
+    },
+    "Centennial C": {
+        "IS-148": 13.21,
+        "Maryland_Fall": 14.8374308274
+    },
+    "Centennial D": {
+        "IS-148": 8.42,
+        "Maryland_Fall": 10.4042034508
+    },
+    "Central Bucks East A": {
+        "CALI": 16.9280252549
+    },
+    "Central Catholic": {
+        "IS-150": 12.9
+    },
+    "Centralia A": {
+        "BISB": 17.3712790589
+    },
+    "Centralia B": {
+        "BISB": 10.9291548636
+    },
+    "Chamblee": {
+        "LIMIT": 17.4393287266
+    },
+    "Champaign Centennial A": {
+        "IS-150": 17.27
+    },
+    "Champaign Centennial B": {
+        "IS-150": 7.62
+    },
+    "Chanhassen": {
+        "IS-148": 13.94
+    },
+    "Charleston Catholic A": {
+        "BISB": 13.5080271867
+    },
+    "Charleston Catholic B": {
+        "BISB": 8.33005609086
+    },
+    "Chattahoochee": {
+        "IS-150": 19.85
+    },
+    "Chattahoochee A": {
+        "LIMIT": 22.7306247495
+    },
+    "Chattahoochee B": {
+        "LIMIT": 21.8684991246
+    },
+    "Chester": {
+        "IS-150": 7.5
+    },
+    "Chicago Lab B": {
+        "BASK": 11.1241379401,
+        "SMART": 12.4780232513
+    },
+    "Chillicothe A": {
+        "SMART": 13.1342082497
+    },
+    "Christiansburg": {
+        "GSAC": 17.0738303998,
+        "IS-148": 14.71
+    },
+    "Christiansburg A": {
+        "BASK": 13.3166262025,
+        "IS-150": 13.35
+    },
+    "Christiansburg B": {
+        "BASK": 9.37229682842,
+        "IS-150": 11.37
+    },
+    "Clayton A": {
+        "CALI": 17.8143576276
+    },
+    "Clayton B": {
+        "CALI": 13.2397389296
+    },
+    "Clermont Northeastern A": {
+        "BISB": 10.8482490652
+    },
+    "Clermont Northeastern B": {
+        "BISB": 9.63466208961
+    },
+    "Clever": {
+        "IS-148": 15.44
+    },
+    "Clever A": {
+        "IS-152": 8.25
+    },
+    "Clever B": {
+        "IS-152": 9.86
+    },
+    "Clover Hill A": {
+        "GSAC": 15.1224620553,
+        "IS-150": 11.36
+    },
+    "Clover Hill B": {
+        "GSAC": 10.0409800211,
+        "IS-150": 12.64
+    },
+    "Clover Hill C": {
+        "GSAC": 10.7244542128
+    },
+    "Collegiate": {
+        "BASK": 9.59799414956
+    },
+    "Collins Hill A": {
+        "IS-150": 21.49
+    },
+    "Collins Hill B": {
+        "IS-150": 15.0
+    },
+    "Copley A": {
+        "IS-150": 19.04
+    },
+    "Copley B": {
+        "IS-150": 16.31
+    },
+    "Cosby A": {
+        "GSAC": 11.6357531351,
+        "IS-152": 13.5
+    },
+    "Cosby B": {
+        "GSAC": 12.4083761345,
+        "IS-152": 9.35
+    },
+    "Covenant Christian Academy": {
+        "BASK": 15.3908920587
+    },
+    "Cranbrook": {
+        "IS-152": 14.22
+    },
+    "Crystal Springs": {
+        "IS-150": 17.24
+    },
+    "Cuba": {
+        "IS-152": 12.14
+    },
+    "Culver": {
+        "IS-150": 17.79
+    },
+    "Cupertino A": {
+        "ACF_Fall": 9.69551491511,
+        "BISB": 18.9691685768,
+        "IS-150": 17.79
+    },
+    "Cupertino B": {
+        "ACF_Fall": 11.891146011
+    },
+    "DCC A": {
+        "IS-152": 24.59,
+        "VTACO": 23.997764497
+    },
+    "DCC B": {
+        "IS-152": 20.78,
+        "VTACO": 20.4870948067
+    },
+    "DCC C": {
+        "IS-152": 18.83
+    },
+    "DCC D": {
+        "IS-152": 14.77
+    },
+    "DCC E": {
+        "IS-152": 10.97
+    },
+    "DCD A": {
+        "IS-152": 19.23
+    },
+    "DCD B": {
+        "IS-152": 15.14
+    },
+    "DCD C": {
+        "IS-152": 10.0
+    },
+    "DCD D": {
+        "IS-152": 6.98
+    },
+    "DELAWARE VALLEY A": {
+        "IS-150": 22.19
+    },
+    "DELAWARE VALLEY B": {
+        "IS-150": 11.64
+    },
+    "DUNDEE": {
+        "IS-150": 7.0
+    },
+    "Danville": {
+        "IS-150": 17.62
+    },
+    "Darien A": {
+        "IS-148": 22.57
+    },
+    "Darien B": {
+        "IS-148": 17.08
+    },
+    "Darien C": {
+        "IS-148": 14.84
+    },
+    "Daviess County": {
+        "CALI": 21.2357911956,
+        "Northmont": 19.9803740791
+    },
+    "Davis": {
+        "ACF_Fall": 19.8823515731
+    },
+    "Davis A": {
+        "BISB": 24.3999702925,
+        "IS-150": 21.16
+    },
+    "Dawkins MS A": {
+        "IS-150": 17.65
+    },
+    "Dawkins MS B": {
+        "IS-150": 11.25
+    },
+    "DePaul A": {
+        "IS-150": 13.46
+    },
+    "DePaul B": {
+        "IS-150": 7.58
+    },
+    "DeSmet A": {
+        "CALI": 13.1730257402
+    },
+    "DeSmet B": {
+        "CALI": 13.5542439651
+    },
+    "DeWitt": {
+        "IS-152": 15.8
+    },
+    "Deep Run": {
+        "GSAC": 15.4097193243
+    },
+    "Del Norte": {
+        "SSNCT": 9.58214193753
+    },
+    "Del Norte A": {
+        "BASK": 20.2380107173,
+        "CALI": 21.6932530654
+    },
+    "Del Norte B": {
+        "BASK": 12.6717767136
+    },
+    "Delaware Valley A": {
+        "CALI": 22.7320727281,
+        "IS-148": 21.63,
+        "IS-150": 22.19
+    },
+    "Delaware Valley B": {
+        "CALI": 12.2581020006,
+        "IS-148": 10.57,
+        "IS-150": 11.64
+    },
+    "Detroit Catholic Central": {
+        "Northmont": 26.4856354901
+    },
+    "Detroit Catholic Central (MI) A": {
+        "ACF_Fall": 23.2148068911
+    },
+    "Detroit Catholic Central (MI) B": {
+        "ACF_Fall": 19.4365381526
+    },
+    "Divine Child A": {
+        "CALI": 17.9382535507,
+        "IS-152": 12.59
+    },
+    "Divine Child B": {
+        "CALI": 11.8768837758,
+        "IS-152": 9.09
+    },
+    "Divine Child C": {
+        "IS-152": 11.43
+    },
+    "Dorman": {
+        "ACF_Fall": 19.8823515731
+    },
+    "Dorman A": {
+        "BASK": 23.4730056535,
+        "IS-148": 23.04,
+        "IS-150": 25.27,
+        "IS-152": 22.06,
+        "Northmont": 24.6480465417
+    },
+    "Dorman B": {
+        "BASK": 19.2814839753,
+        "IS-148": 19.21,
+        "IS-150": 20.48,
+        "IS-152": 17.56,
+        "Northmont": 17.219077317
+    },
+    "Dorman C": {
+        "IS-148": 10.94,
+        "IS-150": 16.67,
+        "IS-152": 12.06,
+        "Northmont": 10.8710427678
+    },
+    "Dorman D": {
+        "IS-148": 9.17
+    },
+    "Dougherty Valley A": {
+        "IS-150": 19.09
+    },
+    "Downingtown East A": {
+        "IS-150": 15.56
+    },
+    "Downingtown East B": {
+        "IS-150": 13.25
+    },
+    "Downingtown East C": {
+        "IS-150": 8.96
+    },
+    "DuBois": {
+        "IS-150": 15.15
+    },
+    "DuPont Manual A": {
+        "BISB": 23.6515916576
+    },
+    "DuPont Manual B": {
+        "BISB": 18.7163379569
+    },
+    "Dublin Scioto": {
+        "IS-150": 17.42,
+        "VTACO": 19.4488516402
+    },
+    "Dunbar": {
+        "CALI": 19.8157533081,
+        "HFT": 22.2121724131
+    },
+    "Dunbar A": {
+        "Northmont": 18.3884521023
+    },
+    "Dunbar B": {
+        "Northmont": 19.0075328711
+    },
+    "Dundee": {
+        "IS-150": 7.0
+    },
+    "EMMA WILLARD": {
+        "IS-150": 13.25
+    },
+    "EO Smith A": {
+        "LIMIT": 20.704629531
+    },
+    "EO Smith B": {
+        "LIMIT": 20.2627901482
+    },
+    "Early College at Guilford": {
+        "ACF_Fall": 19.2136314423
+    },
+    "East Brunswick A": {
+        "BASK": 23.3547832472,
+        "CALI": 25.324356657,
+        "IS-148": 23.07,
+        "IS-150": 19.27
+    },
+    "East Brunswick B": {
+        "BASK": 17.7983301507,
+        "CALI": 16.8231902431,
+        "IS-148": 18.0,
+        "IS-150": 14.44
+    },
+    "East Brunswick C": {
+        "IS-148": 13.75,
+        "IS-150": 11.32
+    },
+    "East Palestine": {
+        "SMART": 10.9866937096
+    },
+    "East Ridge": {
+        "BISB": 15.6722572931
+    },
+    "Eastside": {
+        "LIMIT": 19.6916319217
+    },
+    "Eastside (GA)": {
+        "IS-150": 22.34
+    },
+    "Eau Claire Regis A": {
+        "IS-148": 12.96
+    },
+    "Eau Claire Regis B": {
+        "IS-148": 4.67
+    },
+    "Eau Claire Regis C": {
+        "IS-148": 8.1
+    },
+    "Eau Claire Regis D": {
+        "IS-148": 7.31
+    },
+    "Eden C.A.": {
+        "IS-150": 14.24
+    },
+    "Eden Prairie A": {
+        "IS-148": 21.09
+    },
+    "Eden Prairie B": {
+        "IS-148": 18.75
+    },
+    "Eden Prairie C": {
+        "IS-148": 17.41
+    },
+    "Eden Prairie D": {
+        "IS-148": 14.75
+    },
+    "Eisenhower": {
+        "IS-152": 17.46
+    },
+    "Eleanor Roosevelt": {
+        "Maryland_Fall": 17.0494741783
+    },
+    "Emma Willard": {
+        "IS-150": 13.25
+    },
+    "Emmaus": {
+        "IS-150": 17.73
+    },
+    "Enloe": {
+        "IS-148": 19.2
+    },
+    "Enochs": {
+        "BISB": 13.8215371554,
+        "IS-150": 14.12
+    },
+    "Escobar A": {
+        "BISB": 22.6402691779,
+        "IS-150": 18.52
+    },
+    "Eureka": {
+        "CALI": 17.7667053495
+    },
+    "Evangel Classical Christian": {
+        "BASK": 11.5540375994,
+        "Maryland_Fall": 11.3548336512
+    },
+    "FILLMORE": {
+        "IS-150": 12.07
+    },
+    "Fairfield": {
+        "IS-150": 12.71
+    },
+    "Fenton": {
+        "BISB": 11.6573070489,
+        "HFT": 8.71290022455,
+        "SMART": 10.0441734393
+    },
+    "Fenton A": {
+        "IS-150": 12.13
+    },
+    "Fenton B": {
+        "IS-150": 11.89
+    },
+    "Fenwick A": {
+        "BASK": 16.422651241,
+        "IS-150": 16.5
+    },
+    "Fenwick B": {
+        "BASK": 15.7670542605,
+        "IS-150": 15.19
+    },
+    "Fenwick C": {
+        "BASK": 13.0264439325,
+        "IS-150": 14.17
+    },
+    "Fenwick D": {
+        "BASK": 10.232096147
+    },
+    "Fillmore": {
+        "IS-150": 12.07
+    },
+    "Fisher Catholic A": {
+        "IS-150": 17.85
+    },
+    "Fisher Catholic B": {
+        "IS-150": 10.42
+    },
+    "Fitch": {
+        "SMART": 11.4400578903
+    },
+    "Fitch A": {
+        "LIMIT": 12.7407440709
+    },
+    "Fitch B": {
+        "LIMIT": 8.30079710258
+    },
+    "Flowery Branch": {
+        "IS-150": 19.39
+    },
+    "Fordland": {
+        "IS-148": 11.82
+    },
+    "Fork Union Military Academy": {
+        "GSAC": 8.66412621451
+    },
+    "Fort Osage A": {
+        "BISB": 12.6079501798,
+        "IS-148": 12.61,
+        "IS-150": 10.97
+    },
+    "Fort Osage B": {
+        "BISB": 7.59179068071,
+        "IS-148": 9.29,
+        "IS-150": 12.41
+    },
+    "Francis Howell": {
+        "CALI": 18.1669844856
+    },
+    "Francis Howell North Black": {
+        "IS-152": 9.48
+    },
+    "Francis Howell North Gold": {
+        "IS-152": 5.59
+    },
+    "Francis Parker": {
+        "BASK": 15.2941646353
+    },
+    "Francis Parker A": {
+        "SSNCT": 16.3970144227
+    },
+    "Francis Parker B": {
+        "SSNCT": 12.6594986633
+    },
+    "Fremd": {
+        "ACF_Fall": 13.1728595948
+    },
+    "Fremd A": {
+        "BASK": 20.2380107173,
+        "HFT": 16.8619114212,
+        "IS-150": 20.83,
+        "SMART": 24.6472723117
+    },
+    "Fremd B": {
+        "BASK": 19.0557866542,
+        "HFT": 16.2487576661,
+        "IS-150": 18.28,
+        "SMART": 21.8793646823
+    },
+    "Fremd C": {
+        "BASK": 15.6703268372,
+        "HFT": 13.4796761915,
+        "IS-150": 13.92,
+        "SMART": 15.5799886981
+    },
+    "Fremd D": {
+        "IS-150": 10.44,
+        "SMART": 16.3435494235
+    },
+    "Ft. Zumwalt North": {
+        "IS-152": 12.9
+    },
+    "GDS A": {
+        "GSAC": 22.9774625487
+    },
+    "GDS B": {
+        "GSAC": 13.8050407872
+    },
+    "GENEVA A": {
+        "IS-150": 13.13
+    },
+    "GENEVA B": {
+        "IS-150": 8.33
+    },
+    "GNS A": {
+        "BASK": 22.1618116927,
+        "IS-150": 21.75
+    },
+    "GNS B": {
+        "BASK": 13.4885860662,
+        "IS-150": 15.26
+    },
+    "GNS C": {
+        "BASK": 9.12510452432,
+        "IS-150": 8.37
+    },
+    "GPN A": {
+        "IS-152": 13.7
+    },
+    "GPN B": {
+        "IS-152": 5.96
+    },
+    "GREENE": {
+        "IS-150": 10.32
+    },
+    "Gadsden City A": {
+        "BASK": 20.2810006832
+    },
+    "Gainesville": {
+        "IS-152": 10.69
+    },
+    "Galileo Magnet": {
+        "IS-152": 14.52
+    },
+    "Gallatin": {
+        "Northmont": 15.9612624218
+    },
+    "Gatton Academy": {
+        "CALI": 19.9205883199
+    },
+    "Geneva A": {
+        "IS-150": 12.5
+    },
+    "Geneva B": {
+        "IS-150": 9.78
+    },
+    "George C. Marshall": {
+        "IS-148": 14.34
+    },
+    "Georgetown Day A": {
+        "IS-148": 20.46,
+        "Maryland_Fall": 19.7276919542
+    },
+    "Georgetown Day B": {
+        "IS-148": 13.29,
+        "Maryland_Fall": 13.594299027
+    },
+    "Germantown Z": {
+        "BISB": 10.3527010502
+    },
+    "Glasgow": {
+        "CALI": 19.6251441956
+    },
+    "Glen Allen": {
+        "IS-152": 13.15
+    },
+    "Glenbard East A": {
+        "IS-150": 15.77
+    },
+    "Glenbard East B": {
+        "IS-150": 12.69
+    },
+    "Glenwood A": {
+        "BISB": 19.1309801735
+    },
+    "Glenwood B": {
+        "BISB": 13.5788197602
+    },
+    "Godwin": {
+        "IS-150": 15.81
+    },
+    "Gotham": {
+        "BASK": 16.6698435451
+    },
+    "Graham A": {
+        "IS-150": 19.21
+    },
+    "Graham B": {
+        "IS-150": 9.29
+    },
+    "Graham C": {
+        "IS-150": 11.27
+    },
+    "Grasshoppers A": {
+        "ACF_Fall": 10.6985951112
+    },
+    "Grasshoppers B": {
+        "ACF_Fall": 9.7846775992
+    },
+    "Grauer": {
+        "CALI": 11.3050564385
+    },
+    "Grauer School": {
+        "BASK": 12.704019188
+    },
+    "Graves County": {
+        "CALI": 17.4426698584
+    },
+    "Grayson County": {
+        "Northmont": 9.70166798247
+    },
+    "Grayson County A": {
+        "BISB": 13.9934619769
+    },
+    "Grayson County B": {
+        "BISB": 8.57277348597
+    },
+    "Great Valley A": {
+        "BASK": 18.3464522164,
+        "CALI": 22.3794458701,
+        "IS-150": 19.65
+    },
+    "Great Valley B": {
+        "CALI": 14.7646118289,
+        "IS-150": 14.3
+    },
+    "Great Valley C": {
+        "IS-150": 8.73
+    },
+    "Great Valley D": {
+        "IS-150": 3.48
+    },
+    "Great Valley High School": {
+        "IS-148": 19.05
+    },
+    "Greene": {
+        "IS-150": 10.32
+    },
+    "Greenville Tech Charter": {
+        "IS-148": 11.21
+    },
+    "Guilder A": {
+        "BISB": 23.2268362161
+    },
+    "Gunston": {
+        "CALI": 14.5549418053
+    },
+    "HC A": {
+        "BISB": 26.8271442437
+    },
+    "HC B": {
+        "BISB": 22.1346079381
+    },
+    "HC C": {
+        "BISB": 17.9173931979
+    },
+    "HSOBX A": {
+        "GSAC": 14.9738807093
+    },
+    "HSOBX B": {
+        "GSAC": 8.75327502213
+    },
+    "HSoBX A": {
+        "BASK": 12.8114941028
+    },
+    "HSoBX B": {
+        "BASK": 8.21156774831
+    },
+    "Haarlem": {
+        "ACF_Fall": 11.7796926558
+    },
+    "Haarlem A": {
+        "BISB": 15.7531630915
+    },
+    "Half Hollow Hills East": {
+        "BASK": 18.5721495375
+    },
+    "Half Hollow Hills West": {
+        "BASK": 15.3264071098
+    },
+    "Hallsville A": {
+        "BISB": 16.5015417264,
+        "CALI": 19.5012482726,
+        "IS-152": 16.12
+    },
+    "Hallsville B": {
+        "BISB": 9.67511498879,
+        "CALI": 9.24647802438,
+        "IS-152": 6.43
+    },
+    "Hampton": {
+        "IS-152": 9.82
+    },
+    "Hampton A": {
+        "IS-150": 16.11
+    },
+    "Hampton B": {
+        "IS-150": 11.11
+    },
+    "Hannibal": {
+        "BISB": 19.8894720333,
+        "IS-148": 20.07,
+        "IS-152": 19.01
+    },
+    "Hannibal A": {
+        "CALI": 23.6851182902,
+        "IS-150": 19.63
+    },
+    "Hannibal B": {
+        "CALI": 11.3336478054,
+        "IS-150": 6.6
+    },
+    "Harding": {
+        "IS-150": 15.75
+    },
+    "Harker ": {
+        "BISB": 22.3773253332
+    },
+    "Harker HS": {
+        "IS-150": 20.21
+    },
+    "Harvard Westlake": {
+        "IS-148": 14.5
+    },
+    "Helias A": {
+        "BISB": 18.3522618642,
+        "CALI": 18.1002712963,
+        "IS-152": 15.28
+    },
+    "Helias B": {
+        "BISB": 13.8721032793,
+        "CALI": 15.5651701011,
+        "IS-152": 11.57
+    },
+    "Henderson A": {
+        "IS-148": 19.08
+    },
+    "Henderson B": {
+        "IS-148": 11.67
+    },
+    "Henderson County": {
+        "BISB": 20.1928687772,
+        "Northmont": 18.3294920291
+    },
+    "Henderson County A": {
+        "CALI": 22.5605245269
+    },
+    "Henderson County B": {
+        "CALI": 13.5161221426
+    },
+    "Hermann": {
+        "IS-150": 11.93,
+        "IS-152": 9.34
+    },
+    "Hermitage": {
+        "IS-150": 14.52
+    },
+    "Hewitt-Trussville": {
+        "BASK": 15.5198619564
+    },
+    "Hewitt-Trussville A": {
+        "Maryland_Fall": 12.7442162517
+    },
+    "Hewitt-Trusville B": {
+        "Maryland_Fall": 8.60349047517
+    },
+    "Hickman": {
+        "BISB": 23.9044222775
+    },
+    "Hickman A": {
+        "IS-148": 20.94,
+        "IS-150": 20.3
+    },
+    "Hickman B": {
+        "IS-148": 13.48,
+        "IS-150": 12.03
+    },
+    "Hidden Valley A": {
+        "IS-148": 13.24
+    },
+    "Hidden Valley B": {
+        "IS-148": 8.64
+    },
+    "High Point Central A": {
+        "IS-148": 12.31
+    },
+    "High Point Central B": {
+        "IS-148": 10.67
+    },
+    "High Tech A": {
+        "BASK": 24.1715925999,
+        "CALI": 26.0296103729,
+        "IS-148": 24.53,
+        "IS-150": 23.64
+    },
+    "High Tech B": {
+        "BASK": 18.3894421823,
+        "CALI": 16.8899034324,
+        "IS-148": 18.97,
+        "IS-150": 17.92
+    },
+    "High Tech C ": {
+        "CALI": 18.9961341246
+    },
+    "Highlands": {
+        "BISB": 14.6002554647
+    },
+    "Hingham": {
+        "HFT": 17.158598722
+    },
+    "Hinsdale Center": {
+        "BASK": 25.33232168
+    },
+    "Hinsdale Central": {
+        "ACF_Fall": 22.8915921613
+    },
+    "Hinsdale Central A": {
+        "IS-150": 22.91,
+        "Missouri_Open": 22.8575095351,
+        "VTACO": 23.0211120267
+    },
+    "Hinsdale Central B": {
+        "IS-150": 21.26,
+        "SMART": 22.1299080453,
+        "VTACO": 12.4187135887
+    },
+    "Hinsdale Central C": {
+        "SMART": 15.4129597894
+    },
+    "Hoffman Estates": {
+        "IS-150": 11.32,
+        "SMART": 13.6233643394
+    },
+    "Holy Innocents": {
+        "LIMIT": 9.32457128217
+    },
+    "Homeschool Out of the Box": {
+        "IS-152": 12.07
+    },
+    "Homestead A": {
+        "IS-150": 21.94
+    },
+    "Homewood": {
+        "BASK": 11.3498352612
+    },
+    "Homewood-Flossmoor": {
+        "HFT": 19.4233117852,
+        "SMART": 21.581098774,
+        "VTACO": 17.1787945472
+    },
+    "Homewood-Flossmoor A": {
+        "IS-150": 21.55
+    },
+    "Homewood-Flossmoor B": {
+        "IS-150": 11.7
+    },
+    "Honaker A": {
+        "IS-148": 9.01
+    },
+    "Honaker B": {
+        "IS-148": 5.56
+    },
+    "Hoover A": {
+        "CALI": 9.94220128471,
+        "Maryland_Fall": 18.0001043786
+    },
+    "Hoover B": {
+        "CALI": 8.1695365392,
+        "Maryland_Fall": 15.5778255027
+    },
+    "Horse": {
+        "BISB": 24.2381586958,
+        "Missouri_Open": 16.6296417074
+    },
+    "House": {
+        "GSAC": 11.913104981
+    },
+    "Houston A": {
+        "IS-152": 9.29
+    },
+    "Houston B": {
+        "IS-152": 3.87
+    },
+    "Howard": {
+        "BASK": 9.34005435397,
+        "GSAC": 18.3021028603,
+        "IS-148": 10.32,
+        "IS-150": 12.72,
+        "IS-152": 8.77,
+        "Maryland_Fall": 14.1884429022
+    },
+    "Hubbard": {
+        "LIMIT": 17.9997103828,
+        "SMART": 18.9682894169
+    },
+    "Hunter A": {
+        "BASK": 24.085612668,
+        "HFT": 22.0737183394,
+        "IS-148": 23.55,
+        "LIMIT": 21.0602563513
+    },
+    "Hunter B": {
+        "BASK": 16.5946111047,
+        "HFT": 18.9189433737,
+        "IS-148": 20.26
+    },
+    "Huntington HS": {
+        "SMART": 15.3890985168
+    },
+    "Huron": {
+        "IS-152": 13.73
+    },
+    "IMSA": {
+        "ACF_Fall": 16.6947856166,
+        "BASK": 24.4725223614,
+        "VTACO": 21.7101100622
+    },
+    "IMSA A": {
+        "BISB": 24.8752918579,
+        "HFT": 19.9375697733,
+        "IS-150": 23.94,
+        "Missouri_Open": 18.7169107613
+    },
+    "IMSA B": {
+        "BISB": 14.7519538366,
+        "HFT": 13.1632097373,
+        "IS-150": 15.51
+    },
+    "IMSA C": {
+        "IS-150": 14.11
+    },
+    "ITHACA A": {
+        "IS-150": 21.68
+    },
+    "ITHACA B": {
+        "IS-150": 14.44
+    },
+    "ITHACA C": {
+        "IS-150": 10.28
+    },
+    "ITHACA D": {
+        "IS-150": 9.67
+    },
+    "ITHACA E": {
+        "IS-150": 10.61
+    },
+    "Independence A": {
+        "BISB": 10.1403233294
+    },
+    "Independence B": {
+        "BISB": 5.84220279091
+    },
+    "Indiana A": {
+        "IS-150": 15.14
+    },
+    "Indiana B": {
+        "IS-150": 10.86
+    },
+    "Irvine": {
+        "BASK": 20.6356679021,
+        "CALI": 22.6367681719,
+        "IS-150": 19.78
+    },
+    "Irvine A": {
+        "SSNCT": 20.5915633592
+    },
+    "Irvine A ": {
+        "IS-148": 10.71
+    },
+    "Irvine B": {
+        "IS-148": 9.03,
+        "SSNCT": 7.65244630088
+    },
+    "Itawamba": {
+        "BASK": 13.7465258618
+    },
+    "Itawamba A": {
+        "BISB": 13.3462155899
+    },
+    "Itawamba B": {
+        "BISB": 9.71556788798
+    },
+    "Ithaca A": {
+        "IS-148": 20.77,
+        "IS-150": 21.68
+    },
+    "Ithaca B": {
+        "IS-148": 14.32,
+        "IS-150": 14.44
+    },
+    "Ithaca C": {
+        "IS-148": 11.58,
+        "IS-150": 10.28
+    },
+    "Ithaca D": {
+        "IS-150": 9.67
+    },
+    "Ithaca E": {
+        "IS-150": 10.61
+    },
+    "Jackson Prep": {
+        "BISB": 12.8506675749
+    },
+    "Jackson-Milton": {
+        "LIMIT": 7.85895771982
+    },
+    "James Clemens": {
+        "BASK": 11.6077750568
+    },
+    "James Clemens A": {
+        "Maryland_Fall": 18.3108873287
+    },
+    "James Clemens B": {
+        "Maryland_Fall": 10.4773288509
+    },
+    "James Island": {
+        "IS-150": 15.22
+    },
+    "Jefferson City": {
+        "BISB": 8.98741570263
+    },
+    "John Carroll": {
+        "Maryland_Fall": 10.1574052257
+    },
+    "John Marshall": {
+        "IS-150": 8.81
+    },
+    "Johns Creek": {
+        "IS-150": 24.22,
+        "LIMIT": 21.3727768903
+    },
+    "Johnson Central A": {
+        "BISB": 22.0435889149,
+        "Northmont": 22.7416708412
+    },
+    "Johnson Central B": {
+        "BISB": 16.8656178191,
+        "Northmont": 14.4381271972
+    },
+    "Joliet Central A": {
+        "IS-150": 8.52
+    },
+    "Joliet Central B": {
+        "IS-150": 10.2
+    },
+    "Jones College Prep": {
+        "IS-150": 11.74
+    },
+    "Kaneland": {
+        "HFT": 11.4720921224,
+        "IS-150": 13.43
+    },
+    "Keith Country Day": {
+        "SMART": 19.6483356879
+    },
+    "Keith Country Day A": {
+        "IS-150": 15.84
+    },
+    "Keith Country Day B": {
+        "IS-150": 10.7
+    },
+    "Kellenberg A": {
+        "BASK": 18.0777649293,
+        "IS-148": 17.93,
+        "IS-152": 18.37
+    },
+    "Kellenberg B": {
+        "BASK": 14.7567900612,
+        "IS-148": 14.29,
+        "IS-152": 11.87
+    },
+    "Kellenberg C": {
+        "IS-148": 6.21,
+        "IS-152": 8.82
+    },
+    "Kellenberg D": {
+        "IS-152": 7.89
+    },
+    "Keystone Oaks": {
+        "IS-150": 9.82
+    },
+    "Kickapoo A": {
+        "IS-148": 13.68
+    },
+    "Kickapoo B": {
+        "IS-148": 10.6
+    },
+    "Kings Park A": {
+        "IS-150": 20.64
+    },
+    "Kings Park B": {
+        "IS-150": 14.22
+    },
+    "Kings Park C": {
+        "IS-150": 10.25
+    },
+    "Kittylonians": {
+        "GSAC": 18.8469011291
+    },
+    "L & N STEM Academy A": {
+        "BISB": 16.4813152768
+    },
+    "L & N STEM Academy B": {
+        "BISB": 8.29971641647
+    },
+    "LAKELAND": {
+        "IS-150": 16.04
+    },
+    "LAMP": {
+        "BASK": 14.1011930807
+    },
+    "LISGAR": {
+        "IS-150": 19.86
+    },
+    "LJ A": {
+        "IS-150": 22.54
+    },
+    "LJ B": {
+        "IS-150": 13.75
+    },
+    "LJ C": {
+        "IS-150": 6.88
+    },
+    "La Jolla": {
+        "IS-148": 21.57
+    },
+    "La Jolla A": {
+        "BASK": 24.6552297166,
+        "CALI": 26.4394199646,
+        "SSNCT": 24.1056406765
+    },
+    "La Jolla B": {
+        "BASK": 13.617555964,
+        "CALI": 15.9559187816,
+        "SSNCT": 11.7860574804
+    },
+    "La Jolla C": {
+        "SSNCT": 7.76416552195
+    },
+    "La Jolla D": {
+        "SSNCT": 9.54151676623
+    },
+    "LaGrange Acad": {
+        "IS-150": 2.17
+    },
+    "Ladue A": {
+        "CALI": 19.6060832844,
+        "IS-150": 15.62
+    },
+    "Ladue B": {
+        "CALI": 19.1676823258,
+        "IS-150": 16.04
+    },
+    "Ladue C": {
+        "CALI": 16.7564770537,
+        "IS-150": 12.35
+    },
+    "Ladue D": {
+        "CALI": 15.1934823319
+    },
+    "Ladue E": {
+        "CALI": 12.2581020006
+    },
+    "Lafayette": {
+        "CALI": 10.3901326989
+    },
+    "Lake Center A": {
+        "SMART": 10.8196648009
+    },
+    "Lake Center B": {
+        "SMART": 2.63524827602
+    },
+    "Lake Zurich": {
+        "IS-150": 14.53
+    },
+    "Lakeland": {
+        "IS-150": 16.04
+    },
+    "Lakeland A": {
+        "IS-148": 15.71
+    },
+    "Lakeland B": {
+        "IS-148": 10.26
+    },
+    "Latin": {
+        "HFT": 19.4035326318
+    },
+    "Latin A": {
+        "BASK": 21.9146193886,
+        "SMART": 23.299110406
+    },
+    "Latin B": {
+        "BASK": 14.4343653167,
+        "SMART": 16.0214222424
+    },
+    "Latin C": {
+        "BASK": 12.2311295628
+    },
+    "Latin School A": {
+        "IS-150": 20.84
+    },
+    "Latin School B": {
+        "IS-150": 12.69
+    },
+    "Lausanne A": {
+        "BISB": 21.3356631792
+    },
+    "Lausanne B": {
+        "BISB": 12.1629682887
+    },
+    "Lee's Summit A": {
+        "CALI": 6.70184637357
+    },
+    "Lee's Summit B": {
+        "CALI": 8.1695365392
+    },
+    "Lee's Summit North A": {
+        "CALI": 17.175817101
+    },
+    "Lee's Summit North B": {
+        "CALI": 15.2601955212
+    },
+    "Lee's Summit West A": {
+        "CALI": 17.7952967164
+    },
+    "Lee's Summit West B": {
+        "CALI": 12.4201197462
+    },
+    "Lehigh Valley Academy": {
+        "IS-148": 19.81,
+        "IS-150": 21.61
+    },
+    "Lexington A": {
+        "BASK": 25.1711093078,
+        "HFT": 22.9440010886
+    },
+    "Lexington B": {
+        "HFT": 17.969544011,
+        "LIMIT": 16.2646825627
+    },
+    "Lexington C": {
+        "HFT": 10.839159214,
+        "LIMIT": 12.7946269224
+    },
+    "Lexington D": {
+        "HFT": 9.11837286904
+    },
+    "Leyden": {
+        "IS-150": 12.55
+    },
+    "Liberty A": {
+        "SMART": 15.4248904258
+    },
+    "Liberty B": {
+        "SMART": 11.9411446163
+    },
+    "Liberty North": {
+        "CALI": 16.0131015153
+    },
+    "Libertyville": {
+        "SMART": 16.9758731491
+    },
+    "Lincoln-Way North A": {
+        "IS-150": 14.29
+    },
+    "Lincoln-Way North B": {
+        "IS-150": 12.57
+    },
+    "Lisgar": {
+        "IS-150": 19.86
+    },
+    "Lisle": {
+        "IS-150": 16.72,
+        "SMART": 18.5984396905
+    },
+    "Little Miami A": {
+        "IS-150": 13.33
+    },
+    "Little Miami B": {
+        "IS-150": 10.83
+    },
+    "Livingston A": {
+        "BASK": 21.366497323,
+        "IS-148": 21.82,
+        "IS-150": 19.81,
+        "IS-152": 19.79
+    },
+    "Livingston B": {
+        "BASK": 19.1417665861,
+        "IS-148": 18.74,
+        "IS-150": 15.49,
+        "IS-152": 20.0
+    },
+    "Livingston C": {
+        "BASK": 15.9712565987,
+        "IS-148": 16.48,
+        "IS-150": 18.47,
+        "IS-152": 16.91
+    },
+    "Livingston D": {
+        "IS-148": 13.17,
+        "IS-150": 8.91,
+        "IS-152": 13.48
+    },
+    "Livingston E": {
+        "IS-148": 7.78
+    },
+    "Livonia Churchill": {
+        "IS-152": 15.17
+    },
+    "Locust Grove A": {
+        "IS-150": 19.38
+    },
+    "Locust Grove B": {
+        "IS-150": 13.0
+    },
+    "Logos A": {
+        "BISB": 14.33731162
+    },
+    "Logos B": {
+        "BISB": 10.3931539493
+    },
+    "Longfellow": {
+        "Maryland_Fall": 17.5156486034
+    },
+    "Longfellow Middle A": {
+        "IS-148": 17.83
+    },
+    "Longfellow Middle B": {
+        "IS-148": 7.03
+    },
+    "Los Alamitos": {
+        "CALI": 18.3194717756,
+        "IS-148": 17.89
+    },
+    "Loudoun County": {
+        "IS-150": 11.58
+    },
+    "Loveland": {
+        "BISB": 14.3474248448
+    },
+    "Lowell": {
+        "ACF_Fall": 8.58098136391,
+        "IS-150": 9.17
+    },
+    "Lowellville": {
+        "LIMIT": 15.7258540471
+    },
+    "Loyola": {
+        "VTACO": 14.4424078964
+    },
+    "Loyola A": {
+        "BASK": 20.1842732599,
+        "SMART": 24.8381624931
+    },
+    "Loyola Academy A": {
+        "IS-150": 19.09
+    },
+    "Loyola Academy B": {
+        "IS-150": 10.38
+    },
+    "Loyola B": {
+        "BASK": 12.9189690177,
+        "SMART": 17.4530986025
+    },
+    "Loyola C": {
+        "BASK": 12.7147666795
+    },
+    "Lutheran (St. Charles) A": {
+        "IS-150": 13.22
+    },
+    "Lutheran (St. Charles) B": {
+        "IS-150": 10.82
+    },
+    "Lutheran-St. Charles A": {
+        "CALI": 13.4684698645
+    },
+    "Lutheran-St. Charles B": {
+        "CALI": 8.84619888829
+    },
+    "MARCUS WHITMAN A": {
+        "IS-150": 8.12
+    },
+    "MARCUS WHITMAN B": {
+        "IS-150": 8.16
+    },
+    "MAST A": {
+        "IS-148": 10.18
+    },
+    "MAST B": {
+        "IS-148": 11.38
+    },
+    "MC A": {
+        "IS-150": 13.97
+    },
+    "MC B": {
+        "IS-150": 12.62
+    },
+    "MICDS": {
+        "CALI": 17.4426698584
+    },
+    "MORAVIAN A": {
+        "IS-150": 13.91
+    },
+    "MORAVIAN B": {
+        "IS-150": 9.09
+    },
+    "MOUNTAIN VIEW": {
+        "IS-150": 9.57
+    },
+    "MUS": {
+        "BISB": 16.7745987959
+    },
+    "Macomb A": {
+        "ACF_Fall": 16.137518841
+    },
+    "Macomb B": {
+        "ACF_Fall": 5.76121147937
+    },
+    "Madisonville North Hopkins": {
+        "Northmont": 11.5589102886
+    },
+    "Madisonville-North Hopkins": {
+        "CALI": 17.7667053495
+    },
+    "Maggie Walker": {
+        "ACF_Fall": 19.1021780872,
+        "Maryland_Fall": 21.6563743799
+    },
+    "Maggie Walker A": {
+        "BASK": 23.9351477873,
+        "IS-150": 19.71,
+        "IS-152": 22.47
+    },
+    "Maggie Walker B": {
+        "BASK": 21.2697698996,
+        "IS-150": 16.8,
+        "IS-152": 17.76
+    },
+    "Maggie Walker C": {
+        "BASK": 15.8960241583,
+        "IS-152": 13.2
+    },
+    "Magical Unicorn Rainbow Phoenixes": {
+        "GSAC": 23.3142469331
+    },
+    "Maine East": {
+        "IS-150": 11.75
+    },
+    "Maine South A": {
+        "IS-150": 15.0,
+        "SMART": 17.4650292388
+    },
+    "Maine South B": {
+        "IS-150": 12.14,
+        "SMART": 11.3804047086
+    },
+    "Manheim Township A": {
+        "IS-148": 22.61,
+        "IS-150": 22.44,
+        "IS-152": 20.16,
+        "Maryland_Fall": 22.9269282054
+    },
+    "Manheim Township B": {
+        "IS-148": 16.34,
+        "IS-150": 18.89,
+        "IS-152": 15.73,
+        "Maryland_Fall": 15.1025104025
+    },
+    "Manheim Township C": {
+        "IS-150": 17.78,
+        "IS-152": 14.1
+    },
+    "Manheim Township D": {
+        "IS-150": 14.1,
+        "IS-152": 9.35
+    },
+    "Marcus Whitman A": {
+        "IS-150": 8.12
+    },
+    "Marcus Whitman B": {
+        "IS-150": 8.16
+    },
+    "Marionville": {
+        "IS-148": 9.41
+    },
+    "Marist": {
+        "LIMIT": 20.4998746951
+    },
+    "Marist A": {
+        "IS-150": 13.67
+    },
+    "Marist B": {
+        "IS-150": 12.83
+    },
+    "Marquette": {
+        "IS-152": 19.38
+    },
+    "Marquette A": {
+        "CALI": 19.7204487518
+    },
+    "Marquette B": {
+        "CALI": 12.8489902491
+    },
+    "Marshall": {
+        "IS-152": 5.88
+    },
+    "Maryville A": {
+        "CALI": 13.9259317343
+    },
+    "Maryville B": {
+        "CALI": 10.5998027226
+    },
+    "Mauldin A": {
+        "IS-148": 6.84
+    },
+    "Mauldin B": {
+        "IS-148": 12.56
+    },
+    "McCracken County A": {
+        "Northmont": 15.3716616897
+    },
+    "McCracken County B": {
+        "Northmont": 11.3918567479
+    },
+    "Menlo-Atherton": {
+        "IS-150": 15.62
+    },
+    "Merrol Hyde A": {
+        "CALI": 20.6925552252,
+        "Northmont": 19.0075328711
+    },
+    "Merrol Hyde B": {
+        "CALI": 12.2581020006,
+        "Northmont": 5.997010049
+    },
+    "Mesa Verde A": {
+        "BASK": 10.586763366
+    },
+    "Mesa Verde B": {
+        "BASK": 7.93213296976
+    },
+    "Metea Valley A": {
+        "IS-150": 20.29
+    },
+    "Metea Valley B": {
+        "IS-150": 14.18
+    },
+    "Mexico": {
+        "CALI": 11.5623787403,
+        "IS-148": 10.0,
+        "IS-150": 11.0,
+        "IS-152": 9.74
+    },
+    "Miami Valley": {
+        "SMART": 20.8294686849
+    },
+    "Miami Valley School": {
+        "VTACO": 12.0667667526
+    },
+    "Middlesex A": {
+        "IS-152": 19.87
+    },
+    "Middlesex B": {
+        "IS-152": 13.54
+    },
+    "Middlesex County Academy A": {
+        "IS-148": 19.45
+    },
+    "Middlesex County Academy B": {
+        "IS-148": 8.45
+    },
+    "Middlesex County Academy C": {
+        "IS-148": 9.4
+    },
+    "Midlothian": {
+        "IS-152": 12.33
+    },
+    "Millbrook": {
+        "IS-148": 14.4
+    },
+    "Millburn A": {
+        "IS-150": 22.12,
+        "IS-152": 19.58
+    },
+    "Millburn B": {
+        "IS-150": 18.14,
+        "IS-152": 19.45
+    },
+    "Milton": {
+        "LIMIT": 11.1350350945
+    },
+    "Mineral Ridge": {
+        "LIMIT": 10.8009614148
+    },
+    "Minnetonka A": {
+        "IS-148": 11.04
+    },
+    "Minnetonka B": {
+        "IS-148": 13.56
+    },
+    "Minnetonka C": {
+        "IS-148": 11.08
+    },
+    "Minnetonka D": {
+        "IS-148": 3.33
+    },
+    "Moberly A": {
+        "BISB": 9.49307694245,
+        "CALI": 13.5542439651,
+        "IS-150": 10.88
+    },
+    "Moberly B": {
+        "BISB": 7.10635589048,
+        "CALI": 7.92174469306,
+        "IS-150": 6.3
+    },
+    "Montgomery Co.": {
+        "IS-152": 8.17
+    },
+    "Moorestown Friends": {
+        "BASK": 7.19055605746
+    },
+    "Moravian A": {
+        "IS-148": 8.65,
+        "IS-150": 13.91
+    },
+    "Moravian B": {
+        "IS-150": 9.09
+    },
+    "Mounds Park": {
+        "IS-148": 17.12
+    },
+    "Mount Carmel": {
+        "SSNCT": 14.8024764493
+    },
+    "Mount Vernon": {
+        "BASK": 12.0376747161
+    },
+    "Mountain Brook": {
+        "BASK": 15.175942229
+    },
+    "Mountain Lakes A": {
+        "IS-150": 19.19
+    },
+    "Mountain Lakes B": {
+        "IS-150": 8.65
+    },
+    "Mountain View": {
+        "IS-150": 9.57
+    },
+    "Mountain View A": {
+        "BISB": 11.5561748009
+    },
+    "N Babylon/Kings Pk C": {
+        "IS-150": 9.41
+    },
+    "NCSSM A": {
+        "IS-148": 20.83
+    },
+    "NCSSM B": {
+        "IS-148": 16.76
+    },
+    "NCSSM C": {
+        "IS-148": 14.04
+    },
+    "NCSSM D": {
+        "IS-148": 9.25
+    },
+    "NKC A": {
+        "CALI": 17.7952967164
+    },
+    "NKC B": {
+        "CALI": 11.6672137521
+    },
+    "NOTRE DAME": {
+        "IS-150": 12.97
+    },
+    "Nandua": {
+        "IS-152": 12.55
+    },
+    "Naperville Central": {
+        "IS-150": 15.86
+    },
+    "Naperville North": {
+        "ACF_Fall": 17.7981738323
+    },
+    "Naperville North A": {
+        "IS-150": 24.86
+    },
+    "Naperville North B": {
+        "IS-150": 13.28
+    },
+    "Needham": {
+        "HFT": 13.430228308,
+        "LIMIT": 17.8488383985
+    },
+    "New Haven A": {
+        "IS-152": 9.62
+    },
+    "New Haven B": {
+        "IS-152": 6.1
+    },
+    "New Haven C": {
+        "IS-152": 11.92
+    },
+    "New Kent": {
+        "BASK": 10.0386413003
+    },
+    "New Kent A": {
+        "GSAC": 17.093641246,
+        "IS-150": 12.38,
+        "IS-152": 12.76
+    },
+    "New Kent B": {
+        "GSAC": 10.2688047516,
+        "IS-150": 9.63,
+        "IS-152": 9.65
+    },
+    "New Kent C": {
+        "GSAC": 14.2507848252,
+        "IS-152": 7.42
+    },
+    "New Trier": {
+        "IS-150": 13.0,
+        "SMART": 10.7600116193
+    },
+    "Newton": {
+        "IS-150": 18.93
+    },
+    "Newton South": {
+        "LIMIT": 17.3315630235
+    },
+    "NoHo A": {
+        "IS-148": 14.56
+    },
+    "NoHo B": {
+        "IS-148": 13.83
+    },
+    "Norcross": {
+        "LIMIT": 15.2409083831
+    },
+    "Norfolk Academic Guild": {
+        "IS-148": 8.12
+    },
+    "North Babylon A": {
+        "BASK": 15.175942229,
+        "IS-150": 15.82
+    },
+    "North Babylon B": {
+        "BASK": 9.73771153883,
+        "IS-150": 9.82
+    },
+    "North Hollywood": {
+        "CALI": 23.8566664913
+    },
+    "North Hollywood A": {
+        "BASK": 21.9038718971,
+        "SSNCT": 20.2970308673
+    },
+    "North Hollywood B": {
+        "BASK": 11.1993703805,
+        "SSNCT": 15.0970089412
+    },
+    "North Shore": {
+        "IS-150": 10.73
+    },
+    "Northern Highlands A": {
+        "IS-152": 13.12
+    },
+    "Northern Highlands B": {
+        "IS-152": 6.9
+    },
+    "Northern Highlands C": {
+        "IS-152": 14.93
+    },
+    "Northgate": {
+        "BISB": 14.1552735736,
+        "IS-150": 16.21
+    },
+    "Northmont": {
+        "BISB": 19.2017727471,
+        "IS-148": 16.06,
+        "IS-150": 16.92,
+        "VTACO": 16.9676264455
+    },
+    "Northmont A": {
+        "SMART": 21.473723047
+    },
+    "Northmont B": {
+        "SMART": 11.0105549823
+    },
+    "Northridge": {
+        "BASK": 17.3899254744
+    },
+    "Northview": {
+        "IS-150": 26.36
+    },
+    "Northwest": {
+        "IS-152": 11.72
+    },
+    "Northwood": {
+        "IS-148": 7.06
+    },
+    "Not Battle Ground Academy": {
+        "Northmont": 21.5624693769
+    },
+    "Not OK Computer B": {
+        "BISB": 20.000717506
+    },
+    "Not Ok Computer A": {
+        "BISB": 21.0929457841
+    },
+    "Notre Dame": {
+        "IS-150": 12.97
+    },
+    "Notre Dame A": {
+        "IS-150": 14.81,
+        "IS-152": 17.93
+    },
+    "Notre Dame B": {
+        "IS-150": 10.0,
+        "IS-152": 11.22
+    },
+    "Notre Dame de Sion ": {
+        "CALI": 13.5923657875
+    },
+    "OPRF": {
+        "IS-152": 20.12
+    },
+    "OPRF A": {
+        "IS-150": 22.72
+    },
+    "OPRF B": {
+        "IS-150": 10.68
+    },
+    "Oak Lawn A": {
+        "IS-150": 12.99
+    },
+    "Oak Lawn B": {
+        "IS-150": 7.06
+    },
+    "Oak Mountain": {
+        "BASK": 14.6278201634
+    },
+    "Oak Park River Forest A": {
+        "Missouri_Open": 13.7278286323
+    },
+    "Oak Park-River Forest B": {
+        "SMART": 16.0333528788
+    },
+    "Oakville A": {
+        "CALI": 12.5821374917,
+        "IS-152": 8.42
+    },
+    "Oakville B": {
+        "CALI": 10.6665159119,
+        "IS-152": 6.82
+    },
+    "Oakville C": {
+        "CALI": 11.4289523616
+    },
+    "Olentangy Liberty": {
+        "Northmont": 16.9439303087
+    },
+    "Olentangy Liberty A": {
+        "CALI": 21.350156663
+    },
+    "Olentangy Liberty B": {
+        "CALI": 18.2241672193
+    },
+    "Olentangy Liberty C": {
+        "CALI": 13.4684698645
+    },
+    "Olmsted Falls": {
+        "CALI": 19.8824664974,
+        "IS-150": 16.7
+    },
+    "Orchard Farm A": {
+        "CALI": 19.7585705743,
+        "IS-148": 17.07,
+        "IS-152": 16.43
+    },
+    "Orchard Farm B": {
+        "CALI": 13.5733048763,
+        "IS-148": 8.08,
+        "IS-152": 10.79
+    },
+    "Orono A": {
+        "IS-148": 13.81
+    },
+    "Orono B": {
+        "IS-148": 10.99
+    },
+    "Orono C": {
+        "IS-148": 5.22
+    },
+    "Osage (Chamois)": {
+        "IS-152": 7.61
+    },
+    "Oswego East A": {
+        "IS-150": 16.12
+    },
+    "Oswego East B": {
+        "IS-150": 11.36
+    },
+    "Ottawa Hills A": {
+        "IS-152": 13.48
+    },
+    "Ottawa Hills B": {
+        "IS-152": 13.67
+    },
+    "Owensboro": {
+        "BISB": 10.5145126469
+    },
+    "Owensville A": {
+        "IS-152": 4.38
+    },
+    "Owensville B": {
+        "IS-152": 8.07
+    },
+    "PALCS A": {
+        "CALI": 22.5795854381,
+        "IS-150": 20.68
+    },
+    "PALCS B": {
+        "IS-150": 12.67
+    },
+    "PIONEER": {
+        "IS-150": 9.8
+    },
+    "PITTSFORD MENDON": {
+        "IS-150": 5.0
+    },
+    "Pacific": {
+        "IS-152": 6.35
+    },
+    "Paideia": {
+        "IS-150": 17.1
+    },
+    "Paintsville": {
+        "BISB": 12.9012336989
+    },
+    "Palatine A": {
+        "IS-150": 12.04,
+        "SMART": 20.6147172309
+    },
+    "Palatine B": {
+        "IS-150": 10.81,
+        "SMART": 15.9975609698
+    },
+    "Palmetto": {
+        "IS-148": 3.64
+    },
+    "Palo Alto": {
+        "BISB": 19.6467546382,
+        "IS-150": 16.46
+    },
+    "Parkway Central": {
+        "IS-152": 10.68
+    },
+    "Parkway North": {
+        "IS-152": 16.17
+    },
+    "Parkway South": {
+        "IS-152": 11.91
+    },
+    "Patrick County": {
+        "IS-148": 9.86
+    },
+    "Patrick Henry": {
+        "IS-148": 7.25
+    },
+    "Paul G. Blazer A": {
+        "BISB": 20.0816233044
+    },
+    "Paul G. Blazer B": {
+        "BISB": 13.3664420395
+    },
+    "Paul Laurence Dunbar A": {
+        "BISB": 23.0650246194
+    },
+    "Paul Laurence Dunbar B": {
+        "BISB": 18.8781495536
+    },
+    "Peachtree Ridge": {
+        "IS-150": 22.27
+    },
+    "Pell City": {
+        "BASK": 9.76995401328
+    },
+    "Phillips Andover A": {
+        "HFT": 14.0433820631,
+        "LIMIT": 21.4805425934
+    },
+    "Phillips Andover B": {
+        "LIMIT": 16.0707042971
+    },
+    "Pick Up Squad": {
+        "IS-148": 7.03
+    },
+    "Pikesville": {
+        "Maryland_Fall": 13.8685192771
+    },
+    "Pilot Grove A": {
+        "BISB": 11.5359483513,
+        "CALI": 13.3255130302,
+        "IS-148": 6.78,
+        "IS-150": 11.3
+    },
+    "Pilot Grove B": {
+        "BISB": 6.47933595309,
+        "CALI": 8.62699840901,
+        "IS-148": 4.38,
+        "IS-150": 2.5
+    },
+    "Pine Garden Stream Woods": {
+        "BASK": 21.63518461,
+        "VTACO": 14.8999387834
+    },
+    "Pinecrest": {
+        "LIMIT": 11.4798853444
+    },
+    "Pingry A": {
+        "IS-148": 18.18
+    },
+    "Pingry B": {
+        "IS-148": 10.0
+    },
+    "Pioneer": {
+        "IS-150": 9.8
+    },
+    "Pittsford Mendon": {
+        "IS-150": 5.0
+    },
+    "Plainfield North A": {
+        "IS-150": 16.0
+    },
+    "Plainfield North B": {
+        "IS-150": 12.2
+    },
+    "Pleasant Hill A": {
+        "CALI": 9.82783581726
+    },
+    "Pleasant Hill B": {
+        "CALI": 12.0960842551
+    },
+    "Plymouth": {
+        "IS-152": 9.45
+    },
+    "Poplar Bluff A": {
+        "IS-150": 16.41
+    },
+    "Poplar Bluff B": {
+        "IS-150": 12.35
+    },
+    "Port Jefferson A": {
+        "BASK": 21.0870625444,
+        "IS-150": 18.97
+    },
+    "Port Jefferson B": {
+        "IS-150": 9.46
+    },
+    "Portland": {
+        "Northmont": 9.0039737828
+    },
+    "Potomac Falls A": {
+        "IS-150": 19.62
+    },
+    "Potomac Falls B": {
+        "IS-150": 15.79
+    },
+    "Prestige Worldwide": {
+        "BASK": 10.876945636
+    },
+    "Preston": {
+        "BASK": 10.5222784171
+    },
+    "Providence A": {
+        "IS-150": 16.45
+    },
+    "Providence B": {
+        "IS-150": 11.11
+    },
+    "Quince Orchard": {
+        "Maryland_Fall": 23.3199772305
+    },
+    "Quincy A": {
+        "IS-152": 8.6
+    },
+    "Quincy B": {
+        "IS-152": 8.26
+    },
+    "RB A": {
+        "IS-150": 22.56
+    },
+    "RB B": {
+        "IS-150": 11.64
+    },
+    "RB C": {
+        "IS-150": 7.73
+    },
+    "RB D": {
+        "IS-150": 10.56
+    },
+    "Raceland-Worthington": {
+        "BISB": 14.883425759
+    },
+    "Raleigh Charter A": {
+        "IS-148": 19.95
+    },
+    "Raleigh Charter B": {
+        "IS-148": 15.11
+    },
+    "Raleigh Charter C": {
+        "IS-148": 10.95
+    },
+    "Ramsay": {
+        "BASK": 12.2311295628
+    },
+    "Rancho Bernardo": {
+        "BASK": 18.1315023867,
+        "IS-148": 19.43
+    },
+    "Rancho Bernardo A": {
+        "SSNCT": 23.5064193998
+    },
+    "Rancho Bernardo B": {
+        "SSNCT": 15.168102991
+    },
+    "Rappahannock A": {
+        "IS-148": 8.13
+    },
+    "Rappahannock B": {
+        "IS-148": 3.0
+    },
+    "Renaissance A": {
+        "IS-150": 10.19
+    },
+    "Renaissance B": {
+        "IS-150": 9.68
+    },
+    "Renaissance C": {
+        "IS-150": 7.7
+    },
+    "Richard Montgomery": {
+        "ACF_Fall": 21.3089545186,
+        "IS-152": 22.44
+    },
+    "Richard Montgomery A": {
+        "BASK": 23.6127230428,
+        "GSAC": 25.1071285085
+    },
+    "Richard Montgomery B": {
+        "BASK": 21.4202347804,
+        "GSAC": 23.3340577792
+    },
+    "Richard Montgomery C": {
+        "BASK": 18.873079299
+    },
+    "Richmond Burton": {
+        "IS-150": 10.22
+    },
+    "Richmond Sr. A": {
+        "IS-148": 12.92
+    },
+    "Richmond Sr. B": {
+        "IS-148": 11.05
+    },
+    "Ridgewood A": {
+        "HFT": 15.151014653
+    },
+    "Ridgewood B": {
+        "HFT": 11.7193315398
+    },
+    "River Ridge": {
+        "IS-148": 17.74
+    },
+    "Riverside A": {
+        "IS-148": 17.23
+    },
+    "Riverside B": {
+        "IS-148": 8.82
+    },
+    "Robinson A": {
+        "IS-150": 13.48
+    },
+    "Robinson B": {
+        "IS-150": 10.42
+    },
+    "Rochester Scholars": {
+        "IS-148": 12.9
+    },
+    "Rock Bridge": {
+        "BISB": 20.6378506682
+    },
+    "Rock Bridge A": {
+        "CALI": 22.8369077399,
+        "IS-150": 18.61
+    },
+    "Rock Bridge B": {
+        "CALI": 12.8299293379,
+        "IS-150": 11.2
+    },
+    "Rock Bridge C": {
+        "IS-150": 8.7
+    },
+    "Rock Hill A": {
+        "IS-148": 11.11
+    },
+    "Rock Hill B": {
+        "IS-148": 6.0
+    },
+    "Rock Island": {
+        "HFT": 4.68784250971
+    },
+    "Rockbridge A": {
+        "IS-148": 12.33
+    },
+    "Rockbridge B": {
+        "IS-148": 11.97
+    },
+    "Rolla ": {
+        "IS-152": 13.17
+    },
+    "Rolling Meadows": {
+        "BISB": 12.3247798855
+    },
+    "Russell": {
+        "IS-150": 20.71
+    },
+    "Russell A": {
+        "Northmont": 20.0982942255
+    },
+    "Russell B": {
+        "Northmont": 13.180312302
+    },
+    "Russell C": {
+        "Northmont": 13.2589257329
+    },
+    "Rustburg A": {
+        "IS-148": 9.75
+    },
+    "Rustburg B": {
+        "IS-148": 4.81
+    },
+    "Rutland": {
+        "IS-150": 13.64,
+        "LIMIT": 8.75341305566
+    },
+    "SOUTHERN CAYUGA A": {
+        "IS-150": 13.78
+    },
+    "SOUTHERN CAYUGA B": {
+        "IS-150": 11.37
+    },
+    "SR A": {
+        "IS-150": 14.35
+    },
+    "SR B": {
+        "IS-150": 16.12
+    },
+    "Saint Joseph (IN)": {
+        "ACF_Fall": 14.7889332441
+    },
+    "Salem A": {
+        "LIMIT": 8.77496619629
+    },
+    "Salem B": {
+        "LIMIT": 6.02694076688
+    },
+    "Sandburg": {
+        "SMART": 17.3815147845
+    },
+    "Sandburg A": {
+        "IS-150": 14.06
+    },
+    "Sandburg B": {
+        "IS-150": 12.84
+    },
+    "Sandburg C": {
+        "IS-150": 8.75
+    },
+    "Saratoga A": {
+        "BISB": 19.0601876,
+        "IS-150": 18.74
+    },
+    "Sarcoxie A": {
+        "IS-148": 8.24
+    },
+    "Sarcoxie B": {
+        "IS-148": 9.13
+    },
+    "Savannah (Mo)": {
+        "IS-150": 16.67
+    },
+    "Saxony Lutheran A": {
+        "IS-148": 11.13
+    },
+    "Saxony Lutheran B": {
+        "IS-148": 8.33
+    },
+    "Senaca": {
+        "IS-148": 14.17
+    },
+    "Seneca (SC)": {
+        "IS-150": 13.2
+    },
+    "Shady Side": {
+        "IS-150": 14.91
+    },
+    "Sidney": {
+        "CALI": 25.6579226037,
+        "IS-150": 22.76
+    },
+    "Silex A": {
+        "IS-152": 3.7
+    },
+    "Silex B": {
+        "IS-152": 5.17
+    },
+    "Skyline": {
+        "IS-152": 13.38
+    },
+    "Smiths Station": {
+        "IS-150": 13.89
+    },
+    "Smithtown West A": {
+        "BASK": 15.5735994139,
+        "IS-150": 16.28
+    },
+    "Smithtown West B": {
+        "BASK": 7.71718314011,
+        "IS-150": 9.57
+    },
+    "Smithville A": {
+        "CALI": 13.0681907284
+    },
+    "Smithville B": {
+        "CALI": 7.49287419011
+    },
+    "Solo N": {
+        "BISB": 18.2511296162
+    },
+    "Solon A": {
+        "CALI": 27.2018564143,
+        "IS-150": 24.17
+    },
+    "Solon B": {
+        "CALI": 20.9594079826,
+        "IS-150": 14.21
+    },
+    "Solon C": {
+        "IS-150": 8.46
+    },
+    "South Caldwell": {
+        "IS-148": 5.88
+    },
+    "South Gibson": {
+        "BISB": 13.1136114196
+    },
+    "South Range": {
+        "LIMIT": 10.876397407
+    },
+    "South Side A": {
+        "IS-150": 13.25
+    },
+    "South Side B": {
+        "IS-150": 6.3
+    },
+    "Southern Cayuga A": {
+        "IS-150": 13.78
+    },
+    "Southern Cayuga B": {
+        "IS-150": 11.37
+    },
+    "Southwest": {
+        "IS-148": 11.03
+    },
+    "Spain Park A": {
+        "BASK": 21.8286394567,
+        "Maryland_Fall": 20.3492578545
+    },
+    "Spain Park B": {
+        "BASK": 13.4670910833,
+        "Maryland_Fall": 14.4443818023
+    },
+    "Sparta": {
+        "IS-148": 7.43
+    },
+    "Spartenburg A": {
+        "IS-148": 14.26
+    },
+    "Spartenburg B": {
+        "IS-148": 14.08
+    },
+    "Specters of Europe": {
+        "SMART": 23.2394572243
+    },
+    "Springfield": {
+        "BISB": 17.5128642061
+    },
+    "Springfield A": {
+        "SMART": 21.72426641
+    },
+    "Springfield B": {
+        "SMART": 14.7448441547
+    },
+    "Springville": {
+        "BASK": 11.0918954656
+    },
+    "Springwood": {
+        "BASK": 16.4441462239
+    },
+    "St Pius A": {
+        "LIMIT": 16.5233202502
+    },
+    "St. Anne": {
+        "IS-150": 7.59
+    },
+    "St. Anselm's Abbey": {
+        "Maryland_Fall": 20.2030070544
+    },
+    "St. Augustine": {
+        "CALI": 12.2581020006
+    },
+    "St. Charles A": {
+        "IS-150": 21.02,
+        "VTACO": 13.2369899827
+    },
+    "St. Charles B": {
+        "IS-150": 15.05,
+        "VTACO": 8.27453959347
+    },
+    "St. Charles C": {
+        "IS-150": 12.8
+    },
+    "St. Charles East A": {
+        "IS-150": 16.07
+    },
+    "St. Charles East B": {
+        "IS-150": 8.64
+    },
+    "St. Clair": {
+        "IS-152": 10.27
+    },
+    "St. Ignatius": {
+        "IS-150": 20.98
+    },
+    "St. James": {
+        "IS-152": 7.05
+    },
+    "St. John Paul II": {
+        "LIMIT": 12.9239457662
+    },
+    "St. John's": {
+        "HFT": 18.7705997233
+    },
+    "St. John's A": {
+        "BISB": 23.6515916576
+    },
+    "St. John's B": {
+        "BISB": 15.8239556651
+    },
+    "St. Joseph A": {
+        "BASK": 18.2067348271,
+        "IS-148": 19.79,
+        "IS-150": 19.23
+    },
+    "St. Joseph B": {
+        "IS-148": 16.33,
+        "IS-150": 14.66
+    },
+    "St. Mary's": {
+        "IS-152": 7.25
+    },
+    "St. Monica": {
+        "IS-148": 16.06
+    },
+    "St. Paul Central": {
+        "IS-148": 13.27
+    },
+    "St. Paul Lutheran": {
+        "IS-152": 4.58
+    },
+    "St. Pius B": {
+        "LIMIT": 15.305567805
+    },
+    "St. Pius X": {
+        "IS-150": 12.21
+    },
+    "St. Pius X A": {
+        "CALI": 15.7462487579
+    },
+    "St. Pius X B": {
+        "CALI": 10.2852976871
+    },
+    "St. Teresa": {
+        "SMART": 18.4433414182
+    },
+    "St. Thomas A": {
+        "BISB": 23.1155907434
+    },
+    "St. Thomas B": {
+        "BISB": 17.7859212756
+    },
+    "St. Thomas C": {
+        "BISB": 12.1629682887
+    },
+    "St. Thomas D": {
+        "BISB": 11.7382128473
+    },
+    "St. Viator": {
+        "IS-150": 19.46,
+        "SMART": 22.2372837723
+    },
+    "State College A": {
+        "IS-148": 22.98,
+        "IS-150": 20.84
+    },
+    "State College B": {
+        "IS-148": 16.7,
+        "IS-150": 13.33
+    },
+    "Stevenson": {
+        "VTACO": 20.4079067686
+    },
+    "Stevenson A": {
+        "BASK": 24.1930875829,
+        "IS-150": 21.86,
+        "Missouri_Open": 15.2041896705
+    },
+    "Stevenson B": {
+        "BASK": 15.4983669735,
+        "IS-150": 21.07,
+        "SMART": 23.1678734063
+    },
+    "Stevenson C": {
+        "BASK": 21.2697698996,
+        "IS-150": 15.42,
+        "SMART": 15.3413759714
+    },
+    "Stevenson D": {
+        "SMART": 10.3185780749
+    },
+    "Stillman Valley": {
+        "SMART": 12.5973296147
+    },
+    "Stonewold": {
+        "BASK": 2.59062970293
+    },
+    "Strafford": {
+        "IS-148": 9.27
+    },
+    "Stuyvesant": {
+        "IS-150": 15.28
+    },
+    "Sylacauga": {
+        "BASK": 10.8124606871
+    },
+    "TCC A": {
+        "IS-152": 17.5
+    },
+    "TCC B": {
+        "IS-152": 8.14
+    },
+    "TP A": {
+        "IS-150": 23.47
+    },
+    "TP B": {
+        "IS-150": 19.56
+    },
+    "TP C": {
+        "IS-150": 13.4
+    },
+    "Team USA": {
+        "IS-152": 0.0
+    },
+    "Tenafly MS": {
+        "IS-152": 10.83
+    },
+    "The Wikipedia Appreciation Society": {
+        "GSAC": 18.9360499367
+    },
+    "Thomas Jefferson A": {
+        "ACF_Fall": 20.6402343879,
+        "IS-148": 12.97,
+        "Maryland_Fall": 24.0786532558
+    },
+    "Thomas Jefferson B": {
+        "ACF_Fall": 14.7109158955,
+        "IS-148": 4.79,
+        "Maryland_Fall": 22.0220013801
+    },
+    "Thomas Jefferson C": {
+        "Maryland_Fall": 17.1134589033
+    },
+    "Thomas Jefferson HSST A": {
+        "IS-152": 21.72
+    },
+    "Thomas Jefferson HSST B": {
+        "IS-152": 18.56
+    },
+    "Thomas Jefferson Science & Tech A": {
+        "IS-148": 22.67
+    },
+    "Thomas Jefferson Science & Tech B": {
+        "IS-148": 22.56
+    },
+    "Thomas Jefferson Science & Tech C": {
+        "IS-148": 15.63
+    },
+    "Timothy Christian": {
+        "IS-150": 15.77
+    },
+    "Tippecanoe": {
+        "IS-150": 17.93
+    },
+    "Tippecanoe A": {
+        "VTACO": 14.6359786563
+    },
+    "Tippecanoe B": {
+        "VTACO": 7.50025655402
+    },
+    "Toledo Christian": {
+        "IS-152": 5.28
+    },
+    "Tolton": {
+        "CALI": 10.4568458882,
+        "IS-148": 6.88
+    },
+    "Torrey Pines": {
+        "CALI": 24.5142679292,
+        "IS-148": 21.23
+    },
+    "Torrey Pines A": {
+        "BASK": 22.8389036561
+    },
+    "Torrey Pines B": {
+        "BASK": 15.8960241583
+    },
+    "Trinity A": {
+        "Northmont": 15.6861154135
+    },
+    "Trinity B": {
+        "Northmont": 7.47101187929
+    },
+    "Troy A": {
+        "IS-152": 16.49
+    },
+    "Troy B": {
+        "IS-152": 13.86
+    },
+    "Troy Buchanan A": {
+        "IS-152": 7.69
+    },
+    "Troy Buchanan B": {
+        "IS-152": 4.64
+    },
+    "Troy C": {
+        "IS-152": 10.61
+    },
+    "Truman": {
+        "CALI": 10.4949677107
+    },
+    "Turk's Head A": {
+        "BASK": 19.1202716031
+    },
+    "Turk's Head B": {
+        "BASK": 13.0264439325
+    },
+    "Tuscumbia": {
+        "BISB": 12.6787427534,
+        "CALI": 15.0981777757,
+        "IS-148": 10.81,
+        "IS-150": 9.38
+    },
+    "U of D A": {
+        "IS-152": 10.29
+    },
+    "U of D B": {
+        "IS-152": 16.27
+    },
+    "UAIS A": {
+        "IS-152": 17.83
+    },
+    "UAIS B": {
+        "IS-152": 12.45
+    },
+    "UC Lab": {
+        "BISB": 18.9186024528
+    },
+    "UChicago Lab A": {
+        "BASK": 21.8071444737
+    },
+    "University": {
+        "BISB": 19.7175472117
+    },
+    "University City": {
+        "CALI": 12.6869725036
+    },
+    "University School of Nashville": {
+        "CALI": 19.6060832844,
+        "Northmont": 17.4843976464
+    },
+    "University of Chicago Lab A": {
+        "IS-150": 18.43,
+        "Missouri_Open": 14.3557063152
+    },
+    "University of Chicago Lab B": {
+        "IS-150": 13.4
+    },
+    "VA Episcopal": {
+        "IS-150": 16.47
+    },
+    "VSS A": {
+        "IS-150": 13.04
+    },
+    "VSS B": {
+        "IS-150": 11.9
+    },
+    "Valle Catholic": {
+        "IS-152": 8.42
+    },
+    "Valley Christian A": {
+        "BISB": 19.2219991967,
+        "IS-150": 19.47
+    },
+    "Valley Christian B": {
+        "IS-150": 12.59
+    },
+    "Van Wert": {
+        "VTACO": 9.05762130383
+    },
+    "Vestavia A": {
+        "BASK": 10.0386413003,
+        "Maryland_Fall": 11.6381945763
+    },
+    "Vestavia B": {
+        "BASK": 13.1231713558,
+        "Maryland_Fall": 13.9142226521
+    },
+    "Vestavia C": {
+        "Maryland_Fall": 7.08613842461
+    },
+    "Virginia Episcopal ": {
+        "IS-148": 11.08
+    },
+    "WALLENPAUPACK": {
+        "IS-150": 15.31
+    },
+    "WHITNEY POINT A": {
+        "IS-150": 10.45
+    },
+    "WHITNEY POINT B": {
+        "IS-150": 9.26
+    },
+    "WV A": {
+        "IS-150": 22.02
+    },
+    "WV B": {
+        "IS-150": 15.87
+    },
+    "WV C": {
+        "IS-150": 12.96
+    },
+    "WWS A": {
+        "IS-150": 22.39
+    },
+    "WWS B": {
+        "BASK": 13.9077382341,
+        "IS-150": 13.52
+    },
+    "WYOMING AREA A": {
+        "IS-150": 13.38
+    },
+    "WYOMING AREA B": {
+        "IS-150": 12.69
+    },
+    "Wade Hampton A": {
+        "IS-148": 18.6
+    },
+    "Wade Hampton B": {
+        "IS-148": 14.08
+    },
+    "Walled Lake Central": {
+        "IS-152": 10.22
+    },
+    "Wallenpaupack": {
+        "IS-150": 15.31
+    },
+    "Wallenpaupeck": {
+        "IS-148": 9.67
+    },
+    "Walnut Grove": {
+        "IS-148": 11.52
+    },
+    "Walnut Hill": {
+        "HFT": 8.48543996056
+    },
+    "Walter Johnson": {
+        "IS-150": 19.16,
+        "Maryland_Fall": 18.6308109538
+    },
+    "Warrenton": {
+        "CALI": 8.06470152737
+    },
+    "Warwick": {
+        "BASK": 12.1666446139
+    },
+    "Washington": {
+        "IS-150": 15.65
+    },
+    "Washington A": {
+        "CALI": 20.9784688938,
+        "IS-148": 17.88,
+        "IS-150": 18.25
+    },
+    "Washington B": {
+        "CALI": 18.3480631424,
+        "IS-148": 15.46,
+        "IS-150": 15.95
+    },
+    "Washington C": {
+        "IS-148": 9.84,
+        "IS-150": 10.43
+    },
+    "Waubonsie Valley": {
+        "HFT": 18.3354583487,
+        "IS-150": 17.23
+    },
+    "Waverly A": {
+        "SMART": 15.1504857901
+    },
+    "Waverly B": {
+        "SMART": 11.0463468913
+    },
+    "Wayzata A": {
+        "IS-148": 21.25
+    },
+    "Wayzata B": {
+        "IS-148": 19.39
+    },
+    "Wayzata C": {
+        "IS-148": 17.87
+    },
+    "Wayzata D": {
+        "IS-148": 14.75
+    },
+    "Wayzata E": {
+        "IS-148": 13.74
+    },
+    "Wayzata F": {
+        "IS-148": 13.11
+    },
+    "Wayzata G": {
+        "IS-148": 11.2
+    },
+    "Weaubleau": {
+        "CALI": 9.98985356281
+    },
+    "Webster Groves": {
+        "CALI": 15.6223528348,
+        "IS-152": 12.53
+    },
+    "Wellsville": {
+        "SMART": 5.97582644946
+    },
+    "Wellsville-Middletown": {
+        "BISB": 12.2944402111,
+        "CALI": 14.059358113,
+        "IS-148": 11.32,
+        "IS-152": 9.57
+    },
+    "Wentzville Holt": {
+        "IS-152": 16.1
+    },
+    "Wesleyan": {
+        "LIMIT": 13.6890822583
+    },
+    "West Chester East A": {
+        "IS-150": 18.53
+    },
+    "West Chester East B": {
+        "IS-150": 14.54
+    },
+    "West Chester East C": {
+        "IS-150": 12.23
+    },
+    "West Chester East D": {
+        "IS-150": 11.3
+    },
+    "West Point": {
+        "BASK": 17.7875826593
+    },
+    "West Point A": {
+        "Maryland_Fall": 17.1957249783
+    },
+    "West Point B": {
+        "Maryland_Fall": 9.38958852546
+    },
+    "West Point JV A": {
+        "Maryland_Fall": 11.8301487513
+    },
+    "West Point JV B": {
+        "Maryland_Fall": 7.29637394969
+    },
+    "Western Albemarle": {
+        "GSAC": 14.6965288633
+    },
+    "Western Albemarle A": {
+        "IS-150": 14.45
+    },
+    "Western Albemarle B": {
+        "IS-150": 9.52
+    },
+    "Westinghouse": {
+        "IS-150": 6.25
+    },
+    "Westlake A": {
+        "LIMIT": 19.6916319217
+    },
+    "Westlake B": {
+        "LIMIT": 16.5233202502
+    },
+    "Westlake C": {
+        "LIMIT": 9.37845413372
+    },
+    "Westview A": {
+        "CALI": 24.0758669706,
+        "IS-148": 22.04,
+        "SSNCT": 20.4493752597
+    },
+    "Westview B": {
+        "CALI": 12.8394597935,
+        "IS-148": 15.0,
+        "SSNCT": 10.4454268276
+    },
+    "Westview C": {
+        "SSNCT": 13.3399702826
+    },
+    "Wheatley A": {
+        "IS-150": 13.01
+    },
+    "Wheatley B": {
+        "IS-150": 7.98
+    },
+    "Wheaton Academy A": {
+        "IS-150": 12.46,
+        "SMART": 16.2600349691
+    },
+    "Wheaton Academy B": {
+        "IS-150": 10.58,
+        "SMART": 12.9552487047
+    },
+    "Wheaton Warrenville South A": {
+        "BASK": 22.5594688775,
+        "HFT": 20.0958030004,
+        "SMART": 22.2730756813
+    },
+    "Wheaton Warrenville South B": {
+        "HFT": 12.006129264,
+        "SMART": 16.0333528788
+    },
+    "Wheaton Warrenville South C": {
+        "HFT": 8.79201683811
+    },
+    "White Station A": {
+        "BISB": 20.9614738617
+    },
+    "White Station B": {
+        "BISB": 14.1047074497
+    },
+    "Whitney Point A": {
+        "IS-150": 10.45
+    },
+    "Whitney Point B": {
+        "IS-150": 9.26
+    },
+    "William Chrisman": {
+        "CALI": 12.5154243024
+    },
+    "Willow Tree": {
+        "HFT": 22.5681971742
+    },
+    "Wilmington Charter A": {
+        "ACF_Fall": 21.6321692484,
+        "CALI": 27.0207777575,
+        "HFT": 23.3593633098,
+        "IS-148": 22.31,
+        "Maryland_Fall": 23.2102891305
+    },
+    "Wilmington Charter B": {
+        "ACF_Fall": 9.96300296739,
+        "BASK": 20.3239906491,
+        "CALI": 18.4243067874,
+        "HFT": 18.1277772381,
+        "IS-148": 14.52
+    },
+    "Wilmington Charter C": {
+        "CALI": 13.2492693852,
+        "HFT": 16.5553345436,
+        "IS-148": 16.08
+    },
+    "Wilmington Charter D": {
+        "BASK": 16.1754589369,
+        "IS-148": 11.46
+    },
+    "Wilmington Charter F": {
+        "BASK": 14.4558602997
+    },
+    "Wilmington Charter G": {
+        "BASK": 8.9531446606
+    },
+    "Winchester Thurston A ": {
+        "IS-150": 19.1
+    },
+    "Winchester Thurston B": {
+        "IS-150": 12.5
+    },
+    "Winnebago": {
+        "IS-150": 1.43
+    },
+    "Wissahickon A": {
+        "CALI": 16.8041293318
+    },
+    "Woodford County A": {
+        "BASK": 22.4519939627,
+        "BISB": 22.8627601234
+    },
+    "Woodford County B": {
+        "BASK": 11.5325426164,
+        "BISB": 15.4902192468
+    },
+    "Woodford County C": {
+        "BISB": 15.0250109061
+    },
+    "Woodrow Wilson": {
+        "IS-148": 6.94
+    },
+    "Wyoming Area A": {
+        "IS-148": 11.19,
+        "IS-150": 13.38
+    },
+    "Wyoming Area B": {
+        "IS-150": 12.69
+    },
+    "Yough": {
+        "IS-150": 10.95
+    },
+    "Zion-Benton": {
+        "IS-150": 12.96
+    },
+    "duPont Manual": {
+        "Northmont": 20.3144811606
+    }
+}

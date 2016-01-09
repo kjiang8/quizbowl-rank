@@ -121,7 +121,7 @@ def getStats(ID,setName,reportName): #gets team stats
 		#setName = raw_input("what set is this: ")
 		#setName = "IS-148" #laziness is real
 
-		f = open('stats','a') #.txt file with everything
+		f = open('stats.txt','a') #.txt file with everything
 		g = open('ID','a') #.txt file with tournament IDs
 
 		isset = False #flag to see if IS-set
@@ -248,7 +248,7 @@ def adjust(housewrite): #adjusts ppb for housewrites
 	#stdev, mean = getNAQT()
 	print(mean, stdev)
 
-	with open('stats') as f:
+	with open('stats.txt') as f:
 		content = f.read().splitlines()
 
 	content = map(lambda x: x.split(','), content)
@@ -270,7 +270,7 @@ def adjust(housewrite): #adjusts ppb for housewrites
 	#print("avg ppb " + str(housewrite) + ":",np.mean(c))
 	z = stats.zscore(c) #finds z-scores		
 
-	f = open('appb','a') #.txt file with everything
+	f = open('appb.txt','a') #.txt file with everything
 
 	for i in range(len(b)):
 		b[i].append(z[i]) #adds z-score to content
@@ -291,10 +291,10 @@ def makeDict(): #makes json, writes to dict.txt file, ranks teams
 		oldDict = {}
 		print('no json')
 
-	with open('appb')as f:
+	with open('appb.txt')as f:
 		content = f.read().splitlines()
 
-	content = map(lambda x: x.split(','), content)
+	content = list(map(lambda x: x.split(','), content))
 
 	for i in range(len(content)):
 		content[i][2] = float(content[i][2]) #append float ppb
@@ -303,7 +303,7 @@ def makeDict(): #makes json, writes to dict.txt file, ranks teams
 		else: #making new key for team
 			oldDict[content[i][0]] = {content[i][1].strip(): content[i][2]}
 
-	json.dump(oldDict, open('dict.txt','w'))
+	json.dump(oldDict, open('dict.txt','w'), sort_keys=True, indent=4)
 	#print(oldDict)
 	rankinglist(oldDict)
 
@@ -337,13 +337,13 @@ def rankinglist(d=None,x=25): #takes top 3 appb of each team, averages, prints s
 		print(i+1,sort[i][0],round(sort[i][1],2))
 
 def alphabetize(): #prints alphabetized list of team names to look over
-	with open('stats') as f:
+	with open('stats.txt') as f:
 		content = f.read().splitlines()
 
-	content = map(lambda x: x.split(','), content)
+	content = list(map(lambda x: x.split(','), content))
 	sorted_content = sorted(content)
 
-	g = open('names','a')
+	g = open('names.txt','a')
 	
 	for i in range(len(content)):
 		print(sorted_content[i][0])
@@ -351,7 +351,7 @@ def alphabetize(): #prints alphabetized list of team names to look over
 
 def both():
 	
-	with open('stats')as f:
+	with open('stats.txt')as f:
 		content = f.read().splitlines()
 
 	content = map(lambda x: x.split(','), content)
@@ -400,7 +400,7 @@ def both():
 
 def getNAQT(): #gets stdev, mean from all naqt stats
 
-	with open('stats')as f:
+	with open('stats.txt')as f:
 		content = f.read().splitlines()
 
 	content = map(lambda x: x.split(','), content)
@@ -421,7 +421,7 @@ def getNAQT(): #gets stdev, mean from all naqt stats
 	return(stdev, mean)
 
 def copyNAQT(): #copies over IS-sets from stats to appb
-	with open('stats')as f:
+	with open('stats.txt')as f:
 		content = f.read().splitlines()
 
 	content = map(lambda x: x.split(','), content)
@@ -494,7 +494,7 @@ def naqtrank(): #playing around with just naqt is-set ppbs
 		print(i+1,sort[i][0], sort[i][2])
 
 def morlan(x): #does adjustments the morlan way
-	with open('stats') as f:
+	with open('stats.txt') as f:
 		content = f.read().splitlines()
 
 	content = map(lambda x: x.split(','), content)
@@ -665,7 +665,7 @@ def autoget(): #loops through txt file with ID,set,report_name
 
 def gethwnames():
 
-	with open('stats')as f:
+	with open('stats.txt')as f:
 		content = f.read().splitlines()
 
 	content = map(lambda x: x.split(','), content)
